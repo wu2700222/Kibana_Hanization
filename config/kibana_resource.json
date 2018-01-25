@@ -3096,8 +3096,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "when=\"{\\'1\\':\\'hit\\', \\'other\\':\\'hits\\'}\"",
+    "cn": "when=\"{\\'1\\':\\'命中\\', \\'other\\':\\'命中\\'}\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
