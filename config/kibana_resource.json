@@ -3036,8 +3036,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "round to the {{units[relative.from.unit.substring(0,1)]}}\\n",
+    "cn": "一整{{units[relative.from.unit.substring(0,1)]}}\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
