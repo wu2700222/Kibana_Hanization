@@ -234,4 +234,4 @@ $RECYCLE.BIN/
 *.lnk
 
 /test*
-/threadTest3.py
+.gitignore
