@@ -3091,8 +3091,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n      Visualize\\n",
+    "cn": "\\n      可视化视图\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
