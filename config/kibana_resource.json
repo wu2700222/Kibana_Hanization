@@ -3061,8 +3061,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "<strong>From</strong> must occur before <strong>To</strong>\\n",
+    "cn": "<strong>起始时间</strong>必须在<strong>结束时间</strong>之前\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
