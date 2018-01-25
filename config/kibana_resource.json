@@ -3056,8 +3056,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n      Go\\n    </button>",
+    "cn": "\\n      查询\\n    </button>"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
