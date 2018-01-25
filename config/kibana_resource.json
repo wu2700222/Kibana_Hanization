@@ -3016,11 +3016,6 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "Set To Now\\n",
-    "cn": "设置为当前时间\\n"
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
     "en": "\\n            Quick\\n",
     "cn": "\\n            快速时间\\n"
   },
