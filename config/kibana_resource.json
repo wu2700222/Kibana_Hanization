@@ -3066,18 +3066,18 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ">Type</label>\\n",
+    "cn": ">类型</label>\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ">Format <small>(Default: <i>",
+    "cn": ">格式 <small>(默认: <i>"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ">Popularity</label>\\n",
+    "cn": ">权重</label>\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
