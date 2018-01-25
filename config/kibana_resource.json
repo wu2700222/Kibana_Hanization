@@ -3081,13 +3081,13 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ">Dashboard</a>\\n",
+    "cn": ">仪表盘</a>\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n    Visualize\\n",
+    "cn": "\\n    可视化视图\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
