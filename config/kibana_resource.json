@@ -2976,8 +2976,8 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"name\"}",
+    "cn": "{title:\"名称\"}"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
