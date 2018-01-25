@@ -3011,28 +3011,28 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "tooltip=\"This field represents the time that events occurred.\"",
+    "cn": "tooltip=\"此字段表示事件发生的时间。\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "Set To Now\\n",
+    "cn": "设置为当前时间\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n            Quick\\n",
+    "cn": "\\n            快速时间\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n            Relative\\n",
+    "cn": "\\n            相对时间\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n            Absolute\\n",
+    "cn": "\\n            绝对时间\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
