@@ -1,9 +1,9 @@
 ## Kibana资源汉化项目
 
 ---
-**注意：此项目适用于Kibana 5.x-6.x的任意版本，汉化前请注意备份！**
+**注意：此项目适用于Kibana 5.x-6.x的任意版本，汉化过程不可逆，汉化前请注意备份！**
 
-意见反馈：redfree@anbai.com
+意见反馈：redfree@anbai.com  Windows请自行安装Python2.7
 
 ###使用方法：
 ```
