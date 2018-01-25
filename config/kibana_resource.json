@@ -1,0 +1,3207 @@
+[
+  {
+    "path": "src/core_plugins/kibana/index.js",
+    "en": "title: 'Discover'",
+    "cn": "title: '发现'"
+  },
+  {
+    "path": "src/core_plugins/kibana/index.js",
+    "en": "title: 'Visualize'",
+    "cn": "title: '可视化'"
+  },
+  {
+    "path": "src/core_plugins/kibana/index.js",
+    "en": "title: 'Dashboard'",
+    "cn": "title: '仪表盘'"
+  },
+  {
+    "path": "src/core_plugins/kibana/index.js",
+    "en": "title: 'Dev Tools'",
+    "cn": "title: '开发工具'"
+  },
+  {
+    "path": "src/core_plugins/kibana/index.js",
+    "en": "title: 'Management'",
+    "cn": "title: '管理'"
+  },
+  {
+    "path": "src/core_plugins/timelion/index.js",
+    "en": "title: 'Timelion'",
+    "cn": "title: '时间线'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Selected Fields",
+    "cn": "已选字段"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Available Fields",
+    "cn": "可选字段"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Aggregatable\\n",
+    "cn": "可聚合\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Searchable\\n",
+    "cn": "可查询\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Type\\n",
+    "cn": "类型\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Field name\\n",
+    "cn": "字段名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Hide Missing Fields\\n",
+    "cn": "隐藏缺少的字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Reset Filters",
+    "cn": "重启所有筛选器"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add a filter",
+    "cn": "添加筛选器"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Search... (e.g. status:200 AND extension:PHP)",
+    "cn": "查询... (例如：status:200 AND extension:PHP)"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Uses lucene query syntax\\n",
+    "cn": "使用Lucene查询语法\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Last 15 minutes",
+    "cn": "最近15分钟"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"new\",description:\"New Search\"",
+    "cn": "key:\"新建\",description:\"New Search\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"save\",description:\"Save Search\"",
+    "cn": "key:\"保存\",description:\"Save Search\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"open\",description:\"Open Saved Search\"",
+    "cn": "key:\"打开\",description:\"Open Saved Search\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"share\",description:\"Share Search\"",
+    "cn": "key:\"分享\",description:\"Share Search\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span ng-show=\"filterEditor.filter.meta.isNew\">Add</span>",
+    "cn": "<span ng-show=\"filterEditor.filter.meta.isNew\">添加</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "filterEditor.filter.meta.isNew\">Edit</span>\\n      filter\\n",
+    "cn": "filterEditor.filter.meta.isNew\">编辑</span>\\n筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiLabel\">\\n          Filter\\n",
+    "cn": "<label class=\"kuiLabel\">\\n          筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Fields...\">",
+    "cn": "placeholder=\"字段...\">"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Edit Query DSL\\n",
+    "cn": "编辑QueryDSL查询语句\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Search filter values\\n",
+    "cn": "使用查询筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "for=\"filterEditorLabelInput\"\\n        >\\n          Label\\n",
+    "cn": "for=\"filterEditorLabelInput\"\\n        >\\n          标签\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Optional\"",
+    "cn": "placeholder=\"选填\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "ng-click=\"filterEditor.onCancel()\"\\n      >\\n        Cancel\\n      </button>",
+    "cn": "ng-click=\"filterEditor.onCancel()\"\\n      >\\n        取消\\n      </button>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "ng-click=\"filterEditor.save()\"\\n      >\\n        Save\\n      </button>",
+    "cn": "ng-click=\"filterEditor.save()\"\\n      >\\n        保存\\n      </button>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h2>Searching</h2>",
+    "cn": "<h2>查询</h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Operators...\">\\n",
+    "cn": "placeholder=\"条件...\">\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Value...\"\\n",
+    "cn": "placeholder=\"值...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Filters are built using the",
+    "cn": "筛选器使用的查询语法是"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<div class=\"kuiLocalDropdownTitle\">Save Search</div>",
+    "cn": "<div class=\"kuiLocalDropdownTitle\">保存查询</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"New Saved Search\",description",
+    "cn": "title:\"新建查询\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "class=\"kuiButton kuiButton--primary\"\\n  >\\n    Save\\n",
+    "cn": "class=\"kuiButton kuiButton--primary\"\\n  >\\n    保存\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<div class=\"kuiLocalDropdownTitle\">Open Search</div>",
+    "cn": "<div class=\"kuiLocalDropdownTitle\">打开已保存的查询</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Reload Saved Search\"",
+    "cn": "tooltip=\"重新载入此查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "nouns:\"saved searches\"",
+    "cn": "nouns:\"已保存的查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "ng-attr-placeholder=\"{{ finder.properties.nouns | label }} Filter...\"\\n",
+    "cn": "ng-attr-placeholder=\"{{ finder.properties.nouns | label }}过滤条件...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"paginate-heading\">\\n        Name\\n",
+    "cn": "<span class=\"paginate-heading\">\\n        名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "ng-click=\"finder.manageObjects(finder.properties.name)\"\\n        >\\n          Manage {{ finder.properties.nouns }}\\n",
+    "cn": "ng-click=\"finder.manageObjects(finder.properties.name)\"\\n        >\\n          管理{{ finder.properties.nouns }}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "class=\"kuiLocalDropdownTitle\"\\n    >\\n      Share saved {{share.objectType}}\\n",
+    "cn": "class=\"kuiLocalDropdownTitle\"\\n    >\\n      分享已保存的查询\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You can share this URL with people to let them load the most recent saved version of this {{share.objectType}}.\\n",
+    "cn": "您可以通过分享下面的链接地址，让其它用户加载此查询最近保存的版本。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Link\\n",
+    "cn": "链接\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Copy\\n",
+    "cn": "复制\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Share Snapshot\\n",
+    "cn": "分享快照\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Short URL\\n",
+    "cn": "短链接\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Long URL\\n",
+    "cn": "长链接\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Snapshot URLs encode the current state of the {{share.objectType}} in the URL itself. Edits to the saved {{share.objectType}} won\\'t be visible via this URL.",
+    "cn": "快照链接在链接本身中编码查询的当前状态，通过此链接编辑已保存的查询是无效的。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "We recommend sharing shortened snapshot URLs for maximum compatibility. Internet Explorer has URL length restrictions, and some wiki and markup parsers don\\'t do well with the full-length version of the snapshot URL, but the short URL should work great.",
+    "cn": "我们建议使用短链接来分享快照以提供最大的兼容性，IE浏览器有URL长度限制并且对完整样式的快照链接解析效果不佳，但是短链接却可以很好的工作。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<div class=\"kuiLocalDropdownTitle\">Time Range</div>",
+    "cn": "<div class=\"kuiLocalDropdownTitle\">时间范围</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "quick\\n",
+    "cn": "快速\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "relative\\n",
+    "cn": "相对\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "absolute\\n",
+    "cn": "绝对\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Today\"",
+    "cn": "display:\"今天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"This week\"",
+    "cn": "display:\"本周\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"This month\"",
+    "cn": "display:\"本月\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"This year\"",
+    "cn": "display:\"本年\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"The day so far\"",
+    "cn": "display:\"今天截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Week to date\"",
+    "cn": "display:\"本周截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Month to date\"",
+    "cn": "display:\"本月截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Year to date\"",
+    "cn": "display:\"本年截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Yesterday\"",
+    "cn": "display:\"昨天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Day before yesterday\"",
+    "cn": "display:\"前天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"This day last week\"",
+    "cn": "display:\"上周的今天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Previous week\"",
+    "cn": "display:\"上周\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Previous month\"",
+    "cn": "display:\"上月\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Previous year\"",
+    "cn": "display:\"去年\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 30 minutes\"",
+    "cn": "display:\"最近30分钟\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 1 hour\"",
+    "cn": "display:\"最近1小时\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 4 hours\"",
+    "cn": "display:\"最近4小时\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 12 hours\"",
+    "cn": "display:\"最近12小时\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 24 hours\"",
+    "cn": "display:\"最近24小时\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 7 days\"",
+    "cn": "display:\"最近7天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 30 days\"",
+    "cn": "display:\"最近30天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 60 days\"",
+    "cn": "display:\"最近60天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 90 days\"",
+    "cn": "display:\"最近90天\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 6 months\"",
+    "cn": "display:\"最近6个月\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 1 year\"",
+    "cn": "display:\"最近1年\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 2 years\"",
+    "cn": "display:\"最近2年\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Last 5 years\"",
+    "cn": "display:\"最近5年\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Index Patterns\"",
+    "cn": "display:\"索引模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Saved Objects\"",
+    "cn": "display:\"已保存的对象\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Advanced Settings\"",
+    "cn": "display:\"高级设置\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Create Index Pattern</span>",
+    "cn": "<span>创建索引模式</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Refresh field list\"\\n",
+    "cn": "tooltip=\"刷新字段列表\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"sr-only\">Reload field list</span>",
+    "cn": "<span class=\"sr-only\">重新载入字段列表</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Set as default index\"\\n",
+    "cn": "tooltip=\"设置为默认索引\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Remove index pattern\"\\n",
+    "cn": "tooltip=\"删除索引模式\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Time Filter field name</span>:",
+    "cn": "<span>时间筛选器字段名称</span>:"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "This page lists every field in the <strong>{{::indexPattern.title}}</strong>\\n        index and the field\\'s associated core type as recorded by Elasticsearch.\\n        While this list allows you to view the core type of each field, changing\\n        field types must be done using Elasticsearch\\'s\\n        <a target=\"_window\" href=\"http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html\">\\n          Mapping API\\n",
+    "cn": "此页面列出了Elasticsearch <strong>{{::indexPattern.title}}</strong>中\\n        记录的所有字段、索引和字段的相关类型。\\n        在此页允许您查看所有字段的字段类型的同时,\\n        改变字段类型必须使用Elasticsearch的\\n        <a target=\"_window\" href=\"http://www.elastic.co/guide/en/elasticsearch/reference/current/mapping.html\">\\n          Mapping API\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Filter\"\\n",
+    "cn": "placeholder=\"过滤条件\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "These fields can be used in the filter bar",
+    "cn": "这些字段可用于筛选器工具条"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "These fields can be used in visualization aggregations",
+    "cn": "这些字段可用于可视化聚合"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Fields that are excluded from _source when it is fetched",
+    "cn": "这些字段在获取时会从_source中排除"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Scroll to top\\n",
+    "cn": "滚动到顶部\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Page Size</label>",
+    "cn": "<label>每页展示条数</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Scripted fields\\n",
+    "cn": "脚本化字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "These scripted fields are computed on the fly from your data. They can be used in visualizations and displayed in your documents, however they can not be searched. You can manage them here and add new ones as you see fit, but be careful, scripts can be tricky!",
+    "cn": "这些脚本化字段可以从您的数据中计算您期望的结果。它们可以用于可视化，并显示在您的文档中，但不能查询它们。您可以在这里管理它们并添加您觉得合适的新脚本，但是您要小心，处理脚本可能会很棘手!"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Add Scripted Field</span>",
+    "cn": "<span>添加脚本化字段</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No scripted fields found.\\n",
+    "cn": "未发现脚本化字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Create {{ fieldSettings.field.scripted ? \\'Scripted \\' : \\'\\' }}Field\\n",
+    "cn": "创建{{ fieldSettings.field.scripted ? \\'脚本化\\' : \\'\\' }}字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Name</label>",
+    "cn": "<label>名称</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"New Scripted Field\"\\n",
+    "cn": "placeholder=\"新脚本化字段\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Language</label>\\n",
+    "cn": "<label>语言</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Type</label>\\n",
+    "cn": "<label>类型</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Format <small>(Default: <i>{{editor.defFormatType.resolvedTitle}}</i>)</small></label>",
+    "cn": "<label>格式 <small>(默认: <i>{{editor.defFormatType.resolvedTitle}}</i>)</small></label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label for=\"editor.field.count\">Popularity</label>",
+    "cn": "<label for=\"editor.field.count\">流行度</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Script</label>",
+    "cn": "<label>脚本</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<i class=\"fa fa-warning\"></i> Warning\\n",
+    "cn": "<i class=\"fa fa-warning\"></i> 警告\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<i class=\"fa fa-warning text-warning\"></i> Format Warning\\n",
+    "cn": "<i class=\"fa fa-warning text-warning\"></i> 格式警告\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Formatting allows you to control the way that specific values are displayed. It can also cause values to be completely changed and prevent highlighting in Discover from working.\\n",
+    "cn": "格式允许您控制特定值的显示方式。它也可以导致值被彻底改变和在工作中阻止易发现的醒目部分。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{{ editor.creating ? \\'Create\\' : \\'Update\\' }} Field\\n",
+    "cn": "{{ editor.creating ? \\'创建\\' : \\'更新\\' }}字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{{ editor.creating ? \\'Create\\' : \\'Update\\' }} Field\\n",
+    "cn": "{{ editor.creating ? \\'创建\\' : \\'更新\\' }}字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Cancel\\n",
+    "cn": "取消\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Proceed with caution\\n",
+    "cn": "注意如下说明\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Source Filters\\n",
+    "cn": "源筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Source filters can be used to exclude one or more fields when fetching the document source. This happens when viewing a document in the Discover app, or with a table displaying results from a saved search in the Dashboard app. Each row is built using the source of a single document, and if you have documents with large or unimportant fields you may benefit from filtering those out at this lower level.",
+    "cn": "源筛选器可以在获取源文档时排除一个或多个字段。这种情况发生在查看应用程序中的文档时或者显示在仪表板应用程序中保存的查询结果时显示的结果时。每一行都是使用一个文档的源来构建的，如果您拥有具有较大或不重要字段的文档，则可以从较低级别筛选出这些文件。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": " Note that multi-fields will incorrectly appear as matches in the table below. These filters only actually apply to fields in the original source document, so matching multi-fields are not actually being filtered.",
+    "cn": "注意多个字段可能将出现如下表匹配。这些过滤器实际上只适用于原始源文档中的字段，因此匹配的多个字段实际上没有被过滤。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "source filter, accepts wildcards (e.g., `user*` to filter fields starting with 'user')",
+    "cn": "源筛选器，接受通配符 (例如：`user*` 筛选以'user'开始的字段)"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Add\\n",
+    "cn": ">\\n          添加\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Edit Saved Objects\\n",
+    "cn": "编辑已保存的对象\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "From here you can delete saved objects, such as saved searches. You can also edit the raw data of saved objects. Typically objects are only modified via their associated application, which is probably what you should use instead of this screen. Each tab is limited to 100 results. You can use the filter to find objects not in the default list.",
+    "cn": "从这里您可以删除已保存的对象，例如已保存的历史查询。您也可以编辑已保存对象的原始数据。通常，对象只能通过相关的应用程序进行修改，这可能是您应该使用的，而不是在这个屏幕。每个表仅展示100个结果。你可以使用筛选器来查找不在默认列表中的对象。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Search...\"\\n",
+    "cn": "placeholder=\"查询...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Delete</span>",
+    "cn": "<span>删除</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Export</span>",
+    "cn": "<span>导出</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<th class=\"kuiTableHeaderCell\">\\n              Title\\n",
+    "cn": "<th class=\"kuiTableHeaderCell\">\\n              标题\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Export Everything</span>",
+    "cn": "<span>导出所有</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Import</span>",
+    "cn": "<span>导入</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h1 class=\"kuiTitle\">\\n          Edit {{ title }}\\n",
+    "cn": "<h1 class=\"kuiTitle\">\\n          编辑 {{ title }}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>View {{ title }}</span>",
+    "cn": "<span>查看 {{ title }}</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Delete {{ title }}</span>",
+    "cn": "<span>删除 {{ title }}</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Save {{ title }} Object\\n",
+    "cn": "保存 {{ title }} 对象\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Proceed with caution!\\n",
+    "cn": "注意如下说明！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Modifying objects is for advanced users only. Object properties are not validated and invalid objects could cause errors, data loss, or worse. Unless someone with intimate knowledge of the code told you to be in here, you probably shouldn&rsquo;t be.",
+    "cn": " 修改对象只适用于高级用户。未验证对象属性，无效对象可能导致错误、数据丢失或更糟。除非有一个熟悉此操作的人告诉你要在这里操作，您不应该独自修改对象。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Edit</span>",
+    "cn": "<span>编辑</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Clear</span>",
+    "cn": "<span>清除</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Save</span>",
+    "cn": "<span>保存</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Cancel</span>",
+    "cn": "<span>取消</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Filter...\"",
+    "cn": "placeholder=\"筛选...\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<th class=\"kuiTableHeaderCell\">\\n            Name\\n",
+    "cn": "<th class=\"kuiTableHeaderCell\">\\n            名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<th class=\"kuiTableHeaderCell\">\\n            Value\\n",
+    "cn": "<th class=\"kuiTableHeaderCell\">\\n            值\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Caution: You can break stuff here\\n",
+    "cn": "注意: 您可以在这里设置高级选项\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Be careful in here, these settings are for very advanced users only.\\n          Tweaks you make here can break large portions of Kibana. Some of these\\n          settings may be undocumented, unsupported or experimental. If a field has a default value,\\n          blanking the field will reset it to its default which\\n          may be unacceptable given other configuration directives. Deleting a\\n          custom setting will permanently remove it from Kibana\\'s config.",
+    "cn": "在这里请务必小心，这些选项仅仅是为非常高级的用户设定的。您可以在这里设置大部分Kibana的选项。其中的某些设置可能是未经验证、不支持的或还在测试的。如果字段有默认值，留空此字段将重置为它的默认值，这个特性不适用于其它配置指令。删除自定义设置则将会将它从Kibana的配置中永久删除。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No dashboards matched your search.\\n",
+    "cn": "没有和您的查询相匹配的仪表盘\\n"
+  },
+  {
+    "path": "src/core_plugins/kibana/public/dashboard/listing/dashboard_listing.html",
+    "en": "No dashboards matched your search.",
+    "cn": "没有和您的查询相匹配的仪表盘"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{{ selectedItems.length }} selected\\n",
+    "cn": "{{ selectedItems.length }} 个已选中\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to delete the selected visualizations? This action is irreversible!",
+    "cn": "您确定删除选中的视图？这个操作是不可逆的！"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No visualizations matched your search.",
+    "cn": "没有和您的查询相匹配的可视化视图"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Select visualization type\\n",
+    "cn": "选择视图类型\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Search visualization types...\"\\n",
+    "cn": "placeholder=\"查询视图类型...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Basic Charts\"",
+    "cn": "\"基本图表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "CATEGORY.DATA,\"Data\"",
+    "cn": "CATEGORY.DATA,\"数据\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "VisType.CATEGORY.GRAPHIC,\"Graphic\"",
+    "cn": "VisType.CATEGORY.GRAPHIC,\"图解\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "VisType.CATEGORY.MAP,\"Maps\"",
+    "cn": "VisType.CATEGORY.MAP,\"地图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "VisType.CATEGORY.TIME,\"Time Series\"",
+    "cn": "VisType.CATEGORY.TIME,\"时间序列\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "VisType.CATEGORY.OTHER,\"Other\"",
+    "cn": "VisType.CATEGORY.OTHER,\"其它\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Search...\"\\n",
+    "cn": "placeholder=\"查询...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder:\"Search...\"",
+    "cn": "placeholder:\"查询...\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Create new visualization\"\\n",
+    "cn": "tooltip=\"创建新视图\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Looks like you don&rsquo;t have any visualizations. Let&rsquo;s create some!\\n",
+    "cn": "看起来您还没有任何视图，让我们来创建一些吧！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Create a visualization</span>",
+    "cn": "<span>创建一个新视图</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Create a document using markdown syntax",
+    "cn": "使用Markdown语法创建一个文档"
+  },
+  {
+    "path": "/src/ui/public/chrome/directives/global_nav/global_nav.js",
+    "en": "Collapse side bar",
+    "cn": "折叠侧边栏"
+  },
+  {
+    "path": "/src/ui/public/chrome/directives/global_nav/global_nav.js",
+    "en": "Expand side bar",
+    "cn": "展开侧边栏"
+  },
+  {
+    "path": "/src/ui/public/chrome/directives/global_nav/global_nav.js",
+    "en": "title: isOpen ? 'Collapse' : 'Expand'",
+    "cn": "title: isOpen ? '折叠' : '展开'"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:isOpen?\"Collapse\":\"Expand\"",
+    "cn": "title:isOpen?\"折叠\":\"展开\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "tooltipContent:isOpen?\"Collapse side bar\":\"Expand side bar\"",
+    "cn": "tooltipContent:isOpen?\"折叠侧边栏\":\"展开侧边栏\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Area\"",
+    "cn": "title:\"面积图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Emphasize the quantity beneath a line chart\"",
+    "cn": "description:\"强调线下图的数量\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Heat Map\"",
+    "cn": "title:\"热点图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Shade cells within a matrix\"",
+    "cn": "description:\"分开矩阵中的单元\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Horizontal Bar\"",
+    "cn": "title:\"水平柱状图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Vertical Bar\"",
+    "cn": "title:\"垂直柱状图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Assign a continuous variable to each axis\"",
+    "cn": "description:\"为每个轴线分配一个连续变量\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Pie\"",
+    "cn": "title:\"饼状图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Compare parts of a whole\"",
+    "cn": "description:\"比较一个整体的各部分比例\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Line\"",
+    "cn": "title:\"折线图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Emphasize trends\"",
+    "cn": "description:\"强调变化趋势\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Data Table\"",
+    "cn": "title:\"数据表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Display values in a table\"",
+    "cn": "description:\"将数据在一个表格中展示\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Metric\"",
+    "cn": "title:\"度量\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Display a calculation as a single number\"",
+    "cn": "description:\"将计算结果显示为数值\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Goal\"",
+    "cn": "title:\"目标图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"A goal chart indicates how close you are to your final goal.\"",
+    "cn": "description:\"一个目标图表明您相对于您的最终目标还有多远\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Gauge\"",
+    "cn": "title:\"量表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Gauges indicate the status of a metric. Use it to show how a metric's value relates \\n      to reference threshold values.\"",
+    "cn": "description:\"量表表示度量标准的状态，使用它来显示指标的值如何与参考阈值相关。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Timelion\"",
+    "cn": "title:\"时间线\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Build time-series using functional expressions\"",
+    "cn": "description:\"使用功能表达式构建时间序列\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Visual Builder\"",
+    "cn": "title:\"可视化构建\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Build time-series using a visual pipeline interface\"",
+    "cn": "description:\"使用可视化管道接口构建时间序列\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Coordinate Map\"",
+    "cn": "title:\"坐标地图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Plot latitude and longitude coordinates on a map\"",
+    "cn": "description:\"在地图上绘制经度和纬度坐标\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Region Map\"",
+    "cn": "title:\"区域地图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Show metrics on a thematic map. Use one of the provide base maps, or add your own. Darker colors represent higher values.\"",
+    "cn": "description:\"在专题地图上显示指标。使用提供的基本地图之一，或添加您自己的。 较深的颜色表示较高的值。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Tag Cloud\"",
+    "cn": "title:\"标签云\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"A group of words, sized according to their importance\"",
+    "cn": "description:\"一组词，大小根据其重要性显示\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "From a New Search, Select Index\\n",
+    "cn": "从一个新的查询，选择索引\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Or, From a Saved Search\\n",
+    "cn": "或者，从一个已保存的查询\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Linked to Saved Search",
+    "cn": "已链接到已保存查询"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Double click to unlink from Saved Search\"\\n",
+    "cn": "tooltip=\"双击取消对已保存查询的链接\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"save\",description",
+    "cn": "key:\"保存\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"cancel\",description",
+    "cn": "key:\"取消\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"clone\",description",
+    "cn": "key:\"克隆\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"open\",description",
+    "cn": "key:\"打开\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"share\",description",
+    "cn": "key:\"分享\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"refresh\",description",
+    "cn": "key:\"刷新\",description"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Save your dashboard\"",
+    "cn": "description:\"保存您的仪表盘\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Cancel editing and switch to view-only mode\"",
+    "cn": "description:\"取消编辑并切换到[仅查看]模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Create a copy of your dashboard\"",
+    "cn": "description:\"创建您的仪表盘的一个副本\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Add a panel to the dashboard\"",
+    "cn": "description:\"添加一个面板到仪表盘\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Save Visualization\"",
+    "cn": "description:\"保存视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Share Visualization\"",
+    "cn": "description:\"分享视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n              Data\\n",
+    "cn": ">\\n              数据\\n"
+  },
+  {
+    "path": ".js",
+    "en": "title: 'X-Axis'",
+    "cn": "title: 'X-轴'"
+  },
+  {
+    "path": ".js",
+    "en": "title: 'Y-Axis'",
+    "cn": "title: 'Y-轴'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"X-Axis\"",
+    "cn": "title:\"X-轴\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Y-Axis\"",
+    "cn": "title:\"Y-轴\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Chart\"",
+    "cn": "title:\"分割制图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Series\"",
+    "cn": "title:\"分割系列\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Options\"",
+    "cn": "title:\"选项\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Apply changes\"\\n",
+    "cn": "tooltip=\"应用更改\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Discard changes\"\\n",
+    "cn": "tooltip=\"放弃更改\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Aggregation</label>\\n",
+    "cn": ">聚合</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Sub Aggregation</label>\\n",
+    "cn": ">子聚合</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Metrics\\n",
+    "cn": "指标\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>Select {{ groupName }} type</label>\\n",
+    "cn": "<label>选择{{ groupName }}类型</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add {{ groupName }}\\n",
+    "cn": "添加{{ groupName }}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add sub-{{ groupName }}\\n",
+    "cn": "添加子{{ groupName }}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Custom Metric\\n",
+    "cn": "自定义指标\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Custom Ranges\\n",
+    "cn": "自定义范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Advanced\\n",
+    "cn": "高级选项\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label>JSON Input</label>\\n",
+    "cn": "<label>JSON格式输入</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Any JSON formatted properties you add here will be merged with the elasticsearch aggregation definition for this section. For example <i>shard_size</i> on a <i>terms</i> aggregation\\n",
+    "cn": "此处添加的任何JSON格式的属性将与此部分的Elasticsearch聚合定义合并。例如在terms聚合上的shard_size\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Basic Settings\\n",
+    "cn": "基本设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Metrics & Axes\"",
+    "cn": "title:\"指标 & 坐标轴\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Panel Settings\"",
+    "cn": "title:\"面板设置\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Y-Axes\\n",
+    "cn": "Y-轴\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "X-Axis\\n",
+    "cn": "X-轴\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Chart 类型\\n",
+    "cn": "图表类型\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n            Mode\\n",
+    "cn": ">\\n            模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Value Axis\\n",
+    "cn": "值轴\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show\\n",
+    "cn": "显示\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Hide\\n",
+    "cn": "隐藏\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Advanced Options\\n",
+    "cn": "高级选项\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n            Position\\n",
+    "cn": ">\\n            位置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n        Position\\n",
+    "cn": ">\\n        位置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Scale 类型\\n",
+    "cn": "度量类型\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Title\\n",
+    "cn": "标题\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show Labels",
+    "cn": "显示标签"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Filter Labels",
+    "cn": "筛选标签"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Rotate\\n",
+    "cn": "旋转\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n            Truncate\\n",
+    "cn": ">\\n            截取\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n                Truncate\\n",
+    "cn": ">\\n                截取\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Custom Extents\\n",
+    "cn": "自定义范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Scale to Data Bounds\\n",
+    "cn": "度量到数据边界\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Set Axis Extents\\n",
+    "cn": "设置坐标轴范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n                  Max\\n",
+    "cn": ">\\n                  最大\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n                  Min\\n",
+    "cn": ">\\n                  最小\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n        Settings\\n",
+    "cn": ">\\n        设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Legend Position\\n",
+    "cn": "说明位置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show Tooltip\\n",
+    "cn": "显示工具提示\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Order Buckets by Sum\\n",
+    "cn": "根据和对桶排序\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n        Grid\\n      </span>",
+    "cn": "\\n        网格\\n      </span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "X-Axis Lines\\n",
+    "cn": "X轴线\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Y-Axis Lines\\n",
+    "cn": "Y轴线\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Field\\n  </label>",
+    "cn": "字段\\n  </label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Settings</div>\\n",
+    "cn": "设置</div>\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Console\"",
+    "cn": "display:\"控制台\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Advanced Settings\"",
+    "cn": "display:\"高级设置\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Font Size</div>\\n",
+    "cn": "字体大小</div>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Wrap long lines\\n",
+    "cn": "自动换行\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Autocomplete</div>",
+    "cn": "自动完成</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Fields\\n",
+    "cn": "字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Indices &amp; Aliases\\n",
+    "cn": "指数和别名\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Save\\n",
+    "cn": "保存\\n"
+  },
+  {
+    "path": "/src/core_plugins/kibana/translations/en.json",
+    "en": "\"UI-WELCOME_MESSAGE\": \"Loading Kibana\"",
+    "cn": "\"UI-WELCOME_MESSAGE\": \"Kibana 启动中...\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/translations/en.json",
+    "en": "\"UI-WELCOME_ERROR\": \"Kibana did not load properly. Check the server output for more information.\"",
+    "cn": "\"UI-WELCOME_ERROR\": \"Kibana 未能正常启动，请从输出日志中获取更多信息！\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Welcome to Console</div>",
+    "cn": "欢迎来到控制台</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<strong>Quick intro to the UI</strong>",
+    "cn": "<strong>快速入门</strong>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The Console UI is split into two panes: an editor pane (left) and a response pane (right).\\n  Use the editor to type requests and submit them to Elasticsearch. The results will be displayed in\\n  the response pane on the right side.\\n",
+    "cn": "控制台界面是一个被分割为左右两格的窗口：查询编辑器窗口(左)、响应窗口(右)。\\n使用查询编辑器窗口输入请求并提交到Elasticsearch，结果会显示在右侧的响应窗口。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Console understands requests in a compact format, similar to cURL:",
+    "cn": "控制台支持简洁的请求格式，例如下面的请求："
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "While typing a request, Console will make suggestions which you can then accept by hitting Enter/Tab.\\n  These suggestions are made based on the request structure <i>as well as</i> your indices and types.\\n",
+    "cn": "在输入一个请求时，按Enter/Tab键，控制台可以根据您的输入提供自动补全建议。\\n这些自动补全建议是根据您的输入结构、索引和类型来进行筛选的。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "A few quick tips, while I have your attention",
+    "cn": "一些小提示，请注意查看："
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<li>Submit requests to ES using the green triangle button.</li>",
+    "cn": "<li>使用绿色三角按钮提交请求到ES。</li>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<li>Use the wrench menu for other useful things.</li>",
+    "cn": "<li>使用扳手按钮可以获得额外的有用的功能。</li>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<li>You can paste requests in cURL format and they will be translated to the Console syntax.</li>",
+    "cn": "<li>您可以粘贴cURL格式的请求，编辑器会自动把它转换为控制台支持的格式。</li>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<li>You can resize the editor and output panes by dragging the separator between them.</li>",
+    "cn": "<li>您可以通过移动左右窗口中间的分割栏来改变左右窗口的大小。</li>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<li>Study the keyboard shortcuts under the Help button. Good stuff in there!</li>",
+    "cn": "<li>您可以通过顶部[帮助]菜单下的子菜单学习快捷键，那里有好东西！</li>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Get to work\\n",
+    "cn": "已了解，开始工作\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Help</div>",
+    "cn": "帮助</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "heading=\"Request format\"",
+    "cn": "heading=\"请求格式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You can type one or more requests in the white editor. Console understands requests in a compact format:",
+    "cn": "您可以在编辑器中输入一个或多个请求，控制台会把它们转换为支持的格式："
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "heading=\"Keyboard tips\"",
+    "cn": "heading=\"快捷键提示\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<strong>General editing</strong>",
+    "cn": "<strong>一般的编辑</strong>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<strong>When auto-complete is visible</strong>",
+    "cn": "<strong>当自动完成可见时</strong>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Auto indent current request</dd>",
+    "cn": "<dd>自动缩进当前请求</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Open Auto complete (even if not typing)</dd>",
+    "cn": "<dd>开启自动完成(即便没有在输入)</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Submit request</dd>",
+    "cn": "<dd>提交请求</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Jump to the previous/next request start or end.</dd>",
+    "cn": "<dd>跳到前一条/后一条请求的开始或末尾</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Collapse/expand current scope.</dd>",
+    "cn": "<dd>折叠/展开当前内容</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Collapse all scopes but the current one. Expand by adding a shift.</dd>",
+    "cn": "<dd>折叠所有内容，按shift键时展开所有内容</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Switch focus to auto-complete menu. Use arrows to further select a term</dd>",
+    "cn": "<dd>从自动完成菜单中选择期望的条目</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Select the currently selected or the top most term in auto-complete menu</dd>",
+    "cn": "<dd>从自动完成菜单中选择接近条目</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<dd>Close auto-complete menu</dd>",
+    "cn": "<dd>关闭自动完成菜单</dd>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "History</div>",
+    "cn": "历史</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Clear</button>",
+    "cn": "清空</button>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Apply\\n  </button>",
+    "cn": "使用\\n  </button>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Copy as cURL</a>",
+    "cn": "复制为cURL格式</a>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Auto indent</a>",
+    "cn": "自动缩进</a>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Looks like you don&rsquo;t have any visualizations. Let&rsquo;s create some!\\n",
+    "cn": "看起来您还没有视图，让我们来创建一些吧！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Looks like you don&rsquo;t have any dashboards. Let&rsquo;s create some!\\n",
+    "cn": "看起来您还没有仪表盘，让我们来创建一些吧！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Create a dashboard</span>",
+    "cn": "<span>创建仪表盘</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Create new visualization\"\\n",
+    "cn": "tooltip=\"创建新视图\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Create new dashboard\"\\n",
+    "cn": "tooltip=\"创建新仪表盘\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Options\"",
+    "cn": "description:\"选项\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:_top_nav_ids.TopNavIds.SHARE",
+    "cn": "key:\"分享\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:_top_nav_ids.TopNavIds.OPTIONS",
+    "cn": "key:\"选项\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:_top_nav_ids.TopNavIds.ADD",
+    "cn": "key:\"添加\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "This dashboard is empty. Let&rsquo;s fill it up!\\n",
+    "cn": "此仪表盘是空的，让我们添加一些东西吧！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Click the <a class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"kbnTopNav.open(\\'add\\'); toggleAddVisualization = !toggleAddVisualization\" aria-label=\"Add visualization\">Add</a> button in the menu bar above to add a visualization to the dashboard. <br/>If you haven\\'t set up any visualizations yet, <a class=\"kuiLink\" href=\"#/visualize\">visit the Visualize app</a> to create your first visualization.\\n",
+    "cn": "点击工具栏中的 <a class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"kbnTopNav.open(\\'add\\'); toggleAddVisualization = !toggleAddVisualization\" aria-label=\"Add visualization\">添加</a> 按钮在此仪表盘中添加视图。 <br/>假如您还没有设置任何视图 <a class=\"kuiLink\" href=\"#/visualize\">访问可视化功能</a> 来创建您的第一个视图吧！\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add Panels</div>",
+    "cn": "添加面板</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n        Visualization\\n",
+    "cn": ">\\n        视图\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add new {{ finder.properties.noun }}\\n",
+    "cn": "添加新{{ finder.properties.noun }}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "ng-bind=\"\\'No matching \\' + finder.properties.nouns + \\' found.\\'\">",
+    "cn": "ng-bind=\"\\'未发现匹配的\\' + finder.properties.nouns \">"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Saved Search\\n",
+    "cn": "已保存的查询\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "noun:\"Saved Search\"",
+    "cn": "noun:\"已保存的查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Please save this {{share.objectType}} to enable this sharing option.\\n",
+    "cn": "请保存这个{{share.objectType}}以启用分享选项。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Click the <a class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"kbnTopNav.click(\\'edit\\');\">Edit</a> button in the menu bar above to start working on your new dashboard.\\n",
+    "cn": "点击工具栏中的 <a class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"kbnTopNav.click(\\'edit\\');\">编辑</a> 按钮，在您的新仪表盘中开始工作。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Embedded iframe\\n",
+    "cn": "嵌入式的框架\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Add to your HTML source. Note that all clients must be able to access Kibana.\\n",
+    "cn": "添加到您的HTML源码中。注意所有客户端必须有权限访问Kibana。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"edit\",description:\"Switch to edit mode\"",
+    "cn": "key:\"编辑\",description:\"切换到编辑模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Clone Dashboard\"",
+    "cn": "\"克隆仪表盘\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Please enter a new name for your dashboard.\"",
+    "cn": "\"请为您的仪表盘输入一个新的名称：\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Confirm Clone\"",
+    "cn": "\"确定克隆\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ",\"Cancel\")",
+    "cn": ",\"取消\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"New Dashboard\"",
+    "cn": "title:\"新仪表盘\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Use dark theme\\n",
+    "cn": "使用黑色主题\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Options</div>",
+    "cn": "选项</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to cancel and lose changes?",
+    "cn": "是否确定取消?(将丢弃所有更改！)"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to cancel and lose changes, including changes made to your",
+    "cn": "是否确定取消?(将丢弃所有更改！)，包含您对它的修改："
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"No, keep working\"",
+    "cn": "\"取消\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Yes, lose changes\"",
+    "cn": "\"确定(丢弃更改)\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Tag Size\"",
+    "cn": "title:\"标签大小\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Dot Size\"",
+    "cn": "title:\"圆点大小\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Slice Size\"",
+    "cn": "title:\"切片大小\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Value\"",
+    "cn": "title:\"值\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Group\"",
+    "cn": "title:\"分割组\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Rows\"",
+    "cn": "title:\"分割行\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Table\"",
+    "cn": "title:\"分割表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Tags\"",
+    "cn": "title:\"标签\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h4>No results found</h4>",
+    "cn": "未发现结果"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Select a field\"",
+    "cn": "placeholder=\"请选择一个字段\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Line Mode\\n",
+    "cn": "线条模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Add Y axis\"\\n",
+    "cn": "tooltip=\"添加Y轴\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Save Visualization</div>",
+    "cn": "保存视图</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\'Save and Add to Dashboard\\' : \\'Save\\'",
+    "cn": "\\'保存并添加到仪表盘\\' : \\'保存\\'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"New Visualization\"",
+    "cn": "title:\"新视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Sorting in Ascending order by Count in Terms aggregations is deprecated",
+    "cn": "不赞成在Terms聚合中使用order by Count asc排序"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Dashboard description\"",
+    "cn": "placeholder=\"仪表盘描述\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Description\\n",
+    "cn": "描述\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Store time with {{opts.displayName}}\\n",
+    "cn": "保存时间于{{opts.displayName}}\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Save as a new {{savedObject.getDisplayName()}}",
+    "cn": "保存为新{{savedObject.getDisplayName()}}"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Delete selected dashboards\"\\n",
+    "cn": "tooltip=\"删除所选仪表盘\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Name\\n",
+    "cn": ">\\n          名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"scripted fields\"",
+    "cn": "title:\"脚本化字段\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"source filters\"",
+    "cn": "title:\"源筛选器\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"fields\"",
+    "cn": "title:\"字段\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"dashboards\"",
+    "cn": "title:\"仪表盘\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"searches\"",
+    "cn": "title:\"查询\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"visualizations\"",
+    "cn": "title:\"视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No {{service.title}} matched your search.\\n",
+    "cn": "没有{{service.title}}和您的查询相匹配。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to delete the selected dashboards? This action is irreversible!",
+    "cn": "您是否确定删除选择的仪表盘？这个操作是不可撤销的！"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to delete the selected \"+$scope.currentTab.title+\"? This action is irreversible!",
+    "cn": "您是否确定删除选择的\"+$scope.currentTab.title+\"？这个操作是不可撤销的！"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "confirmButtonText:\"Delete \"+$scope.currentTab.title",
+    "cn": "confirmButtonText:\"删除\"+$scope.currentTab.title"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "text:\"Cancel\"",
+    "cn": "text:\"取消\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n        Actions\\n",
+    "cn": "\\n        操作\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<strong>All filters:</strong>",
+    "cn": "<strong>所有筛选器:</strong>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Enable</a></div>",
+    "cn": "启用</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Disable</a></div>",
+    "cn": "禁用</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Pin</a></div>",
+    "cn": "钉住</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Unpin</a></div>",
+    "cn": "取消钉住</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Invert</a></div>",
+    "cn": "换位</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Toggle</a></div>",
+    "cn": "开关</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Remove</a></div>",
+    "cn": "移除</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"visualizations\"",
+    "cn": "title:\"视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "From: <span ng-show=\"!absolute.from\">",
+    "cn": "从: <span ng-show=\"!absolute.from\">"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"small\">To:\\n",
+    "cn": "<label class=\"small\">到:\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "</span> Auto-refresh",
+    "cn": "</span> 自动刷新"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "class=\"small\">From: ",
+    "cn": "class=\"small\">从: "
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"small\">To:\\n",
+    "cn": "<label class=\"small\">到:\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h1>No results found",
+    "cn": "<h1>未查到数据"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Unfortunately I could not find any results matching your search. I tried really hard. I looked all over the place and frankly, I just couldn\\'t find anything good. Help me, help you. Here are some ideas:",
+    "cn": "抱歉，找不到符合查询条件的数据。以下是一些处理建议："
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h3>Refine your query</h3>",
+    "cn": "<h3>重新查询</h3>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The search bar at the top uses Elasticsearch\\'s support for Lucene <a class=\"kuiLink\" ng-href=\"{{queryDocLinks.luceneQuerySyntax}}\" target=\"_blank\">Query String syntax</a>. Let\\'s say we\\'re searching web server logs that have been parsed into a few fields.",
+    "cn": "顶部的查询框使用的是Elasticsearch所支持的Lucene <a class=\"kuiLink\" ng-href=\"{{queryDocLinks.luceneQuerySyntax}}\" target=\"_blank\">查询字符串语法</a>，如果我们正在查询已经被解析成相应字段的web日志。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<h4>Examples:</h4>",
+    "cn": "<h4>例如:</h4>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Find requests that contain the number 200, in any field:\\n",
+    "cn": "在任意字段中查找包含数字200的请求：\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Or we can search in a specific field. Find 200 in the status field:\\n",
+    "cn": "或者我们也可以在特定字段中查找，如：在status字段中查找200：\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Find all status codes between 400-499:\\n",
+    "cn": "查找400-499之间所有状态码：\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Find status codes 400-499 with the extension php:\\n",
+    "cn": "查找状态码在400-499之间并且extension值为php的请求：\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Or HTML\\n",
+    "cn": "或者HTML\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Data already in Elasticsearch?\"",
+    "cn": "\"Elasticsearch已有数据？\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Set up index patterns\"",
+    "cn": "\"建立索引模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Welcome to Kibana\"",
+    "cn": "\"欢迎来到Kibana\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Visualize and Explore Data\"",
+    "cn": "\"可视化和探索数据\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Manage and Administer the Elastic Stack\"",
+    "cn": "\"管理和执行Elastic堆栈\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Dashboard\",description:\"Display and share a collection of visualizations and saved searches.\"",
+    "cn": "title:\"仪表盘\",description:\"显示和分享可视化和保存的搜索的集合。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Discover\",description:\"Interactively explore your data by querying and filtering raw documents.\"",
+    "cn": "title:\"发现\",description:\"通过查询和过滤原始文档来交互式地浏览您的数据。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Visualize\",description:\"Create visualizations and aggregate data stores in your Elasticsearch indices.\"",
+    "cn": "title:\"可视化\",description:\"在Elasticsearch索引中创建可视化和聚合数据存储。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "description:\"Use an expression language to analyze time series data and visualize the results.\"",
+    "cn": "description:\"使用表达式语言分析时间序列数据并可视化结果。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Console\",description:\"Skip cURL and use this JSON interface to work with your data directly.\"",
+    "cn": "title:\"控制台\",description:\"跳过cURL并使用此JSON接口直接处理您的数据。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Index Patterns\",description:\"Manage the index patterns that help retrieve your data from Elasticsearch.\"",
+    "cn": "title:\"索引模式\",description:\"管理有助于从Elasticsearch检索数据的索引模式。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Saved Objects\",description:\"Import, export, and manage your saved searches, visualizations, and dashboards.\"",
+    "cn": "title:\"已保存的对象\",description:\"导入，导出和管理保存的搜索，可视化和仪表盘。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Didn’t find what you were looking for?\"",
+    "cn": "\"没有找到你要找的功能？\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"View full directory of Kibana plugins\"",
+    "cn": "\"查看Kibana插件的完整目录\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Advanced Settings\",description:\"Directly edit settings that control behavior in Kibana.\"",
+    "cn": "title:\"高级设置\",description:\"直接编辑控制Kibana行为的设置。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Management\",description:\"Your center console for managing the Elastic Stack.\"",
+    "cn": "title:\"管理\",description:\"您的中央控制台用于管理Elastic堆栈。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{id:ALL_TAB_ID,name:\"All\"}",
+    "cn": "{id:ALL_TAB_ID,name:\"全部\"}"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "name:\"Data Exploration & Visualization\"",
+    "cn": "name:\"数据挖掘 & 可视化\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "name:\"Administrative\"",
+    "cn": "name:\"管理\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ",\"Directory\")",
+    "cn": ",\"目录\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"\\nIn order to visualize and explore data in Kibana,\\nyou'll need to create an index pattern to retrieve data from Elasticsearch.\\n\"",
+    "cn": "\"\\n为了在Kibana中可视化和探索数据，\\n您需要创建一个索引模式来从Elasticsearch中检索数据。\\n\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "location:\"Index Patterns\"",
+    "cn": "location:\"索引模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "label-warning\">Warning</span>",
+    "cn": "label-warning\">警告</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No default index pattern. You must select or create one to continue.\\n",
+    "cn": "无默认的索引模式。您必须选择或创建一个以继续。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Create index pattern\\n",
+    "cn": "创建索引模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Kibana uses index patterns to retrieve data from Elasticsearch indices for things like visualizations.\\n",
+    "cn": "Kibana使用索引模式从Elasticsearch索引中检索数据，如可视化。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Include system indices\\n",
+    "cn": "包含系统索引\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Step 1 of 2: Define index pattern\\n",
+    "cn": "步骤1-2：定义索引模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Next step\\n",
+    "cn": "下一步\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n              Index pattern\\n",
+    "cn": "\\n              索引模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You can use a <strong>*</strong> as a wildcard in your index pattern.\\n",
+    "cn": "您可以在索引模式中使用<strong>*</strong>号作为通配符。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You can\\'t use empty spaces or the characters <strong>",
+    "cn": "您不能使用空格或这些字符：<strong>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Your index pattern can match any of your <strong>{{stepIndexPattern.allIndices.length}} indices</strong>, below.\\n",
+    "cn": "您的索引模式可以匹配您的<strong>{{stepIndexPattern.allIndices.length}}个索引</strong>中的任何一个, 如下所示。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Checking for Elasticsearch data\\n",
+    "cn": "检查Elasticsearch数据中\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Reticulating splines...",
+    "cn": "网状花键..."
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Looking for matching indices\\n",
+    "cn": "正在查找匹配的索引\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Just a sec...\\n",
+    "cn": "请稍等几秒...\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The index pattern you\\'ve entered doesn\\'t match any indices. You can match any of your <strong>{{stepIndexPattern.allIndices.length}} indices</strong>, below.\\n",
+    "cn": "您键入的索引模式未匹配到任何索引。您可以匹配您的<strong>{{stepIndexPattern.allIndices.length}}个索引</strong>中的任何一个，如下所示。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Your index pattern doesn\\'t match any indices, but you have <strong>{{stepIndexPattern.partialMatchingIndices.length}} {{stepIndexPattern.partialMatchingIndices.length > 1 ? \\'indices\\' : \\'index\\'}}</strong> which {{stepIndexPattern.partialMatchingIndices.length > 1 ? \\'look\\' : \\'looks\\'}} similar.\\n",
+    "cn": "您的索引模式未匹配到任何索引，但是您有<strong>{{stepIndexPattern.partialMatchingIndices.length}}个索引</strong>看起来满足条件。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<strong>Success!</strong> Your index pattern matches <strong>{{stepIndexPattern.matchingIndices.length}} {{stepIndexPattern.matchingIndices.length > 1 ? \\'indices\\' : \\'index\\'}}</strong>.\\n",
+    "cn": "<strong>恭喜！</strong>您的索引模式匹配到<strong>{{stepIndexPattern.matchingIndices.length}}个索引</strong>。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You\\'ve entered an invalid index pattern. Please adjust it to match any of your <strong>{{stepIndexPattern.allIndices.length}} indices</strong>, below.\\n",
+    "cn": "您输入了一个无效的索引模式，请调整它以匹配你的<strong>{{stepIndexPattern.allIndices.length}}个索引</strong>中的任何一个，如下所示。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Step 2 of 2: Configure settings\\n",
+    "cn": "步骤2-2：配置设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You\\'ve defined <strong>{{stepTimeField.indexPatternName}}</strong> as your index pattern. Now you can specify some settings before we create it.\\n",
+    "cn": "您已将<strong>{{stepTimeField.indexPatternName}}</strong>定义为索引模式。现在您可以在创建它之前指定一些设置。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Time Filter field name\\n",
+    "cn": "时间筛选器字段名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Refresh\\n",
+    "cn": ">\\n          刷新\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"The indices which match this index pattern don't contain any time fields.\"",
+    "cn": "\"与此索引模式匹配的索引不包含任何时间字段。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The indices which match this index pattern don\\'t contain any time fields.\\n",
+    "cn": "与此索引模式匹配的索引不包含任何时间字段。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show advanced options</span>\\n",
+    "cn": "显示高级选项</span>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Back</span>\\n",
+    "cn": "<span>返回</span>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The Time Filter will use this field to filter your data by time.\\n        You can choose not to have a time field, but you will not be able to narrow down your data by a time range.\\n",
+    "cn": "时间过滤器将使用此字段按时间过滤您的数据。\\n您可以选择不具有时间字段，但是您将无法在一定时间范围内缩小数据范围。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Looks like you don't have any visualizations. Let's create some!\"",
+    "cn": "\"看起来您没有任何可视化视图。让我们创建一些吧！\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"1 item selected\":itemsSelectedCount+\" items selected\"",
+    "cn": "\"1 个项目已选择\":itemsSelectedCount+\" 个项目已选择\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Create a visualization\"",
+    "cn": "\"创建一个可视化视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Maps\"",
+    "cn": "\"地图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Time Series\"",
+    "cn": "\"时间序列\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "OTHER,\"Other\"",
+    "cn": "OTHER,\"其它\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Looks like you don&rsquo;t have any dashboards. <span ng-if=\"!listingController.hideWriteControls\">Let&rsquo;s create some!</span>",
+    "cn": "看起来您没有任何仪表盘。<span ng-if=\"!listingController.hideWriteControls\">让我们创建一些吧！</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Click the <a kbn-accessible-click class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"showAddPanel()\" aria-label=\"Add visualization\">Add</a> button in the menu bar above to add a visualization to the dashboard. <br/>If you haven\\'t set up any visualizations yet, <a class=\"kuiLink\" href=\"#/visualize\">visit the Visualize app</a> to create your first visualization.\\n",
+    "cn": "点击菜单栏中的<a kbn-accessible-click class=\"kuiButton kuiButton--primary kuiButton--small\" ng-click=\"showAddPanel()\" aria-label=\"Add visualization\">添加</a>按钮添加一个可视化视图到仪表盘。<br/>如果您还没有设置任何可视化视图，<a class=\"kuiLink\" href=\"#/visualize\">访问可视化应用程序</a>来创建您的第一个可视化视图。\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\n          Time Range\\n",
+    "cn": "\\n          时间范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\n            Quick\\n",
+    "cn": "\\n            快速\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">\\n            Relative\\n",
+    "cn": ">\\n            相对\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">\\n            Absolute\\n",
+    "cn": ">\\n            绝对\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Today\"",
+    "cn": "display:\"今天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"This week\"",
+    "cn": "display:\"本周\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"This month\"",
+    "cn": "display:\"本月\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"This year\"",
+    "cn": "display:\"本年\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"The day so far\"",
+    "cn": "display:\"今天截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Week to date\"",
+    "cn": "display:\"本周截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Month to date\"",
+    "cn": "display:\"本月截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Year to date\"",
+    "cn": "display:\"本年截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Yesterday\"",
+    "cn": "display:\"昨天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Day before yesterday\"",
+    "cn": "display:\"前天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"This day last week\"",
+    "cn": "display:\"上周的今天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Previous week\"",
+    "cn": "display:\"上周\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Previous month\"",
+    "cn": "display:\"上月\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Previous year\"",
+    "cn": "display:\"去年\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 15 minutes\"",
+    "cn": "display:\"最近15分钟\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 30 minutes\"",
+    "cn": "display:\"最近30分钟\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 1 hour\"",
+    "cn": "display:\"最近1小时\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 4 hours\"",
+    "cn": "display:\"最近4小时\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 12 hours\"",
+    "cn": "display:\"最近12小时\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 24 hours\"",
+    "cn": "display:\"最近24小时\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 7 days\"",
+    "cn": "display:\"最近7天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 30 days\"",
+    "cn": "display:\"最近30天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 60 days\"",
+    "cn": "display:\"最近60天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 90 days\"",
+    "cn": "display:\"最近90天\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 6 months\"",
+    "cn": "display:\"最近6个月\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 1 year\"",
+    "cn": "display:\"最近1年\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 2 years\"",
+    "cn": "display:\"最近2年\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "display:\"Last 5 years\"",
+    "cn": "display:\"最近5年\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Auto-refresh\\n",
+    "cn": "自动刷新\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\n    Help\\n",
+    "cn": "\\n    帮助\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"help\"",
+    "cn": "key:\"帮助\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"new\"",
+    "cn": "key:\"新建\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"add\"",
+    "cn": "key:\"添加\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"save\"",
+    "cn": "key:\"保存\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"delete\"",
+    "cn": "key:\"删除\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"open\"",
+    "cn": "key:\"打开\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "key:\"options\"",
+    "cn": "key:\"选项\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Autocomplete\\n",
+    "cn": "自动完成\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n        Font Size\\n",
+    "cn": ">\\n        字体大小\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Settings</h2>",
+    "cn": ">设置</h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Help</h2>",
+    "cn": ">帮助</h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">History</h2>",
+    "cn": ">历史</h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Welcome to Console</h2>",
+    "cn": ">欢迎来到控制台</h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n          Time Range\\n        </h2>",
+    "cn": "\\n          时间范围\\n        </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n        Refresh Interval\\n      </h2>",
+    "cn": ">\\n        刷新间隔\\n      </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Save Search\\n  </h2>",
+    "cn": ">\\n    保存搜索\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Open Search\\n  </h2>",
+    "cn": ">\\n    打开搜索\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Save Visualization\\n  </h2>",
+    "cn": ">\\n    保存可视化视图\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Save {{opts.displayName}}\\n  </h2>",
+    "cn": ">\\n    保存 {{opts.displayName}}\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Add Panels\\n  </h2>",
+    "cn": ">\\n    添加面板\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n    Options\\n  </h2>",
+    "cn": ">\\n    选项\\n  </h2>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">History</h2>\\n\\n",
+    "cn": ">历史</h2>\\n\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"help\"",
+    "cn": "key:\"帮助\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"settings\"",
+    "cn": "key:\"设置\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "key:\"history\"",
+    "cn": "key:\"历史\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">Save entire Timelion sheet</h4>",
+    "cn": ">保存整个Timelion表</h4>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "You want this option if you mostly use Timelion expressions from within the Timelion app and don\\'t need to\\n      add Timelion charts to Kibana dashboards. You may also want this if you make use of references to other\\n      panels.",
+    "cn": "如果您主要使用Timelion应用程序中的Timelion表达式，并且不需要将Timelion图表添加到Kibana仪表板，则需要此选项。\\n如果您使用其他面板的引用，也可能需要这个。"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">\\n        Save sheet as\\n",
+    "cn": ">\\n        保存表为\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">\\n        Save\\n",
+    "cn": ">\\n        保存\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "title:\"New TimeLion Sheet\"",
+    "cn": "title:\"新建TimeLion表\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": ">Save current expression as Kibana dashboard panel</h4>",
+    "cn": ">将当前表达式保存为Kibana仪表盘面板</h4>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Need to add a chart to a Kibana dashboard? We can do that! This option will save your currently selected\\n      expression as a panel that can be added to Kibana dashboards as you would add anything else. Note, if you\\n      use references to other panels you will need to remove the refences by copying the referenced expression\\n      directly into the expression you are saving. Click a chart to select a different expression to save.",
+    "cn": "需要添加图表到Kibana仪表板？我们能做到这一点！这个选项会将当前选中的表达式保存为一个可以添加到Kibana仪表板的面板，就像添加其他东西一样。\\n请注意，如果您使用其他面板的引用，则需要通过将引用的表达式直接复制到要保存的表达式中来删除引用。点击图表选择另一个表达式进行保存。"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Currently selected expression</label>",
+    "cn": "当前选择的表达式</label>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Save expression as</label>",
+    "cn": "将表达式保存为</label>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "placeholder=\"Name this panel\"",
+    "cn": "placeholder=\"填写面板名称\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Save</button>",
+    "cn": "保存</button>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\n    Open Sheet\\n",
+    "cn": "\\n    打开表\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Filter...",
+    "cn": "筛选器..."
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\n    Name\\n",
+    "cn": "\\n    名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\\'No matching \\' + finder.properties.nouns + \\' found.",
+    "cn": "\\'没有匹配的 \\' + finder.properties.nouns + \\' 被发现。"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Sheet options\\n",
+    "cn": "表选项\\n"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Columns <small>Column count must divide evenly into 12</small>",
+    "cn": "列 <small>列数必须平均分为12</small>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Rows <small>This is a target based on the current window height</small>",
+    "cn": "行 <small>这是一个基于当前窗口高度的目标</small>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Function reference</a>",
+    "cn": "函数参考</a>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "\"Keyboard tips\">",
+    "cn": "\"快捷键提示\">"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "heading=\"Function reference\"",
+    "cn": "heading=\"函数参考\""
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Click any function for more information. Just getting started?",
+    "cn": "单击任何函数获取更多信息。刚刚开始？"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "Check out the tutorial\\n",
+    "cn": "看看教程\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n    Name\\n    <span\\n",
+    "cn": "\\n    名称\\n    <span\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Couldn\\'t find any Elasticsearch data\\n",
+    "cn": "未能找到任何Elasticsearch数据\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "You\\'ll need to index some data into Elasticsearch before you can create an index pattern.\\n",
+    "cn": "您需要在创建一个索引模式之前索引一些Elasticsearch中的数据。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Learn how.\\n",
+    "cn": "学习如何做\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Check for new data\\n",
+    "cn": "检查新数据\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Are you sure you want to remove this index pattern?",
+    "cn": "您是否确定移除此索引模式？"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "confirmButtonText:\"Remove index pattern\"",
+    "cn": "confirmButtonText:\"移除索引模式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Hide advanced options</span>",
+    "cn": "隐藏高级选项</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Custom index pattern ID\\n",
+    "cn": "自定义索引模式ID\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Kibana will provide a unique identifier for each index pattern.\\n        If you do not want to use this unique ID, enter a custom one.\\n",
+    "cn": "Kibana将为每个索引模式提供唯一标识符。\\n如果您不想使用这个唯一ID，请输入一个自定义ID。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Expand your time range\\n",
+    "cn": "扩大您的时间范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "I see you are looking at an index with a date field. It is possible your query does not match anything in the current time range, or that there is no data at all in the currently selected time range. Click the button below to open the time picker. For future reference you can open the time picker by clicking on the\\n",
+    "cn": "我看到您正在查看带有日期字段的索引。您的查询可能与当前时间范围内的任何内容都不匹配，或者在当前选定的时间范围内没有任何数据。单击下面的按钮打开时间选择器。为了将来引用，您可以通过单击屏幕右上方的\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "button in the top right corner of your screen.\\n",
+    "cn": "打开时间选择器按钮。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Refine your query\\n",
+    "cn": "改善您的查询\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "The search bar at the top uses Elasticsearch\\'s support for Lucene",
+    "cn": "顶部的搜索框使用Elasticsearch所支持的Lucene"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Query String syntax</a>",
+    "cn": "查询字串语法</a>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ". Let\\'s say we\\'re searching web server logs that have been parsed into a few fields.\\n",
+    "cn": "。假设我们正在搜索已经解析成几个字段的Web服务器日志。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "This will reset the field popularity counters. Are you sure you want to refresh your fields?",
+    "cn": "此操作将重置字段流行计数器。您确定要刷新您的字段吗？"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "confirmButtonText:\"Refresh fields\"",
+    "cn": "confirmButtonText:\"刷新字段\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "View single document\\n",
+    "cn": "单文档视图\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Single Document\\n",
+    "cn": "单文档\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Create interactive controls for easy dashboard manipulation.",
+    "cn": "创建交互式控件，便于仪表盘操作。"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Controls\"",
+    "cn": "title:\"控制图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"This visualization is marked as experimental. \"",
+    "cn": "\"这个视图被标记为实验阶段视图。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Have feedback? Please create an issue in \\n",
+    "cn": "有反馈吗？请创建一个问题在 \\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Update Kibana filters on each change",
+    "cn": "在每一个变动上更新Kibana筛选器"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "No cached mapping for this field. Refresh field list from the Management > Index Patterns page",
+    "cn": "此字段没有缓存映射。请从[管理]>[索引模式]页面刷新字段列表"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "View surrounding documents\\n",
+    "cn": "查看相邻文档\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>newer documents</span>",
+    "cn": "<span>新文档</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Load {{ contextApp.state.queryParameters.defaultStepSize }} more\\n",
+    "cn": "载入 +{{ contextApp.state.queryParameters.defaultStepSize }} 个\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<div>older documents</div>",
+    "cn": "<div>旧文档</div>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<small>Export:</small>",
+    "cn": "<small>导出：</small>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n      Raw <i",
+    "cn": ">\\n      原始内容 <i"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n      Formatted <i",
+    "cn": ">\\n      格式化的内容 <i"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Actions\\n",
+    "cn": ">\\n          操作\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">Per Page</label>",
+    "cn": ">每页</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show metrics for every bucket/level\\n",
+    "cn": "为每个桶/级别显示度量\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show partial rows\\n",
+    "cn": "显示部分行\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Calculate metrics for every bucket/level\\n",
+    "cn": "计算每个桶/级别的度量\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show total\\n",
+    "cn": "显示总数\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Total function</label>",
+    "cn": "统计函数</label>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n  Add Filter\\n",
+    "cn": "\\n  添加筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Donut\\n",
+    "cn": "环状显示\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Split Slices\"",
+    "cn": "title:\"分割切片\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Pie Settings\\n",
+    "cn": "饼图设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Labels Settings\\n",
+    "cn": "标签设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show Top Level Only\\n",
+    "cn": "仅显示顶层\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Show Values\\n",
+    "cn": "显示值\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "Truncate\\n",
+    "cn": "字符截断\\n"
+  },
+  {
+    "path": "/optimize/.cache/",
+    "en": "'No results displayed because all values equal 0.'",
+    "cn": "'没有显示结果，因为所有的值等于0。'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  }
+]
