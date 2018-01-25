@@ -2981,33 +2981,33 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"type\"}",
+    "cn": "{title:\"类型\"}"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"format\"}",
+    "cn": "{title:\"格式\"}"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"searchable\"",
+    "cn": "{title:\"可搜索\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"aggregatable\"",
+    "cn": "title:\"可聚合\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"excluded\"",
+    "cn": "{title:\"排除的\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{title:\"controls\"",
+    "cn": "{title:\"管理\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
