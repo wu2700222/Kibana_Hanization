@@ -3041,18 +3041,18 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "round to the {{units[relative.to.unit.substring(0,1)]}}\\n",
+    "cn": "一整{{units[relative.to.unit.substring(0,1)]}}\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n          From\\n",
+    "cn": "\\n          从\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\\n          To\\n",
+    "cn": "\\n          到\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
