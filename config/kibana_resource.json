@@ -2202,12 +2202,12 @@
   {
     "path": "/optimize/bundles/kibana.bundle.js",
     "en": "Looking for matching indices\\n",
-    "cn": "正在查找匹配的索引\\n"
+    "cn": "查找匹配的索引中\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
     "en": "Just a sec...\\n",
-    "cn": "请稍等几秒...\\n"
+    "cn": "请稍候...\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
@@ -3101,107 +3101,1117 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h1\",null,\"Add Data to Kibana\")",
+    "cn": "createElement(\"h1\",null,\"添加数据到Kibana\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"Use these solutions to quickly turn your data into pre-built dashboards and monitoring systems.\")",
+    "cn": "createElement(\"p\",null,\"使用这些解决方案来快速转换您的数据到预建的仪表盘和监测系统。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(_components.KuiCardDescriptionText,null,\"APM automatically collects in-depth performance metrics and errors from inside your applications.\")",
+    "cn": "createElement(_components.KuiCardDescriptionText,null,\"APM自动从应用程序内部收集深层的性能指标和错误。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ")},\"Add APM\")))",
+    "cn": ")},\"添加APM\")))"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(_components.KuiCardDescriptionText,null,\"Ingest logs from popular data sources and easily visualize in preconfigured dashboards.\")",
+    "cn": "createElement(_components.KuiCardDescriptionText,null,\"从流行的且易于在预设仪表盘中进行可视化展现的数据源获取日志。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ")},\"Add log data\")))",
+    "cn": ")},\"添加日志数据\")))"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "KuiCardDescriptionText,null,\"Collect metrics from the operating system and services running on your servers.\")",
+    "cn": "KuiCardDescriptionText,null,\"从运行在服务器上的操作系统和服务中收集指标。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ")},\"Add metric data\")))",
+    "cn": ")},\"添加指标数据\")))"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"Metrics\")",
+    "cn": "createElement(\"p\",null,\"指标\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"Logging\")",
+    "cn": "createElement(\"p\",null,\"日志\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"Security analytics\")",
+    "cn": "createElement(\"p\",null,\"安全性分析\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(_components.KuiCardDescriptionText,null,\"Centralize security events for interactive investigation in ready-to-go visualizations.\")",
+    "cn": "createElement(_components.KuiCardDescriptionText,null,\"将安全事件集中到便于进入的可视化交互式调查中。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ")},\"Add security events\")",
+    "cn": ")},\"添加安全事件\")"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Add a filter\\n",
+    "cn": "添加筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n  Add Filter\\n",
+    "cn": "\\n  添加筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">Add</span>\\n",
+    "cn": ">添加</span>\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">Edit</span>",
+    "cn": ">编辑</span>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n      filter\\n    </div>",
+    "cn": "\\n      筛选器\\n    </div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Filter\\n        </label>",
+    "cn": "\\n          筛选器\\n        </label>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Search filter values\\n",
+    "cn": "搜索筛选器值\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n              Edit Query DSL\\n",
+    "cn": "\\n              编辑DSL查询语句\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "placeholder=\"Fields...\">",
+    "cn": "placeholder=\"字段...\">"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Search filter values\\n",
+    "cn": "使用查询筛选器\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "for=\"filterEditorLabelInput\"\\n        >\\n          Label\\n",
+    "cn": "for=\"filterEditorLabelInput\"\\n        >\\n          标签\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "placeholder=\"Optional\"",
+    "cn": "placeholder=\"选填\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "ng-click=\"filterEditor.onCancel()\"\\n      >\\n        Cancel\\n      </button>",
+    "cn": "ng-click=\"filterEditor.onCancel()\"\\n      >\\n        取消\\n      </button>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "ng-click=\"filterEditor.save()\"\\n      >\\n        Save\\n      </button>",
+    "cn": "ng-click=\"filterEditor.save()\"\\n      >\\n        保存\\n      </button>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<h2>Searching</h2>",
+    "cn": "<h2>查询</h2>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "placeholder=\"Operators...\">\\n",
+    "cn": "placeholder=\"条件...\">\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "placeholder=\"Value...\"\\n",
+    "cn": "placeholder=\"值...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Filters are built using the",
+    "cn": "筛选器使用的查询语法是"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<div class=\"kuiLocalDropdownTitle\">Save Search</div>",
+    "cn": "<div class=\"kuiLocalDropdownTitle\">保存查询</div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"New Saved Search\",description",
+    "cn": "title:\"新建查询\",description"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "class=\"kuiButton kuiButton--primary\"\\n  >\\n    Save\\n",
+    "cn": "class=\"kuiButton kuiButton--primary\"\\n  >\\n    保存\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<div class=\"kuiLocalDropdownTitle\">Open Search</div>",
+    "cn": "<div class=\"kuiLocalDropdownTitle\">打开已保存的查询</div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "tooltip=\"Reload Saved Search\"",
+    "cn": "tooltip=\"重新载入此查询\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "nouns:\"saved searches\"",
+    "cn": "nouns:\"已保存的查询\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "ng-attr-placeholder=\"{{ finder.properties.nouns | label }} Filter...\"\\n",
+    "cn": "ng-attr-placeholder=\"{{ finder.properties.nouns | label }}过滤条件...\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<span class=\"paginate-heading\">\\n        Name\\n",
+    "cn": "<span class=\"paginate-heading\">\\n        名称\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Actions\\n",
+    "cn": "\\n          操作\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<strong>All filters:</strong>",
+    "cn": "<strong>所有筛选器:</strong>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Enable</a></div>",
+    "cn": "启用</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Disable</a></div>",
+    "cn": "禁用</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Pin</a></div>",
+    "cn": "钉住</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Unpin</a></div>",
+    "cn": "取消钉住</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Invert</a></div>",
+    "cn": "换位</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Toggle</a></div>",
+    "cn": "开关</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Remove</a></div>",
+    "cn": "移除</a></div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "1===itemsSelectedCount?\"1 item selected\":itemsSelectedCount+\" items selected\"",
+    "cn": "1===itemsSelectedCount?\"1 个选中条目\":itemsSelectedCount+\" 个选中条目\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "{placeholder:\"Search...\"}",
+    "cn": "{placeholder:\"搜索...\"}"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "This page lists every field in the <strong>{{::indexPattern.title}}</strong>\\n        index and the field\\'s associated core type as recorded by Elasticsearch.\\n        While this list allows you to view the core type of each field, changing\\n        field types must be done using Elasticsearch\\'s",
+    "cn": "此页面列出了<strong>{{::indexPattern.title}}</strong>中被\\nElasticsearch记录的所有字段、索引和字段的相关类型。\\n在此页允许您查看所有字段的字段类型的同时,\\n        改变字段类型必须使用Elasticsearch的"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n  Scroll to top\\n</button>",
+    "cn": "\\n  滚动到顶部\\n</button>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<label>Page Size</label>\\n",
+    "cn": "<label>分页大小</label>\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Time Range\\n",
+    "cn": "\\n          时间范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Quick\\n",
+    "cn": "\\n            快速\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n            Relative\\n",
+    "cn": ">\\n            相对\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n            Absolute\\n",
+    "cn": ">\\n            绝对\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Today\"",
+    "cn": "display:\"今天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"This week\"",
+    "cn": "display:\"本周\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"This month\"",
+    "cn": "display:\"本月\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"This year\"",
+    "cn": "display:\"本年\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"The day so far\"",
+    "cn": "display:\"今天截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Week to date\"",
+    "cn": "display:\"本周截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Month to date\"",
+    "cn": "display:\"本月截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Year to date\"",
+    "cn": "display:\"本年截止到当前\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Yesterday\"",
+    "cn": "display:\"昨天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Day before yesterday\"",
+    "cn": "display:\"前天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"This day last week\"",
+    "cn": "display:\"上周的今天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Previous week\"",
+    "cn": "display:\"上周\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Previous month\"",
+    "cn": "display:\"上月\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Previous year\"",
+    "cn": "display:\"去年\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 15 minutes\"",
+    "cn": "display:\"最近15分钟\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 30 minutes\"",
+    "cn": "display:\"最近30分钟\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 1 hour\"",
+    "cn": "display:\"最近1小时\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 4 hours\"",
+    "cn": "display:\"最近4小时\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 12 hours\"",
+    "cn": "display:\"最近12小时\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 24 hours\"",
+    "cn": "display:\"最近24小时\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 7 days\"",
+    "cn": "display:\"最近7天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 30 days\"",
+    "cn": "display:\"最近30天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 60 days\"",
+    "cn": "display:\"最近60天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 90 days\"",
+    "cn": "display:\"最近90天\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 6 months\"",
+    "cn": "display:\"最近6个月\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 1 year\"",
+    "cn": "display:\"最近1年\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 2 years\"",
+    "cn": "display:\"最近2年\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Last 5 years\"",
+    "cn": "display:\"最近5年\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Auto-refresh\\n",
+    "cn": "自动刷新\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n    Help\\n",
+    "cn": "\\n    帮助\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "key:\"help\"",
+    "cn": "key:\"帮助\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Set To Now\\n",
+    "cn": "设置为当前时间\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Quick\\n",
+    "cn": "\\n            快速时间\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Relative\\n",
+    "cn": "\\n            相对时间\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Absolute\\n",
+    "cn": "\\n            绝对时间\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "round to the {{units[relative.from.unit.substring(0,1)]}}\\n",
+    "cn": "一整{{units[relative.from.unit.substring(0,1)]}}\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "round to the {{units[relative.to.unit.substring(0,1)]}}\\n",
+    "cn": "一整{{units[relative.to.unit.substring(0,1)]}}\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          From\\n",
+    "cn": "\\n          从\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          To\\n",
+    "cn": "\\n          到\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n      Go\\n    </button>",
+    "cn": "\\n      查询\\n    </button>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<strong>From</strong> must occur before <strong>To</strong>\\n",
+    "cn": "<strong>起始时间</strong>必须在<strong>结束时间</strong>之前\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "confirmButtonText:\"Delete\",onConfirm:doRemove,title:\"Delete index pattern?\"}",
+    "cn": "confirmButtonText:\"删除\",onConfirm:doRemove,title:\"删除索引模式？\"}"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "<div class=\"euiBadge euiBadge--warning\">Warning</div>\\n",
+    "cn": "<div class=\"euiBadge euiBadge--warning\">警告</div>\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h2\",null,\"Step 1 of 2: Define index pattern\")",
+    "cn": "createElement(\"h2\",null,\"步骤1-2：定义索引模式\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "{label:\"Index pattern\",",
+    "cn": "{label:\"索引模式\","
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"You can use a \",_react2.default.createElement(\"strong\",null,\"*\"),\" as a wildcard in your index pattern.\")",
+    "cn": "createElement(\"p\",null,\"您可以在索引模式中使用\",_react2.default.createElement(\"strong\",null,\"*\"),\"号作为通配符。\")"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"You can't use empty spaces or the characters \"",
+    "cn": "createElement(\"p\",null,\"您不能使用空格或这些字符 \""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"span\",null,\"Your index pattern can match any of your \",_react2.default.createElement(\"strong\",null,allIndices.length,\" indices\"),\", below.\")",
+    "cn": "createElement(\"span\",null,\"您的索引模式可以匹配您的 \",_react2.default.createElement(\"strong\",null,allIndices.length,\" 个索引中的任何一个\"),\"，如下所示：\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "createElement(\"span\",null,\"You only have a single index. You can create an index pattern to match it.\")",
+    "cn": "createElement(\"span\",null,\"您只有一个索引。您可以创建一个索引模式来匹配它。\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "createElement(\"strong\",null,\"Success!\")",
+    "cn": "createElement(\"strong\",null,\"成功！\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"  Your index pattern matches \",_react2.default.createElement(\"strong\",null,exactMatchedIndices.length,\" \",exactMatchedIndices.length>1?\"indices\":\"index\"),\".\")",
+    "cn": "\"  您的索引模式匹配到 \",_react2.default.createElement(\"strong\",null,exactMatchedIndices.length,\" \",exactMatchedIndices.length>1?\"个索引\":\"个索引\"),\".\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Your index pattern doesn't match any indices, but you have \",_react2.default.createElement(\"strong\",null,partialMatchedIndices.length,\" \",partialMatchedIndices.length>1?\"indices \":\"index \"),\"which \",partialMatchedIndices.length>1?\"look\":\"looks\",\" similar.\")",
+    "cn": "\"您的索引模式未匹配到任何索引，但是您有 \",_react2.default.createElement(\"strong\",null,partialMatchedIndices.length,\" \",partialMatchedIndices.length>1?\"个索引 \":\"个索引 \"),\" \",partialMatchedIndices.length>1?\"看起来\":\"看起来\",\" 相似的。\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "createElement(\"span\",null,\"The index pattern you've entered doesn't match any indices. You can match any of your \",_react2.default.createElement(\"strong\",null,allIndices.length,\" indices\"),\", below.\")",
+    "cn": "createElement(\"span\",null,\"您输入的索引模式未匹配到任何索引. 您可以匹配您的 \",_react2.default.createElement(\"strong\",null,allIndices.length,\" 个索引中的任何一个\"),\", 如下所示：\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"Next step\")",
+    "cn": "},\"下一步\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"Looking for matching indices...\")",
+    "cn": "},\"查找匹配的索引中...\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"Just a sec...\")",
+    "cn": "},\"请稍候...\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"Rows per page: \",perPage)",
+    "cn": "},\"每页行数: \",perPage)"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n            Refresh\\n          </a>",
+    "cn": "\\n            刷新\\n          </a>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n      The Time Filter will use this field to filter your data by time.\\n",
+    "cn": ">\\n      通过时间筛选您的数据的时间筛选器。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n      You can choose not to have a time field, but you will not be able to narrow down your data by a time range.\\n",
+    "cn": "\\n      您可以选择没有时间字段，但不能按时间范围缩小数据范围。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{confirmButtonText:\"Refresh\",onConfirm:function(){$scope.indexPattern.refreshFields()},title:\"Refresh field list?\"}",
+    "cn": "{confirmButtonText:\"刷新\",onConfirm:function(){$scope.indexPattern.refreshFields()},title:\"刷新字段列表？\"}"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "aria-label=\"Reload field list\"\\n      tooltip=\"Refresh field list\"\\n",
+    "cn": "aria-label=\"重载字段列表\"\\n      tooltip=\"刷新字段列表\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "confirmModal(\"This action resets the popularity counter of each field.\"",
+    "cn": "confirmModal(\"此操作将重置每个字段的流行计数。\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "'APM (Application Performance Monitoring) automatically collects in-depth' + ' performance metrics and errors from inside your applications.'",
+    "cn": "'APM (应用程序性能监控) 自动从应用程序中收集深入的性能指标和错误。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "${apmIntro} APM consists of three components - the Agents, the Server, and the UI:\\n",
+    "cn": "${apmIntro} APM包含3个组件 - 代理、服务器和用户界面：\\n"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "'* The Agents are libraries in your application that run inside of your application process.\\n'",
+    "cn": "'* 代理是运行在您的应用程序进程内部的应用程序库。\\n'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "'* The Server processes data from agents and stores the application data in Elasticsearch.\\n'",
+    "cn": "'* 服务器处理来自于代理的数据并且存储应用程序数据到Elasticsearch。\\n'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "'* The UI is the dedicated APM UI (X-Pack Basic) and preconfigured dashboards.\\n\\n'",
+    "cn": "'* 用户界面是专用的APM UI（基于X-pack）和预先配置的仪表盘。\\n\\n'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/apm/",
+    "en": "'For more information, [please see our documentation]' + '({config.docs.base_url}guide/en/apm/get-started/{config.docs.version}/index.html).' + ' To get started, follow the steps below.'",
+    "cn": "'要获取更多信息， [请查看我们的文档]' + '({config.docs.base_url}guide/en/apm/get-started/{config.docs.version}/index.html)。' + ' 要开始，请按照下面的步骤：'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Apache logs'",
+    "cn": "name: 'Apache日志'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect and parse access and error logs created by the Apache HTTP server.'",
+    "cn": "shortDescription: '收集和解析Apache HTTP服务器创建的访问日志和错误日志。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The apache2 Filebeat module parses access and error logs created by the Apache 2 HTTP server.' + ' [Learn more]({config.docs.beats.filebeat}/filebeat-module-apache2.html)' + ' about the apache2 module.'",
+    "cn": "'Apache2 Filebeat模块解析Apache 2 HTTP服务器创建的访问日志和错误日志。' + ' [学习更多]({config.docs.beats.filebeat}/filebeat-module-apache2.html)' + ' 关于Apache2模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'MySQL logs'",
+    "cn": "name: 'MySQL日志'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect and parse error and slow logs created by MySQL.'",
+    "cn": "shortDescription: '收集和分析MySQL创建的错误和变慢日志。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `mysql` Filebeat module parses error and slow logs created by MySQL.' + ' [Learn more]({config.docs.beats.filebeat}/filebeat-module-mysql.html)' + ' about the `mysql` module.'",
+    "cn": "'`MySQL` Filebeat解析由MySQL创建的错误和变慢日志。' + ' [学习更多]({config.docs.beats.filebeat}/filebeat-module-mysql.html)' + ' 关于`MySQL`模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Nginx logs'",
+    "cn": "name: 'Nginx日志'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect and parse access and error logs created by the Nginx HTTP server.'",
+    "cn": "shortDescription: '收集和解析由Nginx HTTP服务器创建的访问日志和错误日志。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `nginx` Filebeat module parses access and error logs created by the Nginx HTTP server.' + ' [Learn more]({config.docs.beats.filebeat}/filebeat-module-nginx.html)' + ' about the nginx module.'",
+    "cn": "'`Nginx` Filebeat模块解析由Nginx HTTP服务器创建的访问日志和错误日志。' + ' [学习更多]({config.docs.beats.filebeat}/filebeat-module-nginx.html)' + ' 关于Nginx模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Redis logs'",
+    "cn": "name: 'Redis日志'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect and parse error and slow logs created by Redis.'",
+    "cn": "shortDescription: '收集和解析由Redis创建的错误和变慢日志。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `redis` Filebeat module parses error and slow logs created by Redis.' + ' For Redis to write error logs, make sure the `logfile` option, from the' + ' Redis configuration file, is set to `redis-server.log`.' + ' The slow logs are read directly from Redis via the `SLOWLOG` command.' + ' For Redis to record slow logs, make sure the `slowlog-log-slower-than`' + ' option is set.' + ' Note that the `slowlog` fileset is experimental.' + ' [Learn more]({config.docs.beats.filebeat}/filebeat-module-redis.html)' + ' about the `redis` module.'",
+    "cn": "'`Redis` Filebeat模块解析由Redis创建的错误日志和变慢日志。' + ' 要让Redis记录错误日志，请确保Redis配置文件中的`logfile`选项被设置为`redis-server.log`。' + ' 变慢日志可以通过`SLOWLOG`命令从Redis直接读取。' + ' 要让Redis记录变慢日志，请确保`slowlog-log-slower-than`' + ' 选项已被设置。' + ' 请注意`slowlog`是实验选项。' + ' [学习更多]({config.docs.beats.filebeat}/filebeat-module-redis.html)' + ' 关于`Redis`模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'System logs'",
+    "cn": "name: '系统日志'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect and parse logs written by the local Syslog server.'",
+    "cn": "shortDescription: '收集和分析由服务器日志服务记录的日志。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `system` Filebeat module collects and parses logs created by the system logging service of common ' + ' Unix/Linux based distributions. This module is not available on Windows.' + ' [Learn more]({config.docs.beats.filebeat}/filebeat-module-system.html)' + ' about the `system` module.'",
+    "cn": "'`System` Filebeat收集和解析由常见的基于Unix/Linux的系统日志服务记录的日志。 此模块并不适用于Windows。' + ' [学习更多]({config.docs.beats.filebeat}/filebeat-module-system.html)' + ' 关于`System`模块。'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "[{id:ALL,name:\"All\"},{id:\"logging\",name:\"Logging\"},{id:\"metrics\",name:\"Metrics\"},{id:\"security\",name:\"Security Analytics\"}];",
+    "cn": "[{id:ALL,name:\"所有\"},{id:\"logging\",name:\"日志\"},{id:\"metrics\",name:\"指标\"},{id:\"security\",name:\"安全分析\"}];"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'System metrics',",
+    "cn": "name: '系统指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collects CPU, memory, network, and disk statistics from the host.',",
+    "cn": "shortDescription: '从目标主机上收集的CPU、内存、网络、磁盘统计信息。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `system` Metricbeat module collects CPU, memory, network, and disk statistics from the host.' + ' It collects system wide statistics as well as per process and per filesystem statistics.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-system.html)' + ' about the system module.'",
+    "cn": "'`System` Metricbeat模块从目标主机上收集的CPU、内存、网络、磁盘统计信息。' + ' 它收集系统范围的统计信息，以及每个进程和每个文件系统的统计数据。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-system.html)' + ' 关于system模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Redis metrics',",
+    "cn": "name: 'Redis指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches internal metrics from Redis.',",
+    "cn": "shortDescription: '从Redis内部获取指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `redis` Metricbeat module fetches internal metrics from the Redis server.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-redis.html)' + ' about the redis module.'",
+    "cn": "'`Redis` Metricbeat模块从Redis服务器内部获取指标。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-redis.html)' + ' 关于redis模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Nginx metrics',",
+    "cn": "name: 'Nginx指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches internal metrics from the Nginx HTTP server.',",
+    "cn": "shortDescription: '从Nginx HTTP服务器内部获取指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `nginx` Metricbeat module fetches internal metrics from the Nginx HTTP server.' + ' The module scrapes the server status data from the web page generated by the' + ' [ngx_http_stub_status_module](http://nginx.org/en/docs/http/ngx_http_stub_status_module.html)' + ' module, which needs to be enabled in you Nginx installation.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-nginx.html)' + ' about the nginx module.'",
+    "cn": "'`Nginx` Metricbeat模块从Nginx HTTP服务器内部获取指标。' + ' 此模块从通过' + ' [ngx_http_stub_status_module](http://nginx.org/en/docs/http/ngx_http_stub_status_module.html)' + ' 模块生成的网页上获取服务器状态数据，此模块需要您在Nginx安装时启用。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-nginx.html)' + ' 关于Nginx模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'MySQL metrics',",
+    "cn": "name: 'MySQL指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches internal metrics from MySQL.',",
+    "cn": "shortDescription: '从MySQL内部获取的指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `mysql` Metricbeat module fetches internal metrics from the MySQL server.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-mysql.html)' + ' about the mysql module.'",
+    "cn": "'`Mysql` Metricbeat模块从MySQL服务器内部获取指标。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-mysql.html)' + ' 关于mysql模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Kubernetes metrics',",
+    "cn": "name: 'Kubernetes指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches metrics from your Kubernetes installation.',",
+    "cn": "shortDescription: '从您的Kubernetes安装API中获取指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `kubernetes` Metricbeat module fetches metrics from the Kubernetes APIs.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-kubernetes.html)' + ' about the kubernetes module.'",
+    "cn": "'`Kubernetes` Metricbeat模块通过Kubernetes API获取指标。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-kubernetes.html)' + ' 关于kubernetes模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Docker metrics',",
+    "cn": "name: 'Docker指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches metrics about your Docker containers.',",
+    "cn": "shortDescription: '获取关于您的Docker容器的指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `docker` Metricbeat module fetches metrics from the Docker server.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-docker.html)' + ' about the docker module.'",
+    "cn": "'`Docker` Metricbeat模块从Docker服务器获取指标。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-docker.html)' + ' 关于docker模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Apache metrics',",
+    "cn": "name: 'Apache指标',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Fetches internal metrics from the Apache 2 HTTP server.',",
+    "cn": "shortDescription: '从Apache 2 HTTP服务器内部获取指标。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The `apache` Metricbeat module fetches internal metrics from the Apache 2 HTTP server.' + ' [Learn more]({config.docs.beats.metricbeat}/metricbeat-module-apache.html)' + ' about the apache module.'",
+    "cn": "'`Apache` Metricbeat模块从Apache 2 HTTP服务器内部获取指标。' + ' [学习更多]({config.docs.beats.metricbeat}/metricbeat-module-apache.html)' + ' 关于apache模块。'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect Netflow records sent by a Netflow exporter',",
+    "cn": "shortDescription: '收集Netflow发送的Netflow记录。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'The Logstash Netflow module simplifies the collection, normalization, and visualization of network flow data. ' + 'With a single command, the module parses network flow data, indexes the events into Elasticsearch, and installs a suite of Kibana ' + 'dashboards to get you exploring your data immediately. Logstash modules support Netflow Version 5 and 9. [Learn more]' + '({config.docs.logstash}/netflow-module.html) about the Netflow module'",
+    "cn": "'LogStash NetFlow模块简化了收集、规范化，以及网络流量数据的可视化。 ' + '使用一条简单的命令，此模块将会解析网络流量数据，索引事件到Elasticsearch并安装一个Kibana仪表盘套件' + '让您可以立即分析您的数据。Logstash模块支持Netflow版本5和9。 [学习更多]' + '({config.docs.logstash}/netflow-module.html) 关于Netflow模块。'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"View exported fields\")",
+    "cn": "},\"查看导出的字段\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "onClick:_this.onPrem,label:\"On premise\"",
+    "cn": "onClick:_this.onPrem,label:\"准备工作\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "onClick:_this.onPremElasticCloud,label:\"Elastic Cloud\"",
+    "cn": "onClick:_this.onPremElasticCloud,label:\"Elastic云\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Getting Started',",
+    "cn": "title: '开始使用',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "title: 'Download and install Metricbeat',",
+    "cn": "title: '下载并安装Metricbeat',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "title: 'Download and install Filebeat',",
+    "cn": "title: '下载并安装Filebeat',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "title: 'Edit the configuration',",
+    "cn": "title: '编辑配置文件',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "title: 'Start Metricbeat',",
+    "cn": "title: '启动Metricbeat',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "title: 'Start Filebeat',",
+    "cn": "title: '启动Filebeat',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Enable and configure the apache module',",
+    "cn": "title: '启用和配置Apache模块',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Enable and configure the docker module',",
+    "cn": "title: '启用和配置docker模块',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Enable and configure the mysql module',",
+    "cn": "title: '启用和配置mysql模块',"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "},\"Copy snippet\")",
+    "cn": "},\"复制代码段\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "createElement(\"h1\",null,\"Add Data to Kibana\")",
+    "cn": "createElement(\"h1\",null,\"添加数据到Kibana\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tutorial_directory\"},\"Add Data\")",
+    "cn": "tutorial_directory\"},\"添加数据\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "home\"},\"Home\")",
+    "cn": "home\"},\"主页\")"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "textPre: 'The `setup` command loads the Kibana dashboards. If the dashboards are already set up, ' + 'omit this command.',",
+    "cn": "textPre: '`setup`命令载入Kibana仪表盘。如果仪表盘已经建立，忽略这个命令。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "textPre: 'The `setup` command loads the Kibana dashboards.' + ' If the dashboards are already set up, omit this command.',",
+    "cn": "textPre: '`setup`命令载入Kibana仪表盘。如果仪表盘已经建立，忽略这个命令。',"
+  },
+  {
+    "path": "/src/core_plugins/kibana/common/tutorials/",
+    "en": "textPre: 'First time using Filebeat? See the [Getting Started Guide]' + '({config.docs.beats.filebeat}/filebeat-getting-started.html).",
+    "cn": "textPre: '第一次使用Filebeat？请查看 [入门指南]' + '({config.docs.beats.filebeat}/filebeat-getting-started.html)。"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Download and unpack APM Server'",
+    "cn": "title: '下载并解压APM安装包'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Import dashboards'",
+    "cn": "title: '导入仪表盘'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Edit the configuration'",
+    "cn": "title: '编辑配置文件'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Start APM Server'",
+    "cn": "title: '启动APM服务'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Install the APM agent'",
+    "cn": "title: '安装APM代理'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Configure the agent'",
+    "cn": "title: '配置APM代理'"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "{name:\"vega\",title:\"Vega\",description:\"Create custom visualizations using Vega and VegaLite\"",
+    "cn": "{name:\"vega\",title:\"Vega\",description:\"使用Vega和VegaLite创建自定义的可视化视图\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "</i> This visualization is marked as experimental. '",
+    "cn": "</i> 这个可视化视图被标记为实验中的。 '"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<p>The Console UI is split into two panes: an editor pane (left) and a response pane (right).\\n    Use the editor to type requests and submit them to Elasticsearch. The results will be displayed in\\n    the response pane on the right side.\\n  </p>",
+    "cn": "<p>控制台界面分为两个窗格：一个编辑器窗格（左）和一个响应窗格（右）。\\n使用编辑器窗格提交请求到Elasticsearch。结果将显示在右侧的响应窗格中。</p>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<p>While typing a request, Console will make suggestions which you can then accept by hitting Enter/Tab.\\n    These suggestions are made based on the request structure <i>as well as</i> your indices and types.\\n  </p>",
+    "cn": "<p>在输入一个请求时，控制台将通过敲击回车键来提供您可以接受的建议。\\n这些建议是根据请求结构以及索引和类型来制定的。\\n</p>"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Today'",
+    "cn": "display: '今天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'This week'",
+    "cn": "display: '本周'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'This month'",
+    "cn": "display: '本月'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'This year'",
+    "cn": "display: '本年'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'The day so far'",
+    "cn": "display: '今天截止到当前'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Week to date'",
+    "cn": "display: '本周截止到当前'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Month to date'",
+    "cn": "display: '本月截止到当前'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Year to date'",
+    "cn": "display: '本年截止到当前'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Yesterday'",
+    "cn": "display: '昨天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Day before yesterday'",
+    "cn": "display: '前天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'This day last week'",
+    "cn": "display: '上周的今天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Previous week'",
+    "cn": "display: '上周'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Previous month'",
+    "cn": "display: '上月'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Previous year'",
+    "cn": "display: '去年'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 15 minutes'",
+    "cn": "display: '最近15分钟'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 30 minutes'",
+    "cn": "display: '最近30分钟'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 1 hour'",
+    "cn": "display: '最近1小时'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 4 hours'",
+    "cn": "display: '最近4小时'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 12 hours'",
+    "cn": "display: '最近12小时'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 24 hours'",
+    "cn": "display: '最近24小时'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Today so far'",
+    "cn": "display: '今天到目前为止'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 7 days'",
+    "cn": "display: '最近7天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 30 days'",
+    "cn": "display: '最近30天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 60 days'",
+    "cn": "display: '最近60天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 90 days'",
+    "cn": "display: '最近90天'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 6 months'",
+    "cn": "display: '最近6个月'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 1 year'",
+    "cn": "display: '最近1年'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 2 years'",
+    "cn": "display: '最近2年'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/ui_setting_defaults.js",
+    "en": "display: 'Last 5 years'",
+    "cn": "display: '最近5年'"
   }
 ]
