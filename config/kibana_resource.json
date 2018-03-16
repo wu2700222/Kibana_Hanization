@@ -4760,14 +4760,14 @@
     "cn": ">到</label>"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": ".bundle.js",
+    "en": "Group other values in separate bucket\\n",
+    "cn": "在单独的桶中分组其它值\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": ".bundle.js",
+    "en": "Show missing values\\n",
+    "cn": "显示丢失的值\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
