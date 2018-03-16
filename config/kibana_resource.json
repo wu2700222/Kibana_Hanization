@@ -4240,204 +4240,524 @@
     "cn": "\\n    名称\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"X-Axis\"",
+    "cn": "title:\"X-轴\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Y-Axis\"",
+    "cn": "title:\"Y-轴\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Split Chart\"",
+    "cn": "title:\"分割制图\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Split Series\"",
+    "cn": "title:\"分割系列\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Options\"",
+    "cn": "title:\"选项\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "tooltip=\"Apply changes\"\\n",
+    "cn": "tooltip=\"应用更改\"\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "tooltip=\"Discard changes\"\\n",
+    "cn": "tooltip=\"放弃更改\"\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">Aggregation</label>\\n",
+    "cn": ">聚合</label>\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">Sub Aggregation</label>\\n",
+    "cn": ">子聚合</label>\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Metrics\\n",
+    "cn": "指标\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<label>Select {{ groupName }} type</label>\\n",
+    "cn": "<label>选择{{ groupName }}类型</label>\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Add {{ groupName }}\\n",
+    "cn": "添加{{ groupName }}\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Add sub-{{ groupName }}\\n",
+    "cn": "添加子{{ groupName }}\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Custom Metric\\n",
+    "cn": "自定义指标\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Custom Ranges\\n",
+    "cn": "自定义范围\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Advanced\\n",
+    "cn": "高级选项\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<label>JSON Input</label>\\n",
+    "cn": "<label>JSON格式输入</label>\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Any JSON formatted properties you add here will be merged with the elasticsearch aggregation definition for this section. For example <i>shard_size</i> on a <i>terms</i> aggregation\\n",
+    "cn": "此处添加的任何JSON格式的属性将与此部分的Elasticsearch聚合定义合并。例如在terms聚合上的shard_size\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Basic Settings\\n",
+    "cn": "基本设置\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Metrics & Axes\"",
+    "cn": "title:\"指标 & 坐标轴\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Panel Settings\"",
+    "cn": "title:\"面板设置\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Y-Axes\\n",
+    "cn": "Y-轴\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "X-Axis\\n",
+    "cn": "X-轴\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Chart 类型\\n",
+    "cn": "图表类型\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n            Mode\\n",
+    "cn": ">\\n            模式\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Value Axis\\n",
+    "cn": "值轴\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Show\\n",
+    "cn": "显示\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Hide\\n",
+    "cn": "隐藏\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Advanced Options\\n",
+    "cn": "高级选项\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n            Position\\n",
+    "cn": ">\\n            位置\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n        Position\\n",
+    "cn": ">\\n        位置\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Scale 类型\\n",
+    "cn": "度量类型\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Title\\n",
+    "cn": "标题\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Show Labels",
+    "cn": "显示标签"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Filter Labels",
+    "cn": "筛选标签"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Rotate\\n",
+    "cn": "旋转\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n            Truncate\\n",
+    "cn": ">\\n            截取\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n                Truncate\\n",
+    "cn": ">\\n                截取\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Custom Extents\\n",
+    "cn": "自定义范围\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Scale to Data Bounds\\n",
+    "cn": "度量到数据边界\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Set Axis Extents\\n",
+    "cn": "设置坐标轴范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n                  Max\\n",
+    "cn": ">\\n                  最大\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n                  Min\\n",
+    "cn": ">\\n                  最小\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": ">\\n        Settings\\n",
+    "cn": ">\\n        设置\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Legend Position\\n",
+    "cn": "说明位置\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Show Tooltip\\n",
+    "cn": "显示工具提示\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Order Buckets by Sum\\n",
+    "cn": "根据和对桶排序\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n        Grid\\n      </span>",
+    "cn": "\\n        网格\\n      </span>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "X-Axis Lines\\n",
+    "cn": "X轴线\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Y-Axis Lines\\n",
+    "cn": "Y轴线\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Field\\n  </label>",
+    "cn": "字段\\n  </label>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Settings</div>\\n",
+    "cn": "设置</div>\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Console\"",
+    "cn": "display:\"控制台\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Advanced Settings\"",
+    "cn": "display:\"高级设置\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Font Size</div>\\n",
+    "cn": "字体大小</div>\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Wrap long lines\\n",
+    "cn": "自动换行\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Autocomplete</div>",
+    "cn": "自动完成</div>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Fields\\n",
+    "cn": "字段\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Indices &amp; Aliases\\n",
+    "cn": "指数和别名\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Save\\n",
+    "cn": "保存\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Chart Type\\n",
+    "cn": "\\n            图表类型\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Show Labels\\n",
+    "cn": "\\n          显示标签\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n              Labels\\n",
+    "cn": "\\n              标签\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n                Filter Labels\\n",
+    "cn": "\\n                筛选标签\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Labels\\n",
+    "cn": "\\n          标签\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n      Show Tooltips\\n",
+    "cn": "\\n      显示工具提示\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n      Highlight\\n",
+    "cn": "\\n      高亮\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n      Heatmap Settings\\n",
+    "cn": "\\n      热图设置\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "  Reverse Color Schema\\n",
+    "cn": "  色彩反转模式\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "  Color Schema\\n",
+    "cn": "  颜色模式\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n      Color Scale\\n",
+    "cn": "\\n      颜色表\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n            Color\\n",
+    "cn": "\\n            颜色\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<strong>Required:</strong> You must specify at least one range.\\n          </p>",
+    "cn": "<strong>要求：</strong> 您必须提供至少一个范围。\\n          </p>"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "\\n          Add Range\\n",
+    "cn": "\\n          添加范围\\n"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Note: colors can be changed in the legend</div>",
+    "cn": "提示： 颜色可以在图例中更改。</div>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Percentage Mode\\n",
+    "cn": "百分比模式\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Number of colors\\n",
+    "cn": "颜色数\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Scale Type\\n",
+    "cn": "测量类型\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Show Line\\n",
+    "cn": "显示线条\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Line Mode\\n",
+    "cn": "线条模式\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Show Circles\\n",
+    "cn": "显示外环\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Line Width\\n",
+    "cn": "线条宽度\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Text Scale\\n",
+    "cn": "文本模式\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Font Size\\n",
+    "cn": "字体大小\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Show Label\\n",
+    "cn": "显示标签\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Gauge Type\\n",
+    "cn": "显示类型\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Vertical Split\\n",
+    "cn": "垂直分割\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Display warnings\\n",
+    "cn": "显示警告\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Base Layer Settings\\n",
+    "cn": "基础层设置\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Layer Settings\\n",
+    "cn": "层设置\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Show all shapes\\n",
+    "cn": "显示所有形状\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Vector map\\n",
+    "cn": "矢量图\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Join field\\n",
+    "cn": "加入域\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Style settings</div>",
+    "cn": ">样式设置</div>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Outline weight\\n",
+    "cn": "轮廓宽度\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        Layers\\n",
+    "cn": "\\n        层\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        WMS compliant map server\\n        <kbn-info info=\"Use WMS compliant map tile server. For advanced users only.\">",
+    "cn": "\\n        WMS地图服务器\\n        <kbn-info info=\"使用WMS地图服务器。仅适用于高级用户。\">"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        Ranges\\n",
+    "cn": "\\n        范围\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "  Style\\n",
+    "cn": "  样式\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Add Range\\n",
+    "cn": "添加范围"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "From\\n",
+    "cn": "从\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "To\\n",
+    "cn": "到\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">From</label>",
+    "cn": ">从</label>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">To</label>",
+    "cn": ">到</label>"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
