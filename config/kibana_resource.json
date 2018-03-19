@@ -1975,67 +1975,77 @@
     "cn": "<label class=\"small\">到:\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "<h1>No results found",
     "cn": "<h1>未查到数据"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "Unfortunately I could not find any results matching your search. I tried really hard. I looked all over the place and frankly, I just couldn\\'t find anything good. Help me, help you. Here are some ideas:",
     "cn": "抱歉，找不到符合查询条件的数据。以下是一些处理建议："
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "<h3>Refine your query</h3>",
     "cn": "<h3>重新查询</h3>"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "The search bar at the top uses Elasticsearch\\'s support for Lucene <a class=\"kuiLink\" ng-href=\"{{queryDocLinks.luceneQuerySyntax}}\" target=\"_blank\">Query String syntax</a>. Let\\'s say we\\'re searching web server logs that have been parsed into a few fields.",
     "cn": "顶部的查询框使用的是Elasticsearch所支持的Lucene <a class=\"kuiLink\" ng-href=\"{{queryDocLinks.luceneQuerySyntax}}\" target=\"_blank\">查询字符串语法</a>，如果我们正在查询已经被解析成相应字段的web日志。"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "<h4>Examples:</h4>",
     "cn": "<h4>例如:</h4>"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "Find requests that contain the number 200, in any field:\\n",
-    "cn": "在任意字段中查找包含数字200的请求：\\n"
+    "path": ".bundle.js",
+    "en": "<h4>Examples</h4>",
+    "cn": "<h4>例如</h4>"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "Or we can search in a specific field. Find 200 in the status field:\\n",
-    "cn": "或者我们也可以在特定字段中查找，如：在status字段中查找200：\\n"
+    "path": ".bundle.js",
+    "en": "Find requests that contain the number 200, in any field:",
+    "cn": "在任意字段中查找包含数字200的请求："
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "Find all status codes between 400-499:\\n",
-    "cn": "查找400-499之间所有状态码：\\n"
+    "path": ".bundle.js",
+    "en": "Or we can search in a specific field. Find 200 in the status field:",
+    "cn": "或者我们也可以在特定字段中查找，如：在status字段中查找200："
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "Find status codes 400-499 with the extension php:\\n",
-    "cn": "查找状态码在400-499之间并且extension值为php的请求：\\n"
+    "path": ".bundle.js",
+    "en": "Find all status codes between 400-499:",
+    "cn": "查找400-499之间所有状态码："
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
+    "en": "Find status codes 400-499 with the extension php:",
+    "cn": "查找状态码在400-499之间并且extension值为php的请求："
+  },
+  {
+    "path": ".bundle.js",
     "en": "Or HTML\\n",
     "cn": "或者HTML\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
+    "en": "<p>Or HTML</p>",
+    "cn": "<p>或者HTML</p>"
+  },
+  {
+    "path": ".bundle.js",
     "en": "\"Data already in Elasticsearch?\"",
     "cn": "\"Elasticsearch已有数据？\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "\"Set up index patterns\"",
     "cn": "\"建立索引模式\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "\"Welcome to Kibana\"",
     "cn": "\"欢迎来到Kibana\""
   },
@@ -4770,9 +4780,24 @@
     "cn": "显示丢失的值\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": ".bundle.js",
+    "en": "tooltip=\"Filter for value\"",
+    "cn": "tooltip=\"筛选含此值的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Filter out value\"",
+    "cn": "tooltip=\"筛选不含此值的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Toggle column in table\"",
+    "cn": "tooltip=\"切换表中的列\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Filter for field present\"",
+    "cn": "tooltip=\"筛选拥有此字段的记录\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
