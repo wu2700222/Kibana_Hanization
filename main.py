@@ -5,8 +5,12 @@ import os
 import sys
 import json
 
-reload(sys)
-sys.setdefaultencoding('utf-8')
+try:
+    reload(sys)
+    sys.setdefaultencoding('utf-8')
+except Exception as e:
+    pass
+
 
 class Translate(object):
     def __init__(self, dir):
@@ -60,7 +64,7 @@ if __name__ == '__main__':
             obj = Translate(dir)
             obj.tran()
             print("恭喜，Kibana汉化完成！")
-        except Exception, e:
+        except Exception as e:
             print("汉化Kibana时出错，错误：%s" % str(e))
     else:
         print("使用示例: python main.py \"/opt/kibana-5.6.2-darwin-x86_64/\"")
