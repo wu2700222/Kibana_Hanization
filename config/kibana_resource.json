@@ -4800,37 +4800,267 @@
     "cn": "tooltip=\"筛选拥有此字段的记录\""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
+    "en": "createElement(_.KuiTableInfo,null,\"Loading...\")",
+    "cn": "createElement(_.KuiTableInfo,null,\"载入中...\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "ng-bind=\"::field.display ? \\'remove\\' : \\'add\\'\"\\n",
+    "cn": "ng-bind=\"::field.display ? \\'移除\\' : \\'添加\\'\"\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Unindexed fields can not be searched\">\\n",
+    "cn": "tooltip=\"无法检索未索引的字段\">\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "<p ng-bind=\"\\'No matching \\' + finder.properties.nouns + \\' found.\\'\">",
+    "cn": "<p ng-bind=\"\\'没有发现匹配的 \\' + finder.properties.nouns + \\' 。\\'\">"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Add new {{ finder.properties.noun }}\\n",
+    "cn": "添加新的 {{ finder.properties.noun }}\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "This changes the time filter to the currently selected time each time this dashboard is loaded.\\n",
+    "cn": "每次加载此仪表盘时，都会将时间筛选器更改为当前选定时间。\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "<h2 class=\"euiTitle\">Keyboard commands</h2>\\n",
+    "cn": "<h2 class=\"euiTitle\">快捷键</h2>\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "<h2 class=\"euiTitle\">Request format</h2>\\n",
+    "cn": "<h2 class=\"euiTitle\">请求格式</h2>\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Auto indent current request</dd>",
+    "cn": ">自动缩进当前请求</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Open Auto complete (even if not typing)</dd>",
+    "cn": ">开启自动完成(即便没有在输入)</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Submit request</dd>",
+    "cn": ">提交请求</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Jump to the previous/next request start or end.</dd>",
+    "cn": ">跳到前一条/后一条请求的开始或末尾</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Collapse/expand current scope.</dd>",
+    "cn": ">折叠/展开当前内容</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Collapse all scopes but the current one. Expand by adding a shift.</dd>",
+    "cn": ">折叠所有内容，按shift键时展开所有内容</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Switch focus to auto-complete menu. Use arrows to further select a term</dd>",
+    "cn": ">从自动完成菜单中选择期望的条目</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Select the currently selected or the top most term in auto-complete menu</dd>",
+    "cn": ">从自动完成菜单中选择接近条目</dd>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Close auto-complete menu</dd>",
+    "cn": ">关闭自动完成菜单</dd>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "<strong>General editing</strong>",
+    "cn": "<strong>普通编辑</strong>"
+  },
+  {
+    "path": "/optimize/bundles/timelion.bundle.js",
+    "en": "<strong>When auto-complete is visible</strong>",
+    "cn": "<strong>自动完成可见时</strong>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "setValue(\"No history available\")})",
+    "cn": "setValue(\"没有可用的历史记录\")})"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "<kbn-tooltip text=\"click to send request\">\\n",
+    "cn": "<kbn-tooltip text=\"点击此按钮发送请求\">\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Copy as cURL</button>\\n",
+    "cn": ">复制为curl请求格式</button>\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Auto indent</button>\\n",
+    "cn": ">自动缩进</button>\\n"
+  },
+  {
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
