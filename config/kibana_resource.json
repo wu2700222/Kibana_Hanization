@@ -22,7 +22,7 @@
   {
     "path": "src/core_plugins/kibana/index.js",
     "en": "title: 'Management'",
-    "cn": "title: '管理'"
+    "cn": "title: '系统管理'"
   },
   {
     "path": "src/core_plugins/timelion/index.js",
@@ -4915,99 +4915,84 @@
     "cn": ">自动缩进</button>\\n"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/ml/index.js",
+    "en": "title: 'Machine Learning'",
+    "cn": "title: '机器学习'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/ml/public/register_feature.js",
+    "en": "title: 'Machine Learning'",
+    "cn": "title: '机器学习'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/monitoring/ui_exports.js",
+    "en": "title: 'Monitoring'",
+    "cn": "title: '系统监控'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/monitoring/public/register_feature.js",
+    "en": "title: 'Monitoring'",
+    "cn": "title: '系统监控'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "<h3>X-Pack is installed</h3>",
+    "cn": "<h3>X-Pack插件已安装</h3>"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Sharing your cluster statistics with us helps us improve. Your data is never shared with anyone.\\n",
+    "cn": "与我们分享你的集群统计数据有助于我们进行改进。我们不会将你的数据分享给任何人。\\n"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "Not interested? <a ng-click=\"welcome.toggleOpt({ allowReport: false })\">Opt out here</a>.\\n",
+    "cn": "不感兴趣？ <a ng-click=\"welcome.toggleOpt({ allowReport: false })\">点击这里</a>。\\n"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Register for a Basic License\"",
+    "cn": "\"获取基础许可\""
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "text:\"Dismiss\"",
+    "cn": "text:\"拒绝\""
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "tooltip-content=\"formatTooltip(\\'Logout\\')\"\\n    label=\"\\'Logout\\'",
+    "cn": "tooltip-content=\"formatTooltip(\\'注销\\')\"\\n    label=\"\\'注销\\'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": "\\n          Log in\\n",
+    "cn": "\\n          登 录\\n"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": "id=\"username\" placeholder=\"Username\"",
+    "cn": "id=\"username\" placeholder=\"用户名\""
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": "id=\"password\" placeholder=\"Password\"",
+    "cn": "id=\"password\" placeholder=\"密码\""
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": ">Oops! Error. Try again.</label>",
+    "cn": ">登录出错，请重试！</label>"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": "{SESSION_EXPIRED:\"Your session has expired. Please log in again.\"}",
+    "cn": "{SESSION_EXPIRED:\"您的会话已过期，请重新登录！\"}"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/login.bundle.js",
+    "en": "\"Login is currently disabled because the license could not be determined. Please check that Elasticsearch is running, then refresh this page.\"",
+    "cn": "\"由于无法确定许可证，当前登录已被禁用。请检查Elasticsearch是否正在运行，然后刷新此页面。\""
   },
   {
     "path": ".bundle.js",
