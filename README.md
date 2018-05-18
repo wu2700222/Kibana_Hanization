@@ -11,6 +11,8 @@ python main.py Kibana目录
 ```
 稍等一会一个全新的中文版Kibana将呈现在你面前。
 
+![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/login.png)
+
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/welcome.png)
 
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/kibana.png)
