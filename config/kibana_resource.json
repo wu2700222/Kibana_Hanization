@@ -4996,93 +4996,93 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"Automatically collect in-depth performance metrics and errors from inside your applications.\"",
+    "cn": "description:\"自动从应用程序内部收集深层的性能指标和错误。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Dashboard\",description:\"Display and share a collection of visualizations and saved searches.\"",
+    "cn": "title:\"仪表盘\",description:\"显示和共享可视化和保存的搜索的集合。\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/dashboard/index.js",
+    "en": "title: 'Dashboard'",
+    "cn": "title: '仪表盘'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/public/dashboard/index.js",
+    "en": "description: 'Display and share a collection of visualizations and saved searches.'",
+    "cn": "description: '显示和共享可视化和保存的搜索的集合。'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/graph/index.js",
+    "en": "title: 'Graph'",
+    "cn": "title: '图形化'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/graph/public/register_feature.js",
+    "en": "title: 'Graph'",
+    "cn": "title: '图形化'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/graph/public/register_feature.js",
+    "en": "description: 'Surface and analyze relevant relationships in your Elasticsearch data.'",
+    "cn": "description: '在您的Elasticsearch数据中分析和分析相关关系。'"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Graph\",description:\"Surface and analyze relevant relationships in your Elasticsearch data.\"",
+    "cn": "title:\"图形化\",description:\"在您的Elasticsearch数据中分析和分析相关关系。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Machine Learning\",description:\"Automatically model the normal behavior of your time series data to detect anomalies.\"",
+    "cn": "title:\"机器学习\",description:\"自动模拟您的时间序列数据的正常行为来检测异常。\""
+  },
+  {
+    "path": "/plugins/x-pack/plugins/ml/public/register_feature.js",
+    "en": "description: 'Automatically model the normal behavior of your time series data to detect anomalies.'",
+    "cn": "description: '自动模拟您的时间序列数据的正常行为来检测异常。'"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Monitoring\",description:\"Track the real-time health and performance of your Elastic Stack.\"",
+    "cn": "title:\"系统监控\",description:\"监测您的Elasticsearch堆栈的实时健康和性能。\""
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/public/register_feature.js",
+    "en": "description: 'Track the real-time health and performance of your Elastic Stack.'",
+    "cn": "description: '监测您的Elasticsearch堆栈的实时健康和性能。'"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Security Settings\",description:\"Protect your data and easily manage who has access to what with users and roles.\"",
+    "cn": "title:\"安全设置\",description:\"保护您的数据并轻松地管理用户和角色。\""
+  },
+  {
+    "path": "/plugins/x-pack/plugins/security/public/register_feature.js",
+    "en": "title: 'Security Settings'",
+    "cn": "title: '安全设置'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/security/public/register_feature.js",
+    "en": "description: 'Protect your data and easily manage who has access to what with users and roles.'",
+    "cn": "description: '保护您的数据并轻松地管理用户和角色。'"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Watcher\",description:\"Detect changes in your data by creating, managing, and monitoring alerts.\"",
+    "cn": "title:\"监视器\",description:\"通过创建、管理和监视警报来检测您的数据的更改。\""
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/watcher/public/register_feature.js",
+    "en": "title: 'Watcher'",
+    "cn": "title: '监视器'"
   },
   {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/plugins/x-pack/plugins/watcher/public/register_feature.js",
+    "en": "description: 'Detect changes in your data by creating, managing, and monitoring alerts.'",
+    "cn": "description: '通过创建、管理和监视警报来检测您的数据的更改。'"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
