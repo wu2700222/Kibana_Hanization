@@ -20,3 +20,5 @@ python main.py Kibana目录
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/visual.png)
 
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/visualize.png)
+
+![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/monitoring.png)

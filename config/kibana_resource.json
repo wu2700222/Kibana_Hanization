@@ -5085,6 +5085,316 @@
     "cn": "description: '通过创建、管理和监视警报来检测您的数据的更改。'"
   },
   {
+    "path": "/optimize/bundles/graph.bundle.js",
+    "en": "warning(\"Oops, no data sources. First head over to Kibana settings and define a choice of index pattern\")",
+    "cn": "warning(\"没有定义任何数据源。请转到kibana的首页系统管理功能，定义并选择一个索引模式。\")"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/graph/public/app.js",
+    "en": "warning('Oops, no data sources. First head over to Kibana settings and define a choice of index pattern')",
+    "cn": "warning('没有定义任何数据源。请转到kibana的首页系统管理功能，定义并选择一个索引模式。')"
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Search Profiler\"",
+    "cn": "display:\"搜索分析器\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n                Index\\n",
+    "cn": ">\\n                索引\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Profile\\n",
+    "cn": ">\\n          概览表\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "title:\"Grok Debugger\",description:\"Simulate and debug grok patterns for data transformation on ingestion.\"",
+    "cn": "title:\"Grok调试器\",description:\"模拟调试用于获取和转换数据的Grok表达式。\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
+    "en": "display:\"Grok Debugger\"",
+    "cn": "display:\"Grok调试器\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<tab heading=\"Query Profile\"",
+    "cn": "<tab heading=\"查询概览表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<tab heading=\"Aggregation Profile\"",
+    "cn": "<tab heading=\"聚合概览表\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n      Sample Data\\n",
+    "cn": "\\n      样本数据\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n      Grok Pattern\\n",
+    "cn": "\\n      Grok表达式\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "button-text=\"Custom Patterns\"",
+    "cn": "button-text=\"自定义表达式\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n            Enter one custom pattern per line. For example:\\n",
+    "cn": "\\n            输入一个自定义的表达式每行，例如：\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Simulate\\n",
+    "cn": ">\\n          调试\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n      Structured Data\\n",
+    "cn": "\\n      结构化数据\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"The cumulative time of all shards in the index. Note: this is not wall-clock time, as shards can execute in parallel.\">\\n      <h3>Cumulative Time: ",
+    "cn": "\"索引中所有分片的累积时间。注意：这不是时钟时间，因为分片可以并行执行。\">\\n      <h3>累积时间： "
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(\"h2\",null,\"Top cluster alerts\")",
+    "cn": "createElement(\"h2\",null,\"热门集群警报\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": ",\"View all alerts\")",
+    "cn": ",\"查看所有警报\")"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/server/cluster_alerts/alerts_cluster_search.js",
+    "en": "prefix: 'Configuring TLS will be required to apply a Gold or Platinum license when security is enabled.'",
+    "cn": "prefix: '在启用安全配置时，配置TLS将需要应用黄金许可或铂金许可。'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/server/cluster_alerts/alerts_cluster_search.js",
+    "en": "message: 'See documentation for details.'",
+    "cn": "message: '详情请参阅文档。'"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/public/components/alerts/map_severity.js",
+    "en": "mapped = { value: 'low', color: 'warning', iconType: 'dot' }",
+    "cn": "mapped = { value: '低', color: 'warning', iconType: 'dot' }"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/public/components/alerts/map_severity.js",
+    "en": "mapped = { value: 'medium', color: 'warning', iconType: 'dot' }",
+    "cn": "mapped = { value: '中', color: 'warning', iconType: 'dot' }"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/public/components/alerts/map_severity.js",
+    "en": "mapped = { value: 'high', color: 'danger', iconType: 'dot' }",
+    "cn": "mapped = { value: '高', color: 'danger', iconType: 'dot' }"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/monitoring/public/components/alerts/map_severity.js",
+    "en": "title: `${capitalize(mapped.value)} severity alert`",
+    "cn": "title: `${capitalize(mapped.value)} 严重程度警报`"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "mapped={value:\"low\",color:\"warning\",iconType:\"dot\"}",
+    "cn": "mapped={value:\"低\",color:\"warning\",iconType:\"dot\"}"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "mapped={value:\"medium\",color:\"warning\",iconType:\"dot\"}",
+    "cn": "mapped={value:\"中\",color:\"warning\",iconType:\"dot\"}"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "mapped={value:\"high\",color:\"danger\",iconType:\"dot\"}",
+    "cn": "mapped={value:\"高\",color:\"danger\",iconType:\"dot\"}"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "(mapped.value)+\" severity alert\"}",
+    "cn": "(mapped.value)+\" 严重程度警报\"}"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"Last checked \",",
+    "cn": "\"最后检查时间 \","
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": ">Cluster Alerts</a>\\n",
+    "cn": ">集群警报</a>\\n"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": ">« Cluster Overview</a>",
+    "cn": ">« 集群概览</a>"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "placeholder:\"Filter Alerts...\"",
+    "cn": "placeholder:\"筛选警报...\""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"esOverview\"},\"Overview\")",
+    "cn": "\"esOverview\"},\"概览\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Version\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"版本\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Uptime\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"运行时间\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,{key:\"mlJobsListTitle\"},\"Jobs\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,{key:\"mlJobsListTitle\"},\"工作\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"esNumberOfNodes\",onClick:goToNodes},\"Nodes: \"",
+    "cn": "\"esNumberOfNodes\",onClick:goToNodes},\"节点: \""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Disk Available\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"可用磁盘\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"JVM Heap\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"JVM堆\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "},\"Health is \"",
+    "cn": "},\"健康状态为 \""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"int_commas\")},\"Indices: \"",
+    "cn": "\"int_commas\")},\"索引: \""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Documents\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"文档\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Disk Usage\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"磁盘使用\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Primary Shards\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"主分片\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Replica Shards\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"副本分片\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"aria-label\":\"Kibana Overview\",\"data-test-subj\":\"kbnOverview\"},\"Overview\")",
+    "cn": "\"aria-label\":\"Kibana Overview\",\"data-test-subj\":\"kbnOverview\"},\"概览\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Requests\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"请求\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Max. Response Time\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"最大响应时间\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\"data-test-subj\":\"kbnInstances\",\"aria-label\":\"Kibana Instances: \"+props.count},\"Instances: \"",
+    "cn": "\"data-test-subj\":\"kbnInstances\",\"aria-label\":\"Kibana Instances: \"+props.count},\"实例: \""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Connections\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"连接\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "createElement(_eui.EuiDescriptionListTitle,null,\"Memory Usage\")",
+    "cn": "createElement(_eui.EuiDescriptionListTitle,null,\"内存使用\")"
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
     "path": "/optimize/bundles/kibana.bundle.js",
     "en": "",
     "cn": ""
