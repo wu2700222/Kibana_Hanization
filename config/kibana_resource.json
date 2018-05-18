@@ -5167,7 +5167,7 @@
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
     "en": "createElement(\"h2\",null,\"Top cluster alerts\")",
-    "cn": "createElement(\"h2\",null,\"热门集群警报\")"
+    "cn": "createElement(\"h2\",null,\"最新集群警报\")"
   },
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
