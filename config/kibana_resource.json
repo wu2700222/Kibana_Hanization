@@ -5342,7 +5342,7 @@
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
     "en": "Your {{cluster.license.type|capitalize}} license is {{cluster.license.status}}\\n",
-    "cn": "您的 {{cluster.license.type|capitalize}} 许可是 {{cluster.license.status}} 的\\n"
+    "cn": "您的 {{cluster.license.type|capitalize}} 许可状态是 {{cluster.license.status}}\\n"
   },
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
@@ -5381,8 +5381,283 @@
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "display:\"License Management\"",
+    "cn": "display:\"许可管理\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Watcher\"",
+    "cn": "display:\"监视器\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Users\"",
+    "cn": "display:\"用户\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Roles\"",
+    "cn": "display:\"角色\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Pipelines\"",
+    "cn": "display:\"管道\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "display:\"Reporting\"",
+    "cn": "display:\"报告\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n          You do not have permission to manage users.\\n",
+    "cn": "\\n          您没有管理用户的权限。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n          You do not have permission to manage roles.\\n",
+    "cn": "\\n          您没有管理角色的权限。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n          Please contact your administrator.\\n",
+    "cn": "\\n          请联系您的管理员。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n          You do not have permission to manage Logstash pipelines\\n",
+    "cn": "\\n          您没有管理Logstash管道的权限。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\\n        Please contact your administrator.\\n",
+    "cn": "\\n        请联系您的管理员。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Your \",type,\" license is \",status)",
+    "cn": "\"您的 \",type,\" 许可状态是 \",status)"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Your license will expire on \",_react2.default.createElement(\"strong\",null,expiryDate),\".\"",
+    "cn": "\"您的许可将在 \",_react2.default.createElement(\"strong\",null,expiryDate),\"过期。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Unlock the Full Functionality\")",
+    "cn": "\"解锁全部功能\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Monitoring is available for free with a Basic License. Simply register, check your inbox, and enjoy!\"",
+    "cn": "\"系统监控功能通过注册基础许可是可以免费使用的。简单地注册，之后检查您的邮箱并享受监控功能吧！\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Get Basic\")",
+    "cn": "\"获取基础许可\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Get all X-Pack has to offer: security, monitoring, alerting, reporting, and Graph, plus support from the engineers behind the Elastic Stack.\"",
+    "cn": "\"获得X-Pack的全部功能包括：安全管理、系统监控、警报、报告和图形化，加上从Elasticsearch后面的工程师那里获取的支持。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "\"Get It All\")",
+    "cn": "\"获取全功能许可\")"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/license_management/public/sections/license_dashboard/license_dashboard.js",
+    "en": "{ `${isExpired ? 'Already have your' : 'Have a newer' } license? Splendid! `}",
+    "cn": "{ `${isExpired ? '已拥有您的' : '拥有新的' } 许可？恭喜！ `}"
+  },
+  {
+    "path": "/plugins/x-pack/plugins/license_management/public/sections/license_dashboard/license_dashboard.js",
+    "en": "<a href={`#${BASE_PATH}upload_license`}>Install it now.</a>",
+    "cn": "<a href={`#${BASE_PATH}upload_license`}>现在安装它。</a>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "(isExpired?\"Already have your\":\"Have a newer\")+\" license? Splendid! \",_react2.default.createElement(\"a\",{href:\"#\"+_constants.BASE_PATH+\"upload_license\"},\"Install it now.\")",
+    "cn": "(isExpired?\"已拥有您的\":\"拥有新的\")+\" 许可？恭喜！ \",_react2.default.createElement(\"a\",{href:\"#\"+_constants.BASE_PATH+\"upload_license\"},\"现在安装它。\")"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Create user</span>",
+    "cn": "<span>创建用户</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                    Full Name\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                    全名\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                    Username\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                    用户名\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                    Roles\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                    角色\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                  Reserved\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                  系统保留\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Reserved users are built-in and cannot be removed or modified. Only the password may be changed.\"\\n",
+    "cn": "tooltip=\"保留用户是内置的，不能删除或修改。只有密码可以更改。\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span ng-if=\"editUser.isNewUser\">\\n            New User\\n",
+    "cn": "<span ng-if=\"editUser.isNewUser\">\\n            新建用户\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "class=\"kuiFormLabel\">\\n          Username\\n",
+    "cn": "class=\"kuiFormLabel\">\\n          用户名\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Username is required.\\n",
+    "cn": ">\\n          用户名是必填项。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n      Password\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n      密码\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n      Password must be at least 6 characters long.\\n",
+    "cn": ">\\n      密码必须至少有6个字符长。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n      Password Again, Please\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n      请再次输入密码\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n      Passwords do not match.\\n",
+    "cn": ">\\n      密码不匹配。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                    Full Name\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                    全名\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Full Name is required.\\n",
+    "cn": ">\\n          全名是必填项。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "class=\"kuiFormLabel\">\\n          Email\\n",
+    "cn": "class=\"kuiFormLabel\">\\n          邮箱\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Email is required.\\n",
+    "cn": ">\\n          邮箱是必填项。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n          Roles\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n          角色\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Add a role...\">\\n",
+    "cn": "placeholder=\"添加一个角色...\">\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Reserved roles are built-in and cannot be removed or modified. Only the password may be changed.\"",
+    "cn": "tooltip=\"保留角色是内置的，不能删除或修改。只有密码可以更改。\""
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiTableHeaderCell__liner\">\\n                    Role\\n",
+    "cn": "<span class=\"kuiTableHeaderCell__liner\">\\n                    角色\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span>Create role</span>",
+    "cn": "<span>创建角色</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span ng-if=\"editRole.isNewRole\">\\n            New Role\\n",
+    "cn": "<span ng-if=\"editRole.isNewRole\">\\n            新建角色\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n          Name is required.\\n",
+    "cn": ">\\n          名称是必填项。\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n            Cluster Privileges\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n            集群权限\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n            Run As Privileges\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n            以上权限运行\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "placeholder=\"Add a user...\">\\n",
+    "cn": "placeholder=\"添加一个用户...\">\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormLabel\">\\n    Index Privileges\\n",
+    "cn": "<label class=\"kuiFormLabel\">\\n    索引权限\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormSubLabel\">\\n            Indices\\n",
+    "cn": "<label class=\"kuiFormSubLabel\">\\n            索引\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormSubLabel\">\\n            Privileges\\n",
+    "cn": "<label class=\"kuiFormSubLabel\">\\n            权限\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": ">\\n            Granted Documents Query\\n            <span class=\"kuiFormSubLabel__note\">Optional</span>\\n",
+    "cn": ">\\n            允许文档查询\\n            <span class=\"kuiFormSubLabel__note\">可选项</span>\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<label class=\"kuiFormSubLabel\">\\n            Granted ",
+    "cn": "<label class=\"kuiFormSubLabel\">\\n            允许"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "<span class=\"kuiFormSubLabel__note\">Optional</span>",
+    "cn": "<span class=\"kuiFormSubLabel__note\">可选项</span>"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Add index privilege\"\\n",
+    "cn": "tooltip=\"添加索引权限\"\\n"
+  },
+  {
+    "path": "/optimize/bundles/kibana.bundle.js",
+    "en": "tooltip=\"Remove index privilege\"\\n",
+    "cn": "tooltip=\"移除索引权限\"\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
