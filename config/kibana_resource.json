@@ -5341,43 +5341,43 @@
   },
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "Your {{cluster.license.type|capitalize}} license is {{cluster.license.status}}\\n",
+    "cn": "您的 {{cluster.license.type|capitalize}} 许可是 {{cluster.license.status}} 的\\n"
   },
   {
     "path": "/optimize/bundles/monitoring.bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "Your license will expire on {{cluster.license.expiry_date|localizedDate}}.\\n",
+    "cn": "您的许可将在 {{cluster.license.expiry_date|localizedDate}} 过期。\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\\n            Unlock the Full Functionality\\n",
+    "cn": "\\n            解锁全部功能\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\\n            Monitoring is available for free with a Basic License. Simply register, check your inbox, and enjoy!\\n",
+    "cn": "\\n            系统监控功能通过注册基础许可是可以免费使用的。简单地注册，之后检查您的邮箱并享受监控功能吧！\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": ">\\n            Get Basic\\n",
+    "cn": ">\\n            获取基础许可\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\\n            Get all X-Pack has to offer: security, monitoring, alerting, reporting, and Graph, plus support from the engineers behind the Elastic Stack.\\n",
+    "cn": "\\n            获得X-Pack的全部功能包括：安全管理、系统监控、警报、报告和图形化，加上从Elasticsearch后面的工程师那里获取的支持。\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": ">\\n            Get It All\\n",
+    "cn": ">\\n            获取全功能许可\\n"
   },
   {
-    "path": "/optimize/bundles/kibana.bundle.js",
-    "en": "",
-    "cn": ""
+    "path": "/optimize/bundles/monitoring.bundle.js",
+    "en": "\\n        Have a newer license?\\n      </span> Splendid! <a href=\"https://www.elastic.co/guide/en/x-pack/current/license-management.html\" target=\"_BLANK\" rel=\"noopener noreferrer\">Install it now.</a>\\n",
+    "cn": "\\n        拥有新的许可？\\n      </span> 恭喜! <a href=\"https://www.elastic.co/guide/en/x-pack/current/license-management.html\" target=\"_BLANK\" rel=\"noopener noreferrer\">现在安装它。</a>\\n"
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
