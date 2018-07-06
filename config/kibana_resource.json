@@ -5156,13 +5156,13 @@
   },
   {
     "path": ".bundle.js",
-    "en": "title:\"Search Profiler\"",
-    "cn": "title:\"搜索分析器\""
+    "en": "\"Search Profiler\"",
+    "cn": "\"搜索分析器\""
   },
   {
     "path": ".bundle.js",
-    "en": "title:\"Grok Debugger\"",
-    "cn": "title:\"Grok调试器\""
+    "en": "\"Grok Debugger\"",
+    "cn": "\"Grok调试器\""
   },
   {
     "path": "/optimize/bundles/kibana.bundle.js",
@@ -5826,6 +5826,11 @@
   },
   {
     "path": ".bundle.js",
+    "en": "{name:\"Name\",health:\"Health\",status:\"Status\",primary:\"Primaries\",replica:\"Replicas\",documents:\"Docs count\",size:\"Storage size\",primary_size:\"Primary storage size\"}",
+    "cn": "{name:\"名称\",health:\"健康\",status:\"状态\",primary:\"主键\",replica:\"副本\",documents:\"文档数\",size:\"存储容量\",primary_size:\"主键存储容量\"}"
+  },
+  {
+    "path": ".bundle.js",
     "en": "\"Scripted fields\"",
     "cn": "\"脚本化字段\""
   },
@@ -5898,6 +5903,26 @@
     "path": ".bundle.js",
     "en": "name:\"Matches\"",
     "cn": "name:\"匹配项\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Health\"",
+    "cn": "name:\"健康\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Status\"",
+    "cn": "name:\"状态\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Primaries\"",
+    "cn": "name:\"主键\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Replicas\"",
+    "cn": "name:\"副本\""
   },
   {
     "path": ".bundle.js",
@@ -6088,6 +6113,166 @@
     "path": ".bundle.js",
     "en": "\"When the data is in your cluster, your monitoring dashboard will show up here. This only takes a few seconds.\"",
     "cn": "\"当监控数据已经在您的群集中时，您的监控仪表盘将显示在此处，这只需要几秒钟。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"No results match your search criteria\"",
+    "cn": "\"没有符合您的搜索条件的结果\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Refine your query\"",
+    "cn": "\"优化您的查询\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"The search bar at the top uses Elasticsearch’s support for Lucene \",_react2.default.createElement(_eui.EuiLink,{target:\"_blank\",href:getDocLink(\"query.luceneQuerySyntax\")},\"Query String syntax\"),\". Here are some examples of how you can search for web server logs that have been parsed into a few fields.\"",
+    "cn": "\"顶部的搜索框使用Elasticsearch所支持的Lucene \",_react2.default.createElement(_eui.EuiLink,{target:\"_blank\",href:getDocLink(\"query.luceneQuerySyntax\")},\"查询字串语法\"),\"。以下是一些示例，说明如何搜索已解析为几个字段的Web服务器日志。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Find requests that contain the number 200, in any field\"",
+    "cn": "\"在任何字段中查找包含数字200的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Find 200 in the status field\"",
+    "cn": "\"在状态码字段中查找为200的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Find all status codes between 400-499\"",
+    "cn": "\"查找状态码为400-499之间的所有记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Find status codes 400-499 with the extension php or html\"",
+    "cn": "\"查找状态码为400-499，扩展名为php或html的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Find status codes 400-499 with the extension php\"",
+    "cn": "\"查找状态码为400-499，扩展名为php的记录\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "display:\"Index Management\"",
+    "cn": "display:\"索引管理\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Index management\"",
+    "cn": "\"索引管理\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Update your Elasticsearch indices individually or in bulk\"",
+    "cn": "\"单独或批量更新您的Elasticsearch索引\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "placeholder=\"Search\"",
+    "cn": "placeholder=\"搜索\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Your license expired on \"",
+    "cn": "\"您的许可过期了，在 \""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title=\"Your \"+type+\" license has expired\"",
+    "cn": "title=\"您的 \"+type+\" 许可已过期\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title=\"Your \"+type+\" license is \"+status.toLowerCase())",
+    "cn": "title=\"您的 \"+type+\" 许可状态是 \"+status.toLowerCase())"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Your license will never expire.\"",
+    "cn": "\"您的许可永不过期。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Update your license\"",
+    "cn": "\"更新您的许可\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"If you already have a new license, upload it now.\"",
+    "cn": "\"如果您已经拥有一个新的许可，请上传它。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Update license\"",
+    "cn": "\"更新许可\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Start a 30-day trial\"",
+    "cn": "\"开始使用30天试用许可\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Experience what security, machine learning, and all our other\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://www.elastic.co/subscriptions/xpack\",target:\"_blank\"},\"Platinum features\"),\" \",\"have to offer.\"",
+    "cn": "\"体验诸如安全管理，机器学习以及我们其它的\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://www.elastic.co/subscriptions/xpack\",target:\"_blank\"},\"铂金许可\"),\" \",\"所拥有的功能。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Start trial\"",
+    "cn": "\"开始试用\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Start your free 30-day trial\"",
+    "cn": "\"开始使用您的30天试用版\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"This trial is for the full set of\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://www.elastic.co/subscriptions/xpack\",target:\"_blank\"},\"Platinum features\"),\" of the Elastic Stack. You'll get immediate access to:\"",
+    "cn": "\"此试用版本是Elastic Stack全功能的\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://www.elastic.co/subscriptions/xpack\",target:\"_blank\"},\"铂金许可\"),\" 您会立即获得以下功能的访问权限：\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Start my trial\"",
+    "cn": "\"开始试用\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Security features, such as authentication (native, AD/LDAP, SAML, PKI), role-based access control, and auditing, require configuration. See the\",\" \",_react2.default.createElement(_eui.EuiLink,{href:securityDocumentationLink,target:\"_blank\"},\"documentation\"),\" \",\"for instructions.\"",
+    "cn": "\"安全特性，如身份验证 (native, AD/LDAP, SAML, PKI), 基于角色的访问控制和审计，都需要配置。请查看\",\" \",_react2.default.createElement(_eui.EuiLink,{href:securityDocumentationLink,target:\"_blank\"},\"相关文档\"),\" \",\"获取说明。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"By starting this trial, you agree that it is subject to these\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"terms and conditions\"",
+    "cn": "\"如果开始试用, 则认为您同意这些服务\",\" \",_react2.default.createElement(_eui.EuiLink,{href:\"https://elastic.co/legal/trial_license\",target:\"_blank\"},\"条款和条件\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
   },
   {
     "path": ".bundle.js",
