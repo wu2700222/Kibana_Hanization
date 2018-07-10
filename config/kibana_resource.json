@@ -5836,11 +5836,6 @@
   },
   {
     "path": ".bundle.js",
-    "en": "\"Fields\"",
-    "cn": "\"字段\""
-  },
-  {
-    "path": ".bundle.js",
     "en": "\"Source filters\"",
     "cn": "\"源筛选器\""
   },
