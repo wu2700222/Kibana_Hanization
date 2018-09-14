@@ -6181,73 +6181,73 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h2\",null,\"Create your first dashboard\")",
+    "cn": "createElement(\"h2\",null,\"创建您的第一个仪表盘\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"You can't recover deleted dashboards.\")",
+    "cn": "createElement(\"p\",null,\"您无法恢复已删除的仪表盘。\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"You can combine data views from any Kibana app into one dashboard and see everything in one place.\")",
+    "cn": "createElement(\"p\",null,\"您可以将任何Kibana应用程序的数据视图组合到一个仪表盘中，并在一个地方看到所有的东西。\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"p\",null,\"New to Kibana? \",_react2.default.createElement(_eui.EuiLink,{href:\"#/home/tutorial_directory/sampleData\"},\"Install some sample data\"),\" to take a test drive.\")",
+    "cn": "createElement(\"p\",null,\"新安装的Kibana？ \",_react2.default.createElement(_eui.EuiLink,{href:\"#/home/tutorial_directory/sampleData\"},\"安装一些示例数据\"),\" 来试用此功能。\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "},\"Create new dashboard\")}",
+    "cn": "},\"创建新的仪表盘\")}"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h2\",null,\"Add Panels\")",
+    "cn": "createElement(\"h2\",null,\"添加面板\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "},\"Add new Visualization\")",
+    "cn": "},\"添加新的可视化视图\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "noItemsMessage:\"No matching visualizations found.\"",
+    "cn": "noItemsMessage:\"未找到匹配的可视化视图。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Visualization\"",
+    "cn": "name:\"可视化视图\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Saved Search\"",
+    "cn": "name:\"已保存的查询\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "noItemsMessage:\"No matching saved searches found.\"",
+    "cn": "noItemsMessage:\"未找到匹配的已保存的查询。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"There's no APM index pattern available. To use the Query bar, please choose to import the APM index pattern in the\"",
+    "cn": "\"没有APM索引模式可用。若要使用查询栏，请选择导入APM索引模式在\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Setup Instructions.\")",
+    "cn": "\"安装说明中。\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Setup Instructions\"",
+    "cn": "\"安装说明\""
   },
   {
     "path": ".bundle.js",
