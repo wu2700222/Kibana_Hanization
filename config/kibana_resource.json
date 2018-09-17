@@ -4446,6 +4446,11 @@
   },
   {
     "path": "/optimize/bundles/commons.bundle.js",
+    "en": "title:\"Data\"",
+    "cn": "title:\"数据\""
+  },
+  {
+    "path": "/optimize/bundles/commons.bundle.js",
     "en": "Y-Axes\\n",
     "cn": "Y-轴\\n"
   },
@@ -6336,58 +6341,58 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Reporting\"",
+    "cn": "title:\"报告\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",label:\"Reporting\",template",
+    "cn": ",label:\"报告\",template"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "key:\"inspect\",description",
+    "cn": "key:\"检查\",description"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"New Visualization\"",
+    "cn": "title:\"新的可视化视图\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Download CSV\"",
+    "cn": "\"下载CSV\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "help:\"View the data behind the visualization\"",
+    "cn": "help:\"查看可视化视图后面的数据\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Requests\"",
+    "cn": "title:\"请求\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "help:\"View the requests that collected the data\"",
+    "cn": "help:\"查看收集数据的请求\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "cancelButtonText:\"Cancel\"",
+    "cn": "cancelButtonText:\"取消\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "text:\"Cancel\"",
+    "cn": "text:\"取消\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Cancel\"",
+    "cn": "label:\"取消\""
   },
   {
     "path": ".bundle.js",
