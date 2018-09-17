@@ -4091,6 +4091,11 @@
   },
   {
     "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Download and unpack APM Server'",
+    "cn": "title: '下载并解压APM服务'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
     "en": "title: 'Start APM Server'",
     "cn": "title: '启动APM服务'"
   },
@@ -4098,6 +4103,36 @@
     "path": "/src/core_plugins/kibana/server/tutorials/",
     "en": "title: 'Install the APM agent'",
     "cn": "title: '安装APM代理'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Agent status'",
+    "cn": "title: '代理状态'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'Load Kibana objects'",
+    "cn": "title: '载入Kibana对象'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "DEFAULT_BUTTON_LABEL=\"Load Kibana objects\"",
+    "cn": "DEFAULT_BUTTON_LABEL=\"载入Kibana对象\""
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "DEFAULT_BUTTON_LABEL = 'Load Kibana objects'",
+    "cn": "DEFAULT_BUTTON_LABEL = '载入Kibana对象'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "title: 'APM Server status'",
+    "cn": "title: 'APM服务器状态'"
+  },
+  {
+    "path": "/src/core_plugins/kibana/server/tutorials/",
+    "en": "'Application Performance Monitoring (APM) collects in-depth' + ' performance metrics and errors from inside your application.' + ' It allows you to monitor the performance of thousands of applications in real time.' + ' [Learn more]({config.docs.base_url}guide/en/apm/get-started/{config.docs.version}/index.html).'",
+    "cn": "'应用性能监控(APM) 从应用程序内部收集深入的性能度量和错误。它允许您实时监视数以千计的应用程序的性能。 [学习更多]({config.docs.base_url}guide/en/apm/get-started/{config.docs.version}/index.html)。'"
   },
   {
     "path": "/src/core_plugins/kibana/server/tutorials/",
@@ -6248,6 +6283,271 @@
     "path": ".bundle.js",
     "en": "\"Setup Instructions\"",
     "cn": "\"安装说明\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Search transactions and errors... (E.g. transaction.duration.us > 300000 AND context.response.status_code >= 400)",
+    "cn": "搜索事务和错误... (例如： transaction.duration.us > 300000 AND context.response.status_code >= 400)"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Looks like you don't have any dashboards.\"",
+    "cn": "\"看起来您没有创建过任何仪表盘。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"No services were found\":\"Looks like you don't have any services with APM installed. Let's add some!\"",
+    "cn": "\"未发现任何服务\":\"看起来您没有安装APM的任何服务。让我们添加一些！\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"When all steps are complete, you're ready to explore your data.\"",
+    "cn": "\"当所有步骤完成后，您就可以开始探索您的数据了。\""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "label: 'Launch APM'",
+    "cn": "label: '运行APM'"
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/monitoring/",
+    "en": "title: 'Monitoring',",
+    "cn": "title: '系统监控',"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n      Selected fields\\n",
+    "cn": "\\n      已选字段\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n      Available fields\\n",
+    "cn": "\\n      可用字段\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n          Hide missing fields\\n",
+    "cn": "\\n          隐藏缺少的字段\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        Reset filters\\n",
+    "cn": "\\n        重置筛选条件\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
   },
   {
     "path": ".bundle.js",
