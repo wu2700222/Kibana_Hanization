@@ -6411,118 +6411,113 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Add Data to Kibana\"",
+    "cn": "\"添加数据到Kibana\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Load a data set and a Kibana dashboard\"",
+    "cn": "\"加载一个数据集和一个Kibana仪表盘\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Sample Data\")",
+    "cn": ",\"样本数据\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Your Data\")",
+    "cn": ",\"您的数据\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Connect to your Elasticsearch index\"",
+    "cn": "\"连接到您的Elasticsearch索引\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"APM\",description:\"APM automatically collects in-depth performance metrics and errors from inside your applications.\"",
+    "cn": "title:\"APM\",description:\"APM自动从应用程序内部收集深入的性能度量和错误。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Logging\",description:\"Ingest logs from popular data sources and easily visualize in preconfigured dashboards.\"",
+    "cn": "title:\"日志\",description:\"从流行的数据源摄取日志，并且可以容易地在预配置仪表盘中可视化。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Metrics\",description:\"Collect metrics from the operating system and services running on your servers.\"",
+    "cn": "title:\"指标\",description:\"从运行在服务器上的操作系统和服务收集指标。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Security Analytics\",description:\"Centralize security events for interactive investigation in ready-to-go visualizations.\"",
+    "cn": "title:\"安全分析\",description:\"将安全事件集中在准备进行可视化的交互式调查中。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Add APM\")}",
+    "cn": ",\"添加APM\")}"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Add log data\")}",
+    "cn": ",\"添加日志数据\")}"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Add metric data\")}",
+    "cn": ",\"添加指标数据\")}"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Add security events\")}",
+    "cn": ",\"添加安全事件\")}"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"Manage your reports generated from Discover, Visualize, and Dashboard.\"",
+    "cn": "description:\"管理从发现、可视化和仪表盘生成的报表。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"Quickly check the performance of any Elasticsearch query.\"",
+    "cn": "description:\"快速检查任何Elasticsearch查询的性能。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"Simulate and debug grok patterns for data transformation on ingestion.\"",
+    "cn": "description:\"模拟和调试Grok表达式用于摄取数据过程中的转换。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Grok Pattern\"",
+    "cn": "label:\"Grok表达式\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Sample Data\"",
+    "cn": "\"样本数据\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Custom Patterns\"",
+    "cn": "\"自定义表达式\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Enter one custom pattern per line. For example:\"",
+    "cn": "title:\"一行输入一个自定义的表达式。例如：\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Structured Data\"",
+    "cn": "label:\"结构化的数据\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
-  },
-  {
-    "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": ",\"Simulate\")",
+    "cn": ",\"模拟\")"
   },
   {
     "path": ".bundle.js",
