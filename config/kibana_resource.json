@@ -4146,11 +4146,6 @@
   },
   {
     "path": ".bundle.js",
-    "en": "title:\"Vega\"",
-    "cn": "title:\"Vega\""
-  },
-  {
-    "path": ".bundle.js",
     "en": "\"Create custom visualizations using Vega and VegaLite\"",
     "cn": "\"使用Vega和VegaLite创建自定义的可视化视图\""
   },
@@ -6518,6 +6513,346 @@
     "path": ".bundle.js",
     "en": ",\"Simulate\")",
     "cn": ",\"模拟\")"
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "'Collect and parse logs created by Kafka.'",
+    "cn": "'收集并解析由Kafka创建的日志。'"
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Kafka logs'",
+    "cn": "name: 'Kafka日志'"
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "name: 'Logging',",
+    "cn": "name: '日志',"
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "name: 'Metrics',",
+    "cn": "name: '指标',"
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "name: 'Security Analytics',",
+    "cn": "name: '安全分析',"
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "title=\"Logging\"",
+    "cn": "title=\"日志\""
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "title=\"Metrics\"",
+    "cn": "title=\"指标\""
+  },
+  {
+    "path": "/core_plugins/kibana/public/home/components/",
+    "en": "title=\"Security Analytics\"",
+    "cn": "title=\"安全分析\""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect Netflow records sent by a Netflow exporter.'",
+    "cn": "shortDescription: '收集NetFlow输出口发送的NetFlow记录。'"
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "name: 'Osquery logs',",
+    "cn": "name: 'Osquery日志',"
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "shortDescription: 'Collect the result logs created by osqueryd.'",
+    "cn": "shortDescription: '收集Osquery创建的结果日志。'"
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": "/core_plugins/kibana/server/tutorials/",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Security Analytics\"",
+    "cn": "title:\"安全分析\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Unable to load sample data sets list\"",
+    "cn": "title:\"无法载入样本数据集列表\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "display:\"Saved Objects\"",
+    "cn": "display:\"已保存对象\""
+  },
+  {
+    "path": "/core_plugins/kibana/public/management/sections/objects/",
+    "en": "display: 'Saved Objects',",
+    "cn": "display: '已保存对象',"
+  },
+  {
+    "path": "/core_plugins/kibana/public/management/sections/objects/",
+    "en": "title: 'Saved Objects',",
+    "cn": "title: '已保存对象',"
+  },
+  {
+    "path": "/core_plugins/kibana/public/management/sections/objects/",
+    "en": "<h1>Saved Objects</h1>",
+    "cn": "<h1>已保存对象</h1>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"From here you can delete saved objects, such as saved searches. You can also edit the raw data of saved objects. Typically objects are only modified via their associated application, which is probably what you should use instead of this screen.\"",
+    "cn": "\"从这里你可以删除保存的对象，比如保存的搜索。还可以编辑保存的对象的原始数据。通常，对象只通过其关联的应用程序进行修改，这很可能是您应该使用的，而不是这个屏幕。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"h1\",null,\"Saved Objects\")",
+    "cn": "createElement(\"h1\",null,\"已保存对象\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Export \",filteredCount,\" \",1===filteredCount?\"object\":\"objects\"",
+    "cn": "\"导出 \",filteredCount,\" \",1===filteredCount?\"个对象\":\"个对象\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "onClick:onImport},\"Import\")",
+    "cn": "onClick:onImport},\"导入\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "onClick:onRefresh},\"Refresh\")",
+    "cn": "onClick:onRefresh},\"刷新\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Delete\")",
+    "cn": "},\"删除\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Export\")",
+    "cn": "},\"导出\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Title\",",
+    "cn": "name:\"标题\","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Actions\",",
+    "cn": "name:\"操作\","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"In app\",",
+    "cn": "name:\"应用程序中\","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "description:\"View this saved object within Kibana\"",
+    "cn": "description:\"在Kibana中查看这个保存的对象\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Relationships\",description:\"View the relationships this saved object has to other saved objects\"",
+    "cn": "name:\"对象关系链\",description:\"查看保存对象与其他保存对象之间的关系\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"No \",type,\" found.\")",
+    "cn": "\"未发现任何 \",type,\" 。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">No reports have been created</td>",
+    "cn": ">没有任何已创建的报告</td>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Generated reports</h1>",
+    "cn": ">生成报告</h1>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Document</th>",
+    "cn": ">文档</th>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Added</th>",
+    "cn": ">额外项</th>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Status</th>",
+    "cn": ">状态</th>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ">Actions</th>",
+    "cn": ">操作</th>"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"h1\",null,\"Settings\")",
+    "cn": "createElement(\"h1\",null,\"设置\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Caution: You can break stuff here\"",
+    "cn": "title:\"注意：在这里您可能会破坏系统关键的初始化设置\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Be careful in here, these settings are for very advanced users only. Tweaks you make here can break large portions of Kibana. Some of these settings may be undocumented, unsupported or experimental. If a field has a default value, blanking the field will reset it to its default which may be unacceptable given other configuration directives. Deleting a custom setting will permanently remove it from Kibana's config.\"",
+    "cn": "\"在这里您要非常小心，这些设置只针对高级用户。你在这里做出的调整会更改Kibana的大部分默认配置。这些设置中的一些可能是未记录的、不支持的或实验性的。如果字段具有默认值，则空白该字段将重置为其默认值，如果给定其他配置指令，该默认值可能是不可接受的。删除自定义设置将永久性地从Kibana的配置中移除它。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Category\"",
+    "cn": "name:\"分类\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "{general:\"General\",timelion:\"Timelion\",notifications:\"Notifications\",visualizations:\"Visualizations\",discover:\"Discover\",dashboard:\"Dashboard\",reporting:\"Reporting\",search:\"Search\"}",
+    "cn": "{general:\"常规\",timelion:\"时间线\",notifications:\"通知\",visualizations:\"视图\",discover:\"发现\",dashboard:\"仪表盘\",reporting:\"报告\",search:\"搜索\"}"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
   },
   {
     "path": ".bundle.js",
