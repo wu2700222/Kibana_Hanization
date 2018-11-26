@@ -6570,54 +6570,64 @@
     "cn": "shortDescription: '收集Osquery创建的结果日志。'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Canvas'",
+    "cn": "title: '画布'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Machine Learning'",
+    "cn": "title: '机器学习'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Infrastructure'",
+    "cn": "title: '基础设施'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/",
+    "en": "title: 'Logs'",
+    "cn": "title: '日志'"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": ".bundle.js",
+    "en": "exports.SPACES_FEATURE_DESCRIPTION=\"Organize your dashboards and other saved objects into meaningful categories.\"",
+    "cn": "exports.SPACES_FEATURE_DESCRIPTION=\"将仪表板和其他保存的对象组织成有意义的类别。\""
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/public/lib/constants.js",
+    "en": "exports.SPACES_FEATURE_DESCRIPTION=\"Organize your dashboards and other saved objects into meaningful categories.\"",
+    "cn": "exports.SPACES_FEATURE_DESCRIPTION=\"将仪表板和其他保存的对象组织成有意义的类别。\""
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "title: 'Spaces',",
+    "cn": "title: '空间',"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "display: 'Spaces',",
+    "cn": "display: '空间',"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": "ui_app.pug",
+    "en": "{ defaultMessage: 'Loading Kibana' }",
+    "cn": "{ defaultMessage: 'Kibana载入中...' }"
   },
   {
-    "path": "/core_plugins/kibana/server/tutorials/",
-    "en": "",
-    "cn": ""
+    "path": ".js",
+    "en": "This is a search bar. After typing your query, hit enter to filter the results lower in the page.",
+    "cn": "这是一个搜索栏。输入查询条件后，按“回车”键以筛选页面中符合条件的结果。"
+  },
+  {
+    "path": ".js",
+    "en": "This is a search bar. As you type, the results lower in the page will automatically filter.",
+    "cn": "这是一个搜索栏。当你键入字符时，页面中的结果会自动搜索过滤。"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "placeholder:\"Search\"",
+    "cn": "placeholder:\"搜索\""
   },
   {
     "path": ".bundle.js",
@@ -6771,78 +6781,98 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "placeholder:\"Search...\"",
+    "cn": "placeholder:\"搜索...\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Manage spaces\"",
+    "cn": "\"管理空间\""
+  },
+  {
+    "path": "/node_modules/x-pack/plugins/spaces/",
+    "en": "\"Manage spaces\"",
+    "cn": "\"管理空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Create space\"",
+    "cn": "\"创建空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Update space\"",
+    "cn": "\"更新空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Edit space\"",
+    "cn": "\"编辑空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h1\",null,\"Spaces\")",
+    "cn": "createElement(\"h1\",null,\"空间\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "title:\"Spaces\"",
+    "cn": "title:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "display:\"Spaces\"",
+    "cn": "display:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Spaces\"",
+    "cn": "label:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "label:\"Privilege\"",
+    "cn": "label:\"特权\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Description\"",
+    "cn": "name:\"描述\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Identifier\"",
+    "cn": "name:\"标识\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Space\"",
+    "cn": "name:\"空间\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Advanced Settings\"",
+    "cn": "\"高级设置\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "\"Saved Objects\"",
+    "cn": "\"已保存对象\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Index Patterns\"",
+    "cn": "\"索引模式\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Rollup Jobs\"",
+    "cn": "\"汇总工作\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Index Management\"",
+    "cn": "\"索引管理\""
   },
   {
     "path": ".bundle.js",
