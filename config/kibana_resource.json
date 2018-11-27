@@ -7116,98 +7116,98 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"span\",null,\"View: \",",
+    "cn": "createElement(\"span\",null,\"查看：\","
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"strong\",null,\"Request:\")",
+    "cn": "createElement(\"strong\",null,\"请求：\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "?\" requests were\":\" request was\",\" made\"",
+    "cn": "?\" 个请求\":\" 个请求\",\"已生成\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"This request queries Elasticsearch to fetch the data for the search.\"",
+    "cn": "description:\"此请求查询Elasticsearch以获取搜索的数据。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Statistics\",component",
+    "cn": "name:\"统计\",component"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Request\",component",
+    "cn": "name:\"请求\",component"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "name:\"Response\",component",
+    "cn": "name:\"响应\",component"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "start(\"Segment \"",
+    "cn": "start(\"分段 \""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "stats[\"Index pattern\"]",
+    "cn": "stats[\"索引模式\"]"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The index pattern that connected to the Elasticsearch indices.\"",
+    "cn": "description:\"连接到Elasticsearch索引的索引模式。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "stats[\"Index pattern ID\"]",
+    "cn": "stats[\"索引模式ID\"]"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The ID in the .kibana index.\"",
+    "cn": "description:\"在.kibana索引中的ID。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "stats[\"Query time\"]",
+    "cn": "stats[\"请求时间\"]"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The time it took to process the query.\\n        Does not include the time to send the request or parse it in the browser.\"",
+    "cn": "description:\"花费在处理请求上的时间。\\n        不包括发送请求或在浏览器中解析请求的时间。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "stats[\"Hits (total)\"]",
+    "cn": "stats[\"命中 (总共)\"]"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The number of documents that match the query.\"",
+    "cn": "description:\"匹配查询条件的文档总数。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "stats[\"Request time\"]",
+    "cn": "stats[\"请求时间\"]"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The time of the request from the browser to Elasticsearch and back.\\n        Does not include the time the requested waited in the queue.\"",
+    "cn": "description:\"从浏览器请求到Elasticsearch返回的时间。\\n不包括请求在队列中等待的时间。\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "description:\"The number of documents returned by the query.\"",
+    "cn": "description:\"此查询返回的文档数。\""
   },
   {
     "path": ".bundle.js",
