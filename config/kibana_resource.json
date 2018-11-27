@@ -6876,6 +6876,346 @@
   },
   {
     "path": ".bundle.js",
+    "en": "placeholder:\"Search... (e.g. status:200 AND extension:PHP)\"",
+    "cn": "placeholder:\"搜索... (例如：status:200 AND extension:PHP)\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Our experimental autocomplete and simple syntax features can help you create your queries. Just start typing and you’ll see matches related to your data. See docs\",\" \",_react2.default.createElement(_eui.EuiLink,{href:kueryQuerySyntaxDocs,target:\"_blank\"},\"here\")",
+    "cn": "\"我们的自动完成(实验)和简单语法功能可以帮助您创建查询。只需开始输入，您就会看到与您的数据相关的匹配项。 查看相关文档请点击 \",\" \",_react2.default.createElement(_eui.EuiLink,{href:kueryQuerySyntaxDocs,target:\"_blank\"},\"这里\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Not ready yet? Find our lucene docs\",\" \",_react2.default.createElement(_eui.EuiLink,{href:luceneQuerySyntaxDocs,target:\"_blank\"},\"here\")",
+    "cn": "\"还没有准备好？查看我们的lucene文档，点击 \",\" \",_react2.default.createElement(_eui.EuiLink,{href:luceneQuerySyntaxDocs,target:\"_blank\"},\"这里\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"Update\":\"Refresh\"",
+    "cn": "?\"更新\":\"刷新\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\n        Refresh Interval\\n",
+    "cn": "\\n        刷新间隔\\n"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"Off\":\"On\"",
+    "cn": "?\"关闭\":\"打开\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "return\"Off\"",
+    "cn": "return\"关闭\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"seconds\":\"second\"",
+    "cn": "1?\"秒\":\"秒\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"minutes\":\"minute\"",
+    "cn": "1?\"分钟\":\"分钟\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"hours\":\"hour\"",
+    "cn": "1?\"小时\":\"小时\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "1?\"days\":\"day\"",
+    "cn": "1?\"天\":\"天\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Enable filter\\' : \\'Disable filter\\'",
+    "cn": "\\'启用筛选器\\' : \\'禁用筛选器\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Unpin filter\\' : \\'Pin filter\\'",
+    "cn": "\\'解开筛选器\\' : \\'钉住筛选器\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\\'Include matches\\' : \\'Exclude matches\\'",
+    "cn": "\\'包含匹配项\\' : \\'排除匹配项\\'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Remove filter\"",
+    "cn": "tooltip=\"移除筛选器\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tooltip=\"Edit filter\"",
+    "cn": "tooltip=\"编辑筛选器\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(_eui.EuiModalHeaderTitle,null,\"Save \",",
+    "cn": "createElement(_eui.EuiModalHeaderTitle,null,\"保存 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(_eui.EuiFormRow,{label:\"Title\"}",
+    "cn": "createElement(_eui.EuiFormRow,{label:\"标题\"}"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Cancel\")",
+    "cn": "},\"取消\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Confirm Save\")",
+    "cn": "},\"确认保存\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:\"Dashboard '\"+dash.title+\"' was saved\"",
+    "cn": ".addSuccess({title:\"仪表盘 '\"+dash.title+\"' 已保存\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:_this.state.selectedTab.name+\" was added to your dashboard\"",
+    "cn": ".addSuccess({title:_this.state.selectedTab.name+\" 已添加到您的仪表盘\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess({title:\"Search '\"+savedSearch.title+\"' was saved\"",
+    "cn": ".addSuccess({title:\"搜索 '\"+savedSearch.title+\"' 已保存\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".addSuccess(\"'\"+name+\"' was saved\")",
+    "cn": ".addSuccess(\"'\"+name+\"' 已保存\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "message='Deleted \"'+space.name+'\" space.'",
+    "cn": "message='已删除 \"'+space.name+'\" 这个空间。'"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"h1\",null,\"Open Search\")",
+    "cn": "createElement(\"h1\",null,\"打开搜索\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Manage spaces\")",
+    "cn": "},\"管理空间\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Manage searches\")",
+    "cn": "},\"管理搜索\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Share this \"",
+    "cn": "title:\"分享此 \""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "panelTitle=\"CSV Reports\"",
+    "cn": "panelTitle=\"CSV报告\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "name:\"Permalinks\"",
+    "cn": "name:\"固定链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Permalink\"",
+    "cn": "title:\"固定链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "label:\"Generate the link as\"",
+    "cn": "label:\"生成此链接为\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".renderWithIconTip(\"Snapshot\",\"Snapshot URLs encode the current state of the \"+_this.props.objectType+\" in the URL itself.\\n            Edits to the saved \"+_this.props.objectType+\" won't be visible via this URL.\")",
+    "cn": ".renderWithIconTip(\"快照\",\"快照URL在URL自身中编码当前 \"+_this.props.objectType+\" 的状态。\\n            通过此URL编辑保存的 \"+_this.props.objectType+\" 将不可见。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ".renderWithIconTip(\"Saved object\",\"You can share this URL with people to let them load the most recent saved version of this \"+_this.props.objectType+\".\")",
+    "cn": ".renderWithIconTip(\"保存的对象\",\"您可以与其它人分享此URL，通过让他们加载最新保存的 \"+_this.props.objectType+\"。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\" Short URL\"):\"Short URL\"",
+    "cn": ",\" 短链接\"):\"短链接\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "tipContent=\"We recommend sharing shortened snapshot URLs for maximum compatibility.\\n      Internet Explorer has URL length restrictions,\\n      and some wiki and markup parsers don't do well with the full-length version of the snapshot URL,\\n      but the short URL should work great.\"",
+    "cn": "tipContent=\"我们建议共享快照短链接以获得最大兼容性。\\n      IE浏览器有最大URL限制，\\n      并且它的一些wiki和标记解析器不能很好地处理快照链接的完整版本，\\n      但短链接却可以很好地兼容。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Copy \",",
+    "cn": ",\"复制 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": "?\"iFrame code\":\"link\")",
+    "cn": "?\"iFrame代码\":\"链接\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "reportMsg=this.prettyPrintReportingType()+\"s can take a minute or two to generate based upon the size of your \"+this.props.objectType+\".\"",
+    "cn": "reportMsg=this.prettyPrintReportingType()+\"导出会花费一两分钟，基于您的 \"+this.props.objectType+\"的大小。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"p\",null,\"Alternatively, copy this POST URL to call generation from outside Kibana or from Watcher.\")",
+    "cn": "createElement(\"p\",null,\"或者，复制此POST URL以从Kibana外部或从Watcher调用生成。\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "},\"Generate \",",
+    "cn": "},\"生成 \","
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Copy POST URL\")",
+    "cn": ",\"复制POST URL\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "afterMessage:\"Copied\"",
+    "cn": "afterMessage:\"已复制\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Queued report for \"+_this.props.objectType,text:\"Track its progress in Management\"",
+    "cn": "title:\"已添加报告队列为 \"+_this.props.objectType,text:\"可以在'管理'功能中跟踪此工作的进度\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "title:\"Created report for \"+reportObjectType+\"",
+    "cn": "title:\"已创建报告，为 \"+reportObjectType+\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "createElement(\"p\",null,\"Pick it up from \",_react2.default.createElement(\"a\",{href:reportingSectionUrl},\"Management > Kibana > Reporting\")",
+    "cn": "createElement(\"p\",null,\"查看它从 \",_react2.default.createElement(\"a\",{href:reportingSectionUrl},\"管理 > Kibana > 报告\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": ",\"Download report\")",
+    "cn": ",\"下载报告\")"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "",
+    "cn": ""
+  },
+  {
+    "path": ".bundle.js",
     "en": "",
     "cn": ""
   },
