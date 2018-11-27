@@ -7211,18 +7211,168 @@
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "createElement(\"h4\",null,\"No results found\")",
+    "cn": "createElement(\"h4\",null,\"未发现结果\")"
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "defaultMessage:\"Area\"",
+    "cn": "defaultMessage:\"面积图\""
   },
   {
     "path": ".bundle.js",
-    "en": "",
-    "cn": ""
+    "en": "defaultMessage:\"Emphasize the quantity beneath a line chart\"",
+    "cn": "defaultMessage:\"强调线下图的数量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Heat Map\"",
+    "cn": "defaultMessage:\"热点图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Shade cells within a matrix\"",
+    "cn": "defaultMessage:\"分开矩阵中的单元\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Horizontal Bar\"",
+    "cn": "defaultMessage:\"水平柱状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Vertical Bar\"",
+    "cn": "defaultMessage:\"垂直柱状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Assign a continuous variable to each axis\"",
+    "cn": "defaultMessage:\"为每个轴线分配一个连续变量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Pie\"",
+    "cn": "defaultMessage:\"饼状图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Compare parts of a whole\"",
+    "cn": "defaultMessage:\"比较一个整体的各部分比例\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Line\"",
+    "cn": "defaultMessage:\"折线图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Emphasize trends\"",
+    "cn": "defaultMessage:\"强调变化趋势\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Data Table\"",
+    "cn": "defaultMessage:\"数据表\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Display values in a table\"",
+    "cn": "defaultMessage:\"将数据在一个表格中展示\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Metric\"",
+    "cn": "defaultMessage:\"度量\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Display a calculation as a single number\"",
+    "cn": "defaultMessage:\"将计算结果显示为数值\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Goal\"",
+    "cn": "defaultMessage:\"目标图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"A goal chart indicates how close you are to your final goal.\"",
+    "cn": "defaultMessage:\"一个目标图表明您相对于您的最终目标还有多远\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Gauge\"",
+    "cn": "defaultMessage:\"量表\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Gauges indicate the status of a metric. Use it to show how a metric's value relates \\n      to reference threshold values.\"",
+    "cn": "defaultMessage:\"量表表示度量标准的状态，使用它来显示指标的值如何与参考阈值相关。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Timelion\"",
+    "cn": "defaultMessage:\"时间线\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Build time-series using functional expressions\"",
+    "cn": "defaultMessage:\"使用功能表达式构建时间序列\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Visual Builder\"",
+    "cn": "defaultMessage:\"可视化构建\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Build time-series using a visual pipeline interface\"",
+    "cn": "defaultMessage:\"使用可视化管道接口构建时间序列\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Coordinate Map\"",
+    "cn": "defaultMessage:\"坐标地图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Plot latitude and longitude coordinates on a map\"",
+    "cn": "defaultMessage:\"在地图上绘制经度和纬度坐标\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Region Map\"",
+    "cn": "defaultMessage:\"区域地图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Show metrics on a thematic map. Use one of the provide base maps, or add your own. Darker colors represent higher values.\"",
+    "cn": "defaultMessage:\"在专题地图上显示指标。使用提供的基本地图之一，或添加您自己的。 较深的颜色表示较高的值。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "\"Show metrics on a thematic map. Use one of the provided base maps, or add your own. Darker colors represent higher values.\"",
+    "cn": "\"在专题地图上显示指标。使用提供的基本地图之一，或添加您自己的。 较深的颜色表示较高的值。\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Tag Cloud\"",
+    "cn": "defaultMessage:\"标签云\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "Create interactive controls for easy dashboard manipulation.",
+    "cn": "创建交互式控件，便于仪表盘操作。"
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"Controls\"",
+    "cn": "defaultMessage:\"控制图\""
+  },
+  {
+    "path": ".bundle.js",
+    "en": "defaultMessage:\"A group of words, sized according to their importance\"",
+    "cn": "defaultMessage:\"根据其重要性确定大小的一组单词。\""
   },
   {
     "path": ".bundle.js",
