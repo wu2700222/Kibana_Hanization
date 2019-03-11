@@ -25,3 +25,5 @@
 ### 汉化效果：
 
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/kibana.png)
+
+![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/discover.png)
