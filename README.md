@@ -7,7 +7,9 @@ Kibana 6.x - future 汉化项目
 ### 一、汉化方法
 
 > 1、拷贝此项目中的translations文件夹到您的kibana目录下的src/legacy/core_plugins/kibana/目录。若您的kibana无此目录，那还是尝试使用此项目old目录下的汉化方法吧。
+
 > 2、修改您的kibana配置文件kibana.yml中的配置项：i18n.locale: "zh_CN"
+
 > 3、汉化完成
 
 ---
