@@ -1,26 +1,22 @@
-## Kibana资源汉化项目
+Kibana 6.x - future 汉化项目
+
+> Kibana官方在6.x(具体版本忘了)的版本正式推出了资源汉化方法(虽然有很多资源还不能被汉化)，因此我废弃掉了之前暴力搜索替换的汉化方法。
+
+> 老版本的汉化仍然可以参考此项目old文件下的汉化说明进行汉化，将来不再进行老版本汉化的维护(< 6.0)。
+
+### 一、汉化方法
+
+> 1、拷贝此项目中的translations文件夹到您的kibana目录下的src/legacy/core_plugins/kibana/目录。若您的kibana无此目录，那还是尝试使用此项目old目录下的汉化方法吧。
+> 2、修改您的kibana配置文件kibana.yml中的配置项：i18n.locale: "zh_CN"
+> 3、汉化完成
 
 ---
-**注意：此项目适用于Kibana 5.x-6.x的任意版本，汉化过程不可逆，汉化前请注意备份！** 汉化资源会慢慢更新完善，已汉化过的Kibana可以重复使用此项目汉化更新的资源。除一小部分资源外，大部分资源无需重启Kibana，刷新页面即可看到效果。
 
-意见反馈：redfree@anbai.com  Windows请自行安装Python2.7
+### 说明：
 
-### 使用方法：
-```
-python main.py Kibana目录
-```
-稍等一会一个全新的中文版Kibana将呈现在你面前。
+此方式汉化完整度依赖于官方在源代码中提供的汉化资源，所以些地方没有汉化我也是没有办法滴。
+有问题请邮件联系：redfree#anbai.com (#=@)
 
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/login.png)
+### 汉化效果：
 
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/welcome.png)
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/kibana.png)
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/visual.png)
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/visualize.png)
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/grokdebugger.png)
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/image/monitoring.png)
+![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/kibana.png)
