@@ -3499,11 +3499,374 @@
     "common.ui.flotCharts.augLabel_": "Aug",
     "common.ui.flotCharts.augLabel": "Aug",
 
+    "common.ui.flotCharts.monLabel_": "Mon",
+    "common.ui.flotCharts.monLabel": "Mon",
+
+    "common.ui.flotCharts.wedLabel_": "Wed",
+    "common.ui.flotCharts.wedLabel": "Wed",
+
+    "common.ui.flotCharts.decLabel_": "Dec",
+    "common.ui.flotCharts.decLabel": "Dec",
+
     "common.ui.flotCharts.thuLabel_": "Thu",
     "common.ui.flotCharts.thuLabel": "货币",
 
+    "common.ui.aggTypes.ipRanges.toLabel_": "To",
+    "common.ui.aggTypes.ipRanges.toLabel": "到",
+
+    "common.ui.aggTable.exportLabel_": "Export:",
+    "common.ui.aggTable.exportLabel": "导出：",
+
+    "common.ui.aggTypes.ipRanges.cidrMask.addRangeButtonLabel_": "Add Range",
+    "common.ui.aggTypes.ipRanges.cidrMask.addRangeButtonLabel": "添加范围",
+
+    "common.ui.docTable.tableHeader.removeColumnButtonAriaLabel_": "Remove {columnName} column",
+    "common.ui.docTable.tableHeader.removeColumnButtonAriaLabel": "移除{columnName}列",
+
+    "common.ui.indexPattern.titleExistsLabel_": "An index pattern with the title '{title}' already exists.",
+    "common.ui.indexPattern.titleExistsLabel": "以标题'{title}'命令的索引规则已存在。",
+
+    "common.ui.aggTypes.buckets.filterTitle_": "Filter",
+    "common.ui.aggTypes.buckets.filterTitle": "筛选器",
+
+    "common.ui.docTable.tableRow.filterOutValueButtonTooltip_": "Filter out value",
+    "common.ui.docTable.tableRow.filterOutValueButtonTooltip": "滤除值",
+
+    "common.ui.aggTypes.otherBucket.groupValuesTooltip_": "Values not in the top N are grouped in this bucket. To include documents with missing values, enable 'Show missing values'.",
+    "common.ui.aggTypes.otherBucket.groupValuesTooltip": "不在前N位的值在此桶中分组。若要包含缺少值的文档，请启用'显示缺少值'。",
+
+    "common.ui.timepicker.relOpts.minutesAgo_": "Minutes ago",
+    "common.ui.timepicker.relOpts.minutesAgo": "几分钟前",
+
+    "common.ui.fieldEditor.labelTemplate.example.output.pathLabel_": "View Asset",
+    "common.ui.fieldEditor.labelTemplate.example.output.pathLabel": "查看资产",
+
+    "common.ui.aggTypes.metrics.wrongLastBucketTypeErrorMessage_": "Last bucket aggregation must be \"Date Histogram\" or \"Histogram\" when using \"{type}\" metric aggregation!",
+    "common.ui.aggTypes.metrics.wrongLastBucketTypeErrorMessage": "最后一个桶聚合必须是 \"数据柱状图\" 或 \"柱状图\" 当使用 \"{type}\" 指标聚合时！",
+
+    "common.ui.courier.requestTimeDescription_": "The time of the request from the browser to Elasticsearch and back. Does not include the time the requested waited in the queue.",
+    "common.ui.courier.requestTimeDescription": "从浏览器到Elasticsearch和返回的请求时间。不包括请求在队列中等待的时间。",
+
+    "common.ui.aggTypes.extendedBounds.minLabel_": "Min",
+    "common.ui.aggTypes.extendedBounds.minLabel": "最小",
+
+    "common.ui.aggTypes.dateRanges.toColumnLabel_": "To",
+    "common.ui.aggTypes.dateRanges.toColumnLabel": "到",
+
+    "common.ui.vis.editors.howToModifyScreenReaderPriorityDescription_": "Use up and down key on this button to move this aggregation up and down in the priority order.",
+    "common.ui.vis.editors.howToModifyScreenReaderPriorityDescription": "使用此按钮上的向上和向下键按优先级顺序向上和向下移动此聚合。",
+
+    "common.ui.savedObjectFinder.pageItemsFromHitCountDescription_": "{pageFirstItem}-{pageLastItem} of {hitCount}",
+    "common.ui.savedObjectFinder.pageItemsFromHitCountDescription": "{pageFirstItem}-{pageLastItem} 总 {hitCount}",
+
+    "common.ui.searchBar.deleteAllFiltersButtonLabel_": "Remove all",
+    "common.ui.searchBar.deleteAllFiltersButtonLabel": "删除所有",
+
+    "common.ui.filterEditor.rangeEndInputPlaceholder_": "End of the range",
+    "common.ui.filterEditor.rangeEndInputPlaceholder": "范围的末尾",
+
+    "common.ui.aggTypes.buckets.significantTermsTitle_": "Significant Terms",
+    "common.ui.aggTypes.buckets.significantTermsTitle": "重要条件",
+
+    "common.ui.aggTypes.metrics.topHit.sumLabel_": "Sum",
+    "common.ui.aggTypes.metrics.topHit.sumLabel": "总和",
+
+    "common.ui.fieldEditor.durationErrorMessage_": "Decimal places must be between 0 and 20",
+    "common.ui.fieldEditor.durationErrorMessage": "小数位数必须介于0和20之间",
+
+    "common.ui.aggTypes.sortOnPlaceholder_": "Select a field",
+    "common.ui.aggTypes.sortOnPlaceholder": "选择一个字段",
+
+    "common.ui.share.contextMenu.embedCodePanelTitle_": "Embed Code",
+    "common.ui.share.contextMenu.embedCodePanelTitle": "嵌入代码",
+
+    "common.ui.fieldEditor.color.addColorButton_": "Add color",
+    "common.ui.fieldEditor.color.addColorButton": "添加颜色",
+
+    "common.ui.aggTypes.buckets.rangesLabel_": "{fieldName} ranges",
+    "common.ui.aggTypes.buckets.rangesLabel": "{fieldName}范围",
+
+    "common.ui.fieldEditor.deleteFieldHeader_": "Delete field '{fieldName}'",
+    "common.ui.fieldEditor.deleteFieldHeader": "删除字段 '{fieldName}'",
+
+    "common.ui.aggTypes.metrics.movingAvgLabel_": "moving avg",
+    "common.ui.aggTypes.metrics.movingAvgLabel": "移动平均",
+
+    "common.ui.courier.savedObject.confirmModal.saveDuplicateConfirmationMessage_": "A {name} with the title '{title}' already exists. Would you like to save anyway?",
+    "common.ui.courier.savedObject.confirmModal.saveDuplicateConfirmationMessage": "标题为'{title}'的名称{name}已经存在。是否仍要保存？",
+
+    "common.ui.aggTypes.aggregateWithTooltip_": "Choose a strategy for combining multiple hits or a multi-valued field into a single metric",
+    "common.ui.aggTypes.aggregateWithTooltip": "选择将多个命中或多值字段组合为单个指标的策略",
+
+    "common.ui.fieldEditor.syntaxHeader_": "Syntax",
+    "common.ui.fieldEditor.syntaxHeader": "语法",
+
+    "common.ui.aggTypes.ipRanges.cidrMask.requiredIpRangeDescription_": "You must specify at least one IP range.",
+    "common.ui.aggTypes.ipRanges.cidrMask.requiredIpRangeDescription": "必须指定至少一个IP范围。",
+
+    "common.ui.vis.editors.sidebar.discardChangesAriaLabel_": "Reset the visualization",
+    "common.ui.vis.editors.sidebar.discardChangesAriaLabel": "重置可视化视图",
+
+    "common.ui.applyFiltersPopup.cancelButtonLabel_": "Cancel",
+    "common.ui.applyFiltersPopup.cancelButtonLabel": "取消",
+
+    "common.ui.aggTypes.metrics.uniqueCountLabel_": "Unique count of {field}",
+    "common.ui.aggTypes.metrics.uniqueCountLabel": "{field}的唯一计数",
+
+    "common.ui.inspector.reqTimestampKey_": "Request timestamp",
+    "common.ui.inspector.reqTimestampKey": "请求时间戳",
+
+    "common.ui.paginateControls.pageSizeLabel_": "Page Size",
+    "common.ui.paginateControls.pageSizeLabel": "页面大小",
+
+    "common.ui.angularBootstrap.pagination.pagerConfig.nextLabel_": "Next \u00bb",
+    "common.ui.angularBootstrap.pagination.pagerConfig.nextLabel": "下一步 \u00bb",
+
+    "common.ui.aggTypes.metrics.percentilesTitle_": "Percentiles",
+    "common.ui.aggTypes.metrics.percentilesTitle": "百分比",
+
+    "common.ui.fieldEditor.urlTemplateHeader_": "Url Template",
+    "common.ui.fieldEditor.urlTemplateHeader": "Url模板",
+
+    "common.ui.fieldEditor.disabledCallOutLabel_": "All inline scripting has been disabled in Elasticsearch. You must enable inline scripting for at least one language in order to use scripted fields in Kibana.",
+    "common.ui.fieldEditor.disabledCallOutLabel": "在Elasticsearch中禁用了所有内联脚本。为了在Kibana中使用脚本字段，必须至少为一种语言启用内联脚本。",
+
+    "common.ui.chrome.bigUrlWarningNotificationMessage.advancedSettingsLinkText_": "advanced settings",
+    "common.ui.chrome.bigUrlWarningNotificationMessage.advancedSettingsLinkText": "高级设置",
+
+    "common.ui.aggTypes.metrics.geoCentroidLabel_": "Geo Centroid",
+    "common.ui.aggTypes.metrics.geoCentroidLabel": "Geo质心",
+
+    "common.ui.docTable.tableRow.filterForValueButtonTooltip_": "Filter for value",
+    "common.ui.docTable.tableRow.filterForValueButtonTooltip": "筛选值",
+
+    "common.ui.courier.fetch.shardsFailedNotificationMessage_": "{shardsFailed} of {shardsTotal} shards failed",
+    "common.ui.courier.fetch.shardsFailedNotificationMessage": "{shardsFailed}个分片失败，总共：{shardsTotal} ",
+
+    "common.ui.vis.editors.aggSelect.selectAggPlaceholder_": "Select an aggregation",
+    "common.ui.vis.editors.aggSelect.selectAggPlaceholder": "选择一个聚合",
+
+    "common.ui.aggTypes.minimumIntervalTooltip_": "Interval will be automatically scaled in the event that the provided value creates more buckets than specified by Advanced Setting's {histogramMaxBars}",
+    "common.ui.aggTypes.minimumIntervalTooltip": "如果提供的值创建的桶比高级设置的{histogramMaxBars}指定的桶多, 则将自动缩放间隔",
+
+    "common.ui.searchBar.pinAllFiltersButtonLabel_": "Pin all",
+    "common.ui.searchBar.pinAllFiltersButtonLabel": "钉住所有",
+
+    "common.ui.share.urlPanel.snapshotLabel_": "Snapshot",
+    "common.ui.share.urlPanel.snapshotLabel": "快照",
+
+    "common.ui.filterEditor.valueSelectPlaceholder_": "Select a value",
+    "common.ui.filterEditor.valueSelectPlaceholder": "选择一个值",
+
+    "common.ui.vis.editors.agg.enableAggButtonTooltip_": "Enable aggregation",
+    "common.ui.vis.editors.agg.enableAggButtonTooltip": "启用聚合",
+
+    "common.ui.aggTypes.metrics.geoBoundsLabel_": "Geo Bounds",
+    "common.ui.aggTypes.metrics.geoBoundsLabel": "Geo边界",
+
+    "common.ui.filterEditor.isNotBetweenOperatorOptionLabel_": "is not between",
+    "common.ui.filterEditor.isNotBetweenOperatorOptionLabel": "不介于",
+
+    "common.ui.fieldEditor.syntax.lucene.operations.bitwiseLabel_": "Bitwise operators: {operators}",
+    "common.ui.fieldEditor.syntax.lucene.operations.bitwiseLabel": "按位运算符：{operators}",
+
+    "common.ui.searchBar.disableAllFiltersButtonLabel_": "Disable all",
+    "common.ui.searchBar.disableAllFiltersButtonLabel": "禁用所有",
+
+    "common.ui.courier.savedObject.confirmModal.overwriteTitle_": "Overwrite {name}?",
+    "common.ui.courier.savedObject.confirmModal.overwriteTitle": "覆盖{name}？",
+
+    "common.ui.management.editIndexPattern.createIndex.defaultButtonText_": "Standard index pattern",
+    "common.ui.management.editIndexPattern.createIndex.defaultButtonText": "标准索引规则",
+
+    "common.ui.docTable.tableRow.toggleRowDetailsButtonAriaLabel_": "Toggle row details",
+    "common.ui.docTable.tableRow.toggleRowDetailsButtonAriaLabel": "切换行详细信息",
+
+    "common.ui.aggTypes.ipRanges.useCidrMasksButtonLabel_": "Use CIDR Masks",
+    "common.ui.aggTypes.ipRanges.useCidrMasksButtonLabel": "使用CIDR掩码",
+
+    "common.ui.aggTypes.extendedBoundsTooltip_": "Min and Max do not filter the results, but rather extend the bounds of the result set",
+    "common.ui.aggTypes.extendedBoundsTooltip": "最小和最大不筛选结果，而是扩展结果集的边界。",
+
+    "common.ui.savedObjects.saveModal.duplicateTitleDescription_": "Click {confirmSaveLabel} to save the {objectType} with the duplicate title.",
+    "common.ui.savedObjects.saveModal.duplicateTitleDescription": "点击{confirmSaveLabel}保存{objectType}以副本标题。",
+
+    "common.ui.aggTypes.precisionLabel_": "Precision",
+    "common.ui.aggTypes.precisionLabel": "精度",
+
+    "common.ui.aggTypes.ranges.requiredRangeTitle_": "Required:",
+    "common.ui.aggTypes.ranges.requiredRangeTitle": "需要：",
+
+    "common.ui.modals.cancelButtonLabel_": "Cancel",
+    "common.ui.modals.cancelButtonLabel": "取消",
+
+    "common.ui.aggTable.formattedLabel_": "Formatted",
+    "common.ui.aggTable.formattedLabel": "格式化",
+
+    "common.ui.timepicker.relOpts.secondsFromNow_": "Seconds from now",
+    "common.ui.timepicker.relOpts.secondsFromNow": "几秒后",
+
+    "common.ui.searchBar.invertDisabledFiltersButtonLabel_": "Invert enabled/disabled",
+    "common.ui.searchBar.invertDisabledFiltersButtonLabel": "反转启用/禁用",
+
+    "common.ui.aggTypes.metrics.standardDeviation.keyDetailsLabel_": "Standard Deviation of {fieldDisplayName}",
+    "common.ui.aggTypes.metrics.standardDeviation.keyDetailsLabel": "{fieldDisplayName}的标准偏差",
+
+    "common.ui.courier.queryTimeDescription_": "The time it took to process the query. Does not include the time to send the request or parse it in the browser.",
+    "common.ui.courier.queryTimeDescription": "处理查询所需的时间。不包括在浏览器中发送请求或分析请求的时间。",
+
+    "common.ui.fieldEditor.labelTemplate.outputHeader_": "Output",
+    "common.ui.fieldEditor.labelTemplate.outputHeader": "输出",
+
+    "common.ui.courier.fetch.requestWasAbortedTwiceErrorMessage_": "Request was aborted twice?",
+    "common.ui.courier.fetch.requestWasAbortedTwiceErrorMessage": "请求被中止两次？",
+
+    "common.ui.fieldEditor.syntax.lucene.operations.arithmeticLabel_": "Arithmetic operators: {operators}",
+    "common.ui.fieldEditor.syntax.lucene.operations.arithmeticLabel": "算术运算符：{operators}",
+
+    "common.ui.aggTypes.buckets.terms.otherBucketDescription_": "This request counts the number of documents that fall outside the criterion of the data buckets.",
+    "common.ui.aggTypes.buckets.terms.otherBucketDescription": "此请求计算不在数据桶标准范围内的文档数。",
+
+    "common.ui.management.breadcrumb_": "Management",
+    "common.ui.management.breadcrumb": "管理",
+
+    "common.ui.aggTypes.ipRanges.fromLabel_": "From",
+    "common.ui.aggTypes.ipRanges.fromLabel": "从",
+
+    "common.ui.aggTypes.paramTypes.field.requiredFieldParameterErrorMessage_": "{fieldParameter} is a required parameter",
+    "common.ui.aggTypes.paramTypes.field.requiredFieldParameterErrorMessage": "{fieldParameter}是必需参数",
+
+    "common.ui.directives.fieldNameIcons.stringFieldAriaLabel_": "String field",
+    "common.ui.directives.fieldNameIcons.stringFieldAriaLabel": "字符串字段",
+
+    "common.ui.courier.indexPatternLabel_": "Index pattern",
+    "common.ui.courier.indexPatternLabel": "索引规则",
+
+    "common.ui.share.contextMenu.permalinksLabel_": "Permalinks",
+    "common.ui.share.contextMenu.permalinksLabel": "永久链接",
+
+    "common.ui.docTable.tableRow.detailHeading_": "Expanded document",
+    "common.ui.docTable.tableRow.detailHeading": "展开的文档",
+
+    "common.ui.aggTypes.changePrecisionLabel_": "Change precision on map zoom",
+    "common.ui.aggTypes.changePrecisionLabel": "更改地图缩放时的精度",
+
+    "common.ui.aggTypes.otherBucket.labelForOtherBucketLabel_": "Label for other bucket",
+    "common.ui.aggTypes.otherBucket.labelForOtherBucketLabel": "其他桶的标签",
+
+    "common.ui.vis.editors.aggSelect.aggregationLabel_": "Aggregation",
+    "common.ui.vis.editors.aggSelect.aggregationLabel": "聚合",
+
+    "common.ui.aggTypes.showEmptyBucketsTooltip_": "Show all buckets, not only the buckets with results",
+    "common.ui.aggTypes.showEmptyBucketsTooltip": "显示所有桶, 而不仅仅是结果桶",
+
+    "common.ui.url.replacementFailedErrorMessage_": "Replacement failed, unresolved expression: {expr}",
+    "common.ui.url.replacementFailedErrorMessage": "替换失败, 未解决的表达式: {expr}",
+
+    "common.ui.courier.savedObject.howToSaveAsNewDescription_": "In previous versions of Kibana, changing the name of a {savedObjectName} would make a copy with the new name. Use the 'Save as a new {savedObjectName}' checkbox to do this now.",
+    "common.ui.courier.savedObject.howToSaveAsNewDescription": "在以前版本的Kibana中，更改{savedObjectName}的名称将使用新名称进行复制。现在使用'另存为新的 {savedObjectName}'复选框执行此操作。",
+
+    "common.ui.savedObjects.saveModal.saveAsNewLabel_": "Save as a new {objectType}",
+    "common.ui.savedObjects.saveModal.saveAsNewLabel": "另存为新{objectType}",
+
+    "common.ui.searchBar.invertNegatedFiltersButtonLabel_": "Invert inclusion",
+    "common.ui.searchBar.invertNegatedFiltersButtonLabel": "反向包含",
+
+    "common.ui.vis.editors.aggParams.errors.aggWrongRunOrderErrorMessage_": "\"{schema}\" aggs must run before all other buckets!",
+    "common.ui.vis.editors.aggParams.errors.aggWrongRunOrderErrorMessage": "\"{schema}\"聚合必须在所有其他桶之前运行！",
+
+    "common.ui.docTable.tableRow.viewSurroundingDocumentsLinkText_": "View surrounding documents",
+    "common.ui.docTable.tableRow.viewSurroundingDocumentsLinkText": "查看周围文档",
+
+    "common.ui.inspector.title_": "Inspector",
+    "common.ui.inspector.title": "检查器",
+
+    "common.ui.share.urlPanel.copyLinkButtonLabel_": "Copy link",
+    "common.ui.share.urlPanel.copyLinkButtonLabel": "复制链接",
+
+    "common.ui.aggTypes.sortOnLabel_": "Sort On",
+    "common.ui.aggTypes.sortOnLabel": "排序",
+
+    "common.ui.filterEditor.existsOperatorOptionLabel_": "exists",
+    "common.ui.filterEditor.existsOperatorOptionLabel": "存在",
+
+    "common.ui.courier.fetch.unableStartRequestErrorMessage_": "Unable to start request because it has already started",
+    "common.ui.courier.fetch.unableStartRequestErrorMessage": "无法启动请求, 因为它已启动",
+
+    "common.ui.vis.visTypes.legend.filterForValueButtonAriaLabel_": "Filter for value {legendDataLabel}",
+    "common.ui.vis.visTypes.legend.filterForValueButtonAriaLabel": "筛选值{legendDataLabel}",
+
+    "common.ui.courier.queryTimeValue_": "{queryTime}ms",
+    "common.ui.courier.queryTimeValue": "{queryTime}ms",
+
+    "common.ui.fieldEditor.deleteField.deletedHeader_": "Deleted '{fieldName}'",
+    "common.ui.fieldEditor.deleteField.deletedHeader": "删除'{fieldName}'",
+
+    "common.ui.aggTypes.ipRanges.removeRangeAriaLabel_": "Remove this range",
+    "common.ui.aggTypes.ipRanges.removeRangeAriaLabel": "删除此范围",
+
+    "common.ui.aggTypes.buckets.ipRangeLabel_": "{fieldName} IP ranges",
+    "common.ui.aggTypes.buckets.ipRangeLabel": "{fieldName}IP范围",
+
+    "common.ui.aggTypes.onlyRequestDataAroundMapExtentLabel_": "Only request data around map extent",
+    "common.ui.aggTypes.onlyRequestDataAroundMapExtentLabel": "仅请求地图范围周围的数据",
+
+    "common.ui.aggTypes.metrics.percentilesLabel_": "Percentiles of {field}",
+    "common.ui.aggTypes.metrics.percentilesLabel": "{field}百分比值",
+
+    "common.ui.aggTypes.buckets.intervalOptions.weeklyDisplayName_": "Weekly",
+    "common.ui.aggTypes.buckets.intervalOptions.weeklyDisplayName": "每周",
+
+    "common.ui.courier.savedObject.confirmModal.overwriteConfirmationMessage_": "Are you sure you want to overwrite {title}?",
+    "common.ui.courier.savedObject.confirmModal.overwriteConfirmationMessage": "您确定要覆盖{title}？",
+
     "common.ui.aggTypes.ranges.removeRangeButtonAriaLabel_": "Remove this range",
     "common.ui.aggTypes.ranges.removeRangeButtonAriaLabel": "删除此范围",
+
+    "common.ui.errorAutoCreateIndex.noteTitle_": "Note:",
+    "common.ui.errorAutoCreateIndex.noteTitle": "注意：",
+
+    "common.ui.fieldEditor.namePlaceholder_": "New scripted field",
+    "common.ui.fieldEditor.namePlaceholder": "新建脚本化字段",
+
+    "common.ui.aggResponse.allDocsTitle_": "All docs",
+    "common.ui.aggResponse.allDocsTitle": "所有文档",
+
+    "common.ui.errorAutoCreateIndex.noteMessage_": "The {autoCreateIndexActionConfig} can also define a whitelist of patterns where this feature should be enabled. We don't discuss how to use the setting that way here because it requires knowing all of the other plugins/interactions that rely on the feature for the same reasons that Kibana does.",
+    "common.ui.errorAutoCreateIndex.noteMessage": "{autoCreateIndexActionConfig}还可以定义启用此功能的模式白名单。我们在这里不讨论如何使用这种设置，因为它需要知道所有其他依赖于该特性的插件/交互，原因与Kibana相同。",
+
+    "common.ui.fieldEditor.syntax.painlessLabel.painlessDetail_": "Painless is powerful but easy to use. It provides access to many {javaAPIs}. Read up on its {syntax} and you'll be up to speed in no time!",
+    "common.ui.fieldEditor.syntax.painlessLabel.painlessDetail": "无痛是强大的，但易于使用。它提供了对许多{javaAPIs}的访问。阅读它的{syntax}，你很快就能上手!",
+
+    "common.ui.aggTypes.otherBucket.labelForMissingValuesLabel_": "Label for missing values",
+    "common.ui.aggTypes.otherBucket.labelForMissingValuesLabel": "缺失值的标签",
+
+    "common.ui.filterEditor.rangeStartInputLabel_": "From",
+    "common.ui.filterEditor.rangeStartInputLabel": "从",
+
+    "common.ui.fieldEditor.scriptInvalidErrorMessage_": "Script is invalid. View script preview for details",
+    "common.ui.fieldEditor.scriptInvalidErrorMessage": "脚本无效。查看脚本预览以了解详细信息",
+
+    "common.ui.fieldEditor.script.getHelpLabel_": "Get help with the syntax and preview the results of your script.",
+    "common.ui.fieldEditor.script.getHelpLabel": "获取有关语法的帮助并预览脚本的结果。",
+
+    "common.ui.aggTypes.ipRanges.removeCidrMaskButtonAriaLabel_": "Remove this CIDR mask",
+    "common.ui.aggTypes.ipRanges.removeCidrMaskButtonAriaLabel": "删除此CIDR掩码",
+
+    "common.ui.aggTypes.metrics.standardDeviationLabel_": "Standard Deviation of {field}",
+    "common.ui.aggTypes.metrics.standardDeviationLabel": "{field}的标准偏差",
+
+    "common.ui.directives.fieldNameIcons.sourceFieldAriaLabel_": "Source field",
+    "common.ui.directives.fieldNameIcons.sourceFieldAriaLabel": "源字段",
+
+    "common.ui.filterEditor.dateFormatHelpLinkLabel_": "Accepted date formats",
+    "common.ui.filterEditor.dateFormatHelpLinkLabel": "接受的日期格式",
+
+    "common.ui.aggTypes.onlyRequestDataAroundMapExtentTooltip_": "Apply geo_bounding_box filter aggregation to narrow the subject area to the map view box with collar",
+    "common.ui.aggTypes.onlyRequestDataAroundMapExtentTooltip": "应用geo_bounding_box筛选器聚合将主题区域缩小到带有项圈的地图视图框",
+
+    "common.ui.angularBootstrap.alert.closeButtonLabel_": "Close",
+    "common.ui.angularBootstrap.alert.closeButtonLabel": "关闭",
 
     "common.ui.fieldEditor.syntax.lucene.limits.typesLabel_": "Only numeric, boolean, date, and geo_point fields may be accessed",
     "common.ui.fieldEditor.syntax.lucene.limits.typesLabel": "只能访问数字、布尔、日期和地理点字段",
@@ -3511,8 +3874,176 @@
     "common.ui.share.contextMenu.embedCodeLabel_": "Embed code",
     "common.ui.share.contextMenu.embedCodeLabel": "嵌入代码",
 
+    "common.ui.indexPattern.intervals.monthlyHeader_": "Monthly",
+    "common.ui.indexPattern.intervals.monthlyHeader": "每月",
+
+    "common.ui.vis.visTypes.legend.toggleLegendButtonTitle_": "Toggle legend",
+    "common.ui.vis.visTypes.legend.toggleLegendButtonTitle": "切换图例",
+
+    "common.ui.vis.editors.agg.toggleEditorButtonAriaLabel_": "Toggle {schema} editor",
+    "common.ui.vis.editors.agg.toggleEditorButtonAriaLabel": "切换{schema}编辑器",
+
+    "common.ui.courier.noSearchStrategyRegisteredErrorMessageDescription_": "Couldn't find a search strategy for the search request",
+    "common.ui.courier.noSearchStrategyRegisteredErrorMessageDescription": "找不到搜索请求的搜索策略",
+
+    "common.ui.searchBar.unpinAllFiltersButtonLabel_": "Unpin all",
+    "common.ui.searchBar.unpinAllFiltersButtonLabel": "解钉所有",
+
+    "common.ui.fieldEditor.labelTemplate.example.pathLabel_": "View Asset",
+    "common.ui.fieldEditor.labelTemplate.example.pathLabel": "查看资产",
+
+    "common.ui.aggTypes.filters.requiredFilterDescription_": "You must specify at least one filter.",
+    "common.ui.aggTypes.filters.requiredFilterDescription": "必须指定至少一个筛选器。",
+
+    "common.ui.aggTypes.buckets.terms.orderAggTitle_": "Order Agg",
+    "common.ui.aggTypes.buckets.terms.orderAggTitle": "排序聚合",
+
+    "common.ui.aggTypes.metrics.sumLabel_": "Sum of {field}",
+    "common.ui.aggTypes.metrics.sumLabel": "{field}总和",
+
+    "common.ui.fieldEditor.url.labelTemplateLabel_": "Label template",
+    "common.ui.fieldEditor.url.labelTemplateLabel": "标签模板",
+
+    "common.ui.chrome.headerGlobalNav.helpMenuButtonAriaLabel_": "Help menu",
+    "common.ui.chrome.headerGlobalNav.helpMenuButtonAriaLabel": "帮助菜单",
+
+    "common.ui.aggTypes.paramTypes.field.invalidSavedFieldParameterErrorMessage_": "Saved {fieldParameter} parameter is now invalid. Please select a new field.",
+    "common.ui.aggTypes.paramTypes.field.invalidSavedFieldParameterErrorMessage": "保存的{fieldParameter}参数现在无效。请选择新字段。",
+
+    "common.ui.aggResponse.valueLabel_": "value",
+    "common.ui.aggResponse.valueLabel": "值",
+
+    "common.ui.aggTypes.extendedBounds.minLabel.optionalText_": "(optional)",
+    "common.ui.aggTypes.extendedBounds.minLabel.optionalText": "(可选)",
+
+    "common.ui.aggTypes.ranges.toColumnLabel_": "To",
+    "common.ui.aggTypes.ranges.toColumnLabel": "到",
+
+    "common.ui.fieldEditor.staticLookup.addEntryButton_": "Add entry",
+    "common.ui.fieldEditor.staticLookup.addEntryButton": "添加条目",
+
+    "common.ui.vis.editors.sidebar.autoApplyChangesTooltip_": "Auto apply changes",
+    "common.ui.vis.editors.sidebar.autoApplyChangesTooltip": "自动应用更改",
+
+    "common.ui.docTable.tableHeader.moveColumnLeftButtonTooltip_": "Move column to the left",
+    "common.ui.docTable.tableHeader.moveColumnLeftButtonTooltip": "向左移动列",
+
+    "common.ui.fieldEditor.labelTemplate.inputHeader_": "Input",
+    "common.ui.fieldEditor.labelTemplate.inputHeader": "输入",
+
+    "common.ui.angularBootstrap.pagination.paginationConfig.previousLabel_": "Previous",
+    "common.ui.angularBootstrap.pagination.paginationConfig.previousLabel": "前一步",
+
+    "common.ui.directives.fieldNameIcons.dateFieldAriaLabel_": "Date field",
+    "common.ui.directives.fieldNameIcons.dateFieldAriaLabel": "数据字段",
+
+    "common.ui.fieldEditor.url.onLabel_": "On",
+    "common.ui.fieldEditor.url.onLabel": "在",
+
+    "common.ui.fieldEditor.warningCallOut.descriptionLabel_": "Scripted fields can be used to display and aggregate calculated values. As such, they can be very slow, and if done incorrectly, can cause Kibana to be unusable. There's no safety net here. If you make a typo, unexpected exceptions will be thrown all over the place!",
+    "common.ui.fieldEditor.warningCallOut.descriptionLabel": "脚本字段可用于显示和聚合计算值。因此，它们可能非常慢，如果做得不正确，会导致Kibana无法使用。这里没有安全网。如果你输入错别字，意外的例外情况就会到处乱丢！",
+
+    "common.ui.vis.editors.sidebar.applyChangesAriaLabel_": "Update the visualization with your changes",
+    "common.ui.vis.editors.sidebar.applyChangesAriaLabel": "用您的更改更新可视化效果",
+
+    "common.ui.aggTypes.buckets.terms.otherBucketTitle_": "Other bucket",
+    "common.ui.aggTypes.buckets.terms.otherBucketTitle": "其它桶",
+
+    "common.ui.fieldEditor.defaultFormatDropDown_": "- Default -",
+    "common.ui.fieldEditor.defaultFormatDropDown": "- 默认 -",
+
+    "common.ui.courier.queryTimeLabel_": "Query time",
+    "common.ui.courier.queryTimeLabel": "查询时间",
+
+    "common.ui.aggTypes.metrics.medianTitle_": "Median",
+    "common.ui.aggTypes.metrics.medianTitle": "中间",
+
+    "common.ui.fieldEditor.color.backgroundLabel_": "Background color",
+    "common.ui.fieldEditor.color.backgroundLabel": "背景色",
+
+    "common.ui.docTable.tableHeader.sortByTimeTooltip_": "Sort by time",
+    "common.ui.docTable.tableHeader.sortByTimeTooltip": "按时间排序",
+
+    "common.ui.docTable.tableRow.filterForValueButtonAriaLabel_": "Filter for value",
+    "common.ui.docTable.tableRow.filterForValueButtonAriaLabel": "筛选值",
+
+    "common.ui.angularBootstrap.pagination.paginationConfig.firstLabel_": "First",
+    "common.ui.angularBootstrap.pagination.paginationConfig.firstLabel": "第一步",
+
+    "common.ui.fieldEditor.defaultFormatHeader_": "Format (Default: {defaultFormat})",
+    "common.ui.fieldEditor.defaultFormatHeader": "格式 (默认：{defaultFormat})",
+
+    "common.ui.aggTypes.metrics.cumulativeSumLabel_": "cumulative sum",
+    "common.ui.aggTypes.metrics.cumulativeSumLabel": "累积和",
+
+    "common.ui.fieldEditor.warningLabel.warningDetail_": "{language} is deprecated and support will be removed in the next major version of Kibana and Elasticsearch. We recommend using {painlessLink} for new scripted fields.",
+    "common.ui.fieldEditor.warningLabel.warningDetail": "{language}已弃用，将在下一个主要版本的Kibana和Elasticsearch中删除支持。我们建议对新的脚本字段使用{painlessLink}。",
+
+    "common.ui.fieldEditor.labelTemplate.example.output.idLabel_": "User",
+    "common.ui.fieldEditor.labelTemplate.example.output.idLabel": "用户",
+
+    "common.ui.filterEditor.isBetweenOperatorOptionLabel_": "is between",
+    "common.ui.filterEditor.isBetweenOperatorOptionLabel": "是介于",
+
+    "common.ui.aggTypes.metrics.averageTitle_": "Average",
+    "common.ui.aggTypes.metrics.averageTitle": "平均",
+
+    "common.ui.aggTypes.otherBucket.groupValuesLabel_": "Group other values in separate bucket",
+    "common.ui.aggTypes.otherBucket.groupValuesLabel": "将其他值分组到单独的存储桶中",
+
+    "common.ui.scriptingLanguages.errorFetchingToastDescription_": "Error getting available scripting languages from Elasticsearch",
+    "common.ui.scriptingLanguages.errorFetchingToastDescription": "从Elasticsearch获取可用脚本语言时出错",
+
+    "common.ui.errorUrlOverflow.footnoteText_": "Footnote: Party size candy bars are tiny. Party size sub sandwiches are massive. Really makes you think.",
+    "common.ui.errorUrlOverflow.footnoteText": "脚注：聚会中的糖果棒很小。派对中的次三明治非常大。真的让你思考。",
+
+    "common.ui.courier.hitsTotalDescription_": "The number of documents that match the query.",
+    "common.ui.courier.hitsTotalDescription": "与查询匹配的文档数。",
+
+    "common.ui.aggTypes.metrics.averageLabel_": "Average {field}",
+    "common.ui.aggTypes.metrics.averageLabel": "平均{field}",
+
+    "common.ui.filterEditor.isOneOfOperatorOptionLabel_": "is one of",
+    "common.ui.filterEditor.isOneOfOperatorOptionLabel": "是其中之一",
+
+    "common.ui.numberList.addUnitButtonLabel_": "Add {unitName}",
+    "common.ui.numberList.addUnitButtonLabel": "添加 {unitName}",
+
+    "common.ui.errorUrlOverflow.howTofixError.removeStuffFromDashboardText_": "Remove some stuff from your dashboard. This will reduce the length of the URL and keep IE in a good place.",
+    "common.ui.errorUrlOverflow.howTofixError.removeStuffFromDashboardText": "从仪表板中删除一些内容。这将缩短URL的长度并使IE保持在一个良好的位置。",
+
+    "common.ui.aggTypes.buckets.ranges.rangesFormatMessage_": "{from} to {to}",
+    "common.ui.aggTypes.buckets.ranges.rangesFormatMessage": "{from} 到 {to}",
+
+    "common.ui.filterEditor.rangeStartInputPlaceholder_": "Start of the range",
+    "common.ui.filterEditor.rangeStartInputPlaceholder": "范围的开始",
+
+    "common.ui.filterEditor.valueInputLabel_": "Value",
+    "common.ui.filterEditor.valueInputLabel": "值",
+
+    "common.ui.numberList.removeUnitButtonAriaLabel_": "Remove this rank value",
+    "common.ui.numberList.removeUnitButtonAriaLabel": "删除此等级值",
+
+    "common.ui.savedObjectFinder.noMatchesFoundDescription_": "No matching {items} found.",
+    "common.ui.savedObjectFinder.noMatchesFoundDescription": "未发现匹配的{items}。",
+
+    "common.ui.chrome.headerGlobalNav.helpMenuTitle_": "Help",
+    "common.ui.chrome.headerGlobalNav.helpMenuTitle": "帮助",
+
+    "common.ui.aggTypes.dateRanges.fromColumnLabel_": "From",
+    "common.ui.aggTypes.dateRanges.fromColumnLabel": "从",
+
+    "common.ui.fieldEditor.labelTemplate.urlHeader_": "URL Template",
+    "common.ui.fieldEditor.labelTemplate.urlHeader": "URL模板",
+
     "common.ui.fieldEditor.script.accessWithLabel_": "Access fields with {code}.",
     "common.ui.fieldEditor.script.accessWithLabel": "访问字段, 使用{code}。",
+
+    "common.ui.courier.fetch.failedToClearRequestErrorMessage_": "Failed to clear incomplete or duplicate request from responses.",
+    "common.ui.courier.fetch.failedToClearRequestErrorMessage": "无法从响应中清除不完整或重复的请求。",
+
+    "common.ui.stateManagement.unableToStoreHistoryInSessionErrorMessage_": "Kibana is unable to store history items in your session because it is full and there don't seem to be items any items safe to delete.\n\nThis can usually be fixed by moving to a fresh tab, but could be caused by a larger issue. If you are seeing this message regularly, please file an issue at {gitHubIssuesUrl}.",
+    "common.ui.stateManagement.unableToStoreHistoryInSessionErrorMessage": "Kibana无法在会话中存储历史记录项目，因为它已满，并且似乎没有任何项目可以安全删除。\n\n这通常可以通过移动到新的选项卡来解决，但可能是由更大的问题引起的。如果您经常看到此消息，请在{gitHubIssuesUrl}上提交问题。",
 
     "common.ui.vis.editors.aggSelect.helpLinkLabel_": "{aggTitle} help",
     "common.ui.vis.editors.aggSelect.helpLinkLabel": "{aggTitle}帮助",
