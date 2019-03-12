@@ -16,7 +16,7 @@
 
 ---
 
-### 说明：
+### 二、说明：
 
 ```
 此方式汉化完整度依赖于官方在源代码中提供的汉化资源，所以些地方没有汉化我也是没有办法滴。
@@ -28,7 +28,7 @@
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/wechat.png)
 
 
-### 汉化效果：
+### 三、汉化效果：
 
 ![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/kibana.png)
 
