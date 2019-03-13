@@ -5437,6 +5437,192 @@
     "tileMap.visParams.colorSchemaLabel_": "Color Schema",
     "tileMap.visParams.colorSchemaLabel": "颜色模式",
 
+    "tableVis.tableVisTitle_": "Data Table",
+    "tableVis.tableVisTitle": "数据表",
+
+    "tableVis.params.showTotalLabel_": "Show total",
+    "tableVis.params.showTotalLabel": "显示总计",
+
+    "tableVis.params.showPartialRowsLabel_": "Show partial rows",
+    "tableVis.params.showPartialRowsLabel": "显示部分行",
+
+    "tableVis.tableVisEditorConfig.schemas.splitTitle_": "Split Table",
+    "tableVis.tableVisEditorConfig.schemas.splitTitle": "拆分表",
+
+    "tableVis.params.showMetricsLabel_": "Show metrics for every bucket/level",
+    "tableVis.params.showMetricsLabel": "显示每个桶/级别的指标",
+
+    "tableVis.params.calculateMetricsLabel_": "Calculate metrics for every bucket/level",
+    "tableVis.params.calculateMetricsLabel": "计算每个桶/级别的指标",
+
+    "tableVis.params.totalFunctionLabel_": "Total function",
+    "tableVis.params.totalFunctionLabel": "总功能",
+
+    "tableVis.vis.noResultsFoundTitle_": "No results found",
+    "tableVis.vis.noResultsFoundTitle": "未找到结果",
+
+    "tableVis.tableVisEditorConfig.schemas.bucketTitle_": "Split Rows",
+    "tableVis.tableVisEditorConfig.schemas.bucketTitle": "拆分行",
+
+    "tableVis.tableVisDescription_": "Display values in a table",
+    "tableVis.tableVisDescription": "在表中显示值",
+
+    "tableVis.params.perPageLabel_": "Per Page",
+    "tableVis.params.perPageLabel": "每页",
+
+    "tableVis.tableVisEditorConfig.schemas.metricTitle_": "Metric",
+    "tableVis.tableVisEditorConfig.schemas.metricTitle": "指标",
+
+    "kbnVislibVisTypes.area.areaDescription_": "Emphasize the quantity beneath a line chart",
+    "kbnVislibVisTypes.area.areaDescription": "强调折线图下的数量",
+
+    "kbnVislibVisTypes.area.radiusTitle_": "Dot Size",
+    "kbnVislibVisTypes.area.radiusTitle": "圆点大小",
+
+    "kbnVislibVisTypes.area.segmentTitle_": "X-Axis",
+    "kbnVislibVisTypes.area.segmentTitle": "X轴",
+
+    "kbnVislibVisTypes.area.areaTitle_": "Area",
+    "kbnVislibVisTypes.area.areaTitle": "面积图",
+
+    "kbnVislibVisTypes.area.groupTitle_": "Split Series",
+    "kbnVislibVisTypes.area.groupTitle": "拆分序列",
+
+    "kbnVislibVisTypes.area.metricsTitle_": "Y-Axis",
+    "kbnVislibVisTypes.area.metricsTitle": "Y轴",
+
+    "kbnVislibVisTypes.area.splitTitle_": "Split Chart",
+    "kbnVislibVisTypes.area.splitTitle": "拆分图",
+
+    "inputControl.editor.indexPatternSelect.patternPlaceholder_": "Select index pattern...",
+    "inputControl.editor.indexPatternSelect.patternPlaceholder": "选择索引规则...",
+
+    "inputControl.control.noValuesDisableTooltip_": "Filtering occurs on the \"{fieldName}\" field, which doesn't exist on any documents in the \"{indexPatternName}\" index pattern. Choose a different field or index documents that contain values for this field.",
+    "inputControl.control.noValuesDisableTooltip": "筛选发生在\"{fieldName}\"字段上，该字段在\"{indexPatternName}\"索引规则中的任何文档上都不存在。选择包含此字段值的其他字段或索引文档。",
+
+    "inputControl.editor.listControl.parentLabel_": "Parent control",
+    "inputControl.editor.listControl.parentLabel": "父控件",
+
+    "inputControl.editor.listControl.multiselectLabel_": "Multiselect",
+    "inputControl.editor.listControl.multiselectLabel": "多选",
+
+    "inputControl.editor.listControl.parentDescription_": "Options are based on the value of parent control. Disabled if parent is not set.",
+    "inputControl.editor.listControl.parentDescription": "选项基于父控件的值。如果未设置父级，则禁用。",
+
+    "inputControl.editor.controlsTab.select.listDropDownOptionLabel_": "Options list",
+    "inputControl.editor.controlsTab.select.listDropDownOptionLabel": "选项列表",
+
+    "inputControl.editor.controlsTab.select.controlTypeAriaLabel_": "Select control type",
+    "inputControl.editor.controlsTab.select.controlTypeAriaLabel": "选择控件类型",
+
+    "inputControl.register.controlsDescription_": "Create interactive controls for easy dashboard manipulation.",
+    "inputControl.register.controlsDescription": "创建交互式控件以便于仪表板操作。",
+
+    "inputControl.editor.rangeControl.stepSizeLabel_": "Step Size",
+    "inputControl.editor.rangeControl.stepSizeLabel": "步长",
+
+    "inputControl.editor.indexPatternSelect.patternLabel_": "Index Pattern",
+    "inputControl.editor.indexPatternSelect.patternLabel": "索引规则",
+
+    "inputControl.editor.listControl.sizeDescription_": "Number of options",
+    "inputControl.editor.listControl.sizeDescription": "选项数",
+
+    "inputControl.editor.listControl.sizeLabel_": "Size",
+    "inputControl.editor.listControl.sizeLabel": "大小",
+
+    "inputControl.control.noIndexPatternTooltip_": "Could not locate index-pattern id: {indexPatternId}.",
+    "inputControl.control.noIndexPatternTooltip": "找不到索引规则ID：{indexPatternId}.",
+
+    "inputControl.control.notInitializedTooltip_": "Control has not been initialized",
+    "inputControl.control.notInitializedTooltip": "控件尚未初始化",
+
+    "inputControl.editor.optionsTab.pinFiltersLabel_": "Pin filters to global state",
+    "inputControl.editor.optionsTab.pinFiltersLabel": "将筛选器固定到全局状态",
+
+    "inputControl.editor.controlEditor.moveControlDownAriaLabel_": "Move control down",
+    "inputControl.editor.controlEditor.moveControlDownAriaLabel": "向下移动控件",
+
+    "inputControl.vis.listControl.selectPlaceholder_": "Select...",
+    "inputControl.vis.listControl.selectPlaceholder": "选择...",
+
+    "inputControl.editor.controlEditor.controlLabel_": "Control Label",
+    "inputControl.editor.controlEditor.controlLabel": "控件标签",
+
+    "inputControl.vis.inputControlVis.clearFormButtonLabel_": "Clear form",
+    "inputControl.vis.inputControlVis.clearFormButtonLabel": "清除表单",
+
+    "inputControl.editor.controlsTab.select.addControlAriaLabel_": "Add control",
+    "inputControl.editor.controlsTab.select.addControlAriaLabel": "添加控件",
+
+    "inputControl.vis.inputControlVis.applyChangesButtonLabel_": "Apply changes",
+    "inputControl.vis.inputControlVis.applyChangesButtonLabel": "应用更改",
+
+    "inputControl.editor.fieldSelect.selectFieldPlaceholder_": "Select field...",
+    "inputControl.editor.fieldSelect.selectFieldPlaceholder": "选择字段...",
+
+    "inputControl.editor.listControl.dynamicOptions.stringFieldDescription_": "Only available for \"string\" fields",
+    "inputControl.editor.listControl.dynamicOptions.stringFieldDescription": "仅适用于\"string\"字段",
+
+    "inputControl.editor.fieldSelect.fieldLabel_": "Field",
+    "inputControl.editor.fieldSelect.fieldLabel": "字段",
+
+    "inputControl.editor.listControl.dynamicOptionsLabel_": "Dynamic Options",
+    "inputControl.editor.listControl.dynamicOptionsLabel": "动态选项",
+
+    "inputControl.vis.inputControlVis.cancelChangesButtonLabel_": "Cancel changes",
+    "inputControl.vis.inputControlVis.cancelChangesButtonLabel": "取消更改",
+
+    "inputControl.register.tabs.controlsTitle_": "Controls",
+    "inputControl.register.tabs.controlsTitle": "控件图",
+
+    "inputControl.editor.listControl.multiselectDescription_": "Allow multiple selection",
+    "inputControl.editor.listControl.multiselectDescription": "允许多选",
+
+    "inputControl.vis.listControl.selectTextPlaceholder_": "Select...",
+    "inputControl.vis.listControl.selectTextPlaceholder": "选择...",
+
+    "inputControl.editor.listControl.dynamicOptions.updateDescription_": "Update options in response to user input",
+    "inputControl.editor.listControl.dynamicOptions.updateDescription": "根据用户输入更新选项",
+
+    "inputControl.editor.controlsTab.select.rangeDropDownOptionLabel_": "Range slider",
+    "inputControl.editor.controlsTab.select.rangeDropDownOptionLabel": "范围滑块",
+
+    "kbn.server.tutorials.apm.flaskClient.configure.commands.allowedCharactersComment_": "a-z, A-Z, 0-9, -, _, and space",
+    "kbn.server.tutorials.apm.flaskClient.configure.commands.allowedCharactersComment": "a-z、A-Z、0-9、-、_和空格",
+
+    "inputControl.listControl.disableTooltip_": "Disabled until '{label}' is set.",
+    "inputControl.listControl.disableTooltip": "在设置'{label}'之前禁用。",
+
+    "inputControl.editor.controlEditor.moveControlUpAriaLabel_": "Move control up",
+    "inputControl.editor.controlEditor.moveControlUpAriaLabel": "上移控件",
+
+    "inputControl.register.controlsTitle_": "Controls",
+    "inputControl.register.controlsTitle": "控件图",
+
+    "inputControl.vis.rangeControl.maxValidErrorMessage_": "max must be greater or equal to min",
+    "inputControl.vis.rangeControl.maxValidErrorMessage": "最大值必须大于或等于最小值",
+
+    "inputControl.editor.optionsTab.updateFilterLabel_": "Update Kibana filters on each change",
+    "inputControl.editor.optionsTab.updateFilterLabel": "每次更改时更新Kibana筛选器",
+
+    "inputControl.rangeControl.unableToFetchTooltip_": "Unable to fetch range min and max, error: {errorMessage}",
+    "inputControl.rangeControl.unableToFetchTooltip": "无法获取最小和最大范围，错误：{errorMessage}",
+
+    "inputControl.editor.controlEditor.removeControlAriaLabel_": "Remove control",
+    "inputControl.editor.controlEditor.removeControlAriaLabel": "移除控件",
+
+    "inputControl.editor.optionsTab.useTimeFilterLabel_": "Use time filter",
+    "inputControl.editor.optionsTab.useTimeFilterLabel": "使用时间筛选器",
+
+    "inputControl.listControl.unableToFetchTooltip_": "Unable to fetch terms, error: {errorMessage}",
+    "inputControl.listControl.unableToFetchTooltip": "无法获取条件, 错误：{errorMessage}",
+
+    "inputControl.editor.rangeControl.decimalPlacesLabel_": "Decimal Places",
+    "inputControl.editor.rangeControl.decimalPlacesLabel": "小数位",
+
+    "inputControl.vis.rangeControl.minMaxValidErrorMessage_": "both min and max must be set",
+    "inputControl.vis.rangeControl.minMaxValidErrorMessage": "必须同时设置最小值和最大值",
+
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
   }
