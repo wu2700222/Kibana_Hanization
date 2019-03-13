@@ -3457,59 +3457,62 @@
     "common.ui.chrome.bigUrlWarningNotificationMessage_": "Either enable the {storeInSessionStorageParam} option in {advancedSettingsLink} or simplify the onscreen visuals.",
     "common.ui.chrome.bigUrlWarningNotificationMessage": "在{advancedSettingsLink}中启用{storeInSessionStorageParam}选项, 或者简化屏幕上的可视化对象。",
 
-    "common.ui.flotCharts.aprLabel_": "Apr",
-    "common.ui.flotCharts.aprLabel": "Apr",
+    "common.ui.flotCharts.janLabel_": "Jan",
+    "common.ui.flotCharts.janLabel": "一月",
 
     "common.ui.flotCharts.febLabel_": "Feb",
-    "common.ui.flotCharts.febLabel": "Feb",
-
-    "common.ui.flotCharts.julLabel_": "Jul",
-    "common.ui.flotCharts.julLabel": "Jul",
-
-    "common.ui.flotCharts.janLabel_": "Jan",
-    "common.ui.flotCharts.janLabel": "Jan",
-
-    "common.ui.flotCharts.novLabel_": "Nov",
-    "common.ui.flotCharts.novLabel": "Nov",
-
-    "common.ui.flotCharts.sepLabel_": "Sep",
-    "common.ui.flotCharts.sepLabel": "Sep",
-
-    "common.ui.flotCharts.mayLabel_": "May",
-    "common.ui.flotCharts.mayLabel": "May",
-
-    "common.ui.flotCharts.junLabel_": "Jun",
-    "common.ui.flotCharts.junLabel": "Jun",
+    "common.ui.flotCharts.febLabel": "二月",
 
     "common.ui.flotCharts.marLabel_": "Mar",
-    "common.ui.flotCharts.marLabel": "Mar",
+    "common.ui.flotCharts.marLabel": "三月",
 
-    "common.ui.flotCharts.friLabel_": "Fri",
-    "common.ui.flotCharts.friLabel": "Fri",
+    "common.ui.flotCharts.aprLabel_": "Apr",
+    "common.ui.flotCharts.aprLabel": "四月",
 
-    "common.ui.flotCharts.octLabel_": "Oct",
-    "common.ui.flotCharts.octLabel": "Oct",
+    "common.ui.flotCharts.mayLabel_": "May",
+    "common.ui.flotCharts.mayLabel": "五月",
 
-    "common.ui.flotCharts.sunLabel_": "Sun",
-    "common.ui.flotCharts.sunLabel": "Sun",
+    "common.ui.flotCharts.junLabel_": "Jun",
+    "common.ui.flotCharts.junLabel": "六月",
 
-    "common.ui.flotCharts.tueLabel_": "Tue",
-    "common.ui.flotCharts.tueLabel": "Tue",
+    "common.ui.flotCharts.julLabel_": "Jul",
+    "common.ui.flotCharts.julLabel": "七月",
 
     "common.ui.flotCharts.augLabel_": "Aug",
-    "common.ui.flotCharts.augLabel": "Aug",
+    "common.ui.flotCharts.augLabel": "八月",
 
-    "common.ui.flotCharts.monLabel_": "Mon",
-    "common.ui.flotCharts.monLabel": "Mon",
+    "common.ui.flotCharts.sepLabel_": "Sep",
+    "common.ui.flotCharts.sepLabel": "九月",
 
-    "common.ui.flotCharts.wedLabel_": "Wed",
-    "common.ui.flotCharts.wedLabel": "Wed",
+    "common.ui.flotCharts.octLabel_": "Oct",
+    "common.ui.flotCharts.octLabel": "十月",
+
+    "common.ui.flotCharts.novLabel_": "Nov",
+    "common.ui.flotCharts.novLabel": "十一月",
 
     "common.ui.flotCharts.decLabel_": "Dec",
-    "common.ui.flotCharts.decLabel": "Dec",
+    "common.ui.flotCharts.decLabel": "十二月",
+
+    "common.ui.flotCharts.monLabel_": "Mon",
+    "common.ui.flotCharts.monLabel": "星期一",
+
+    "common.ui.flotCharts.tueLabel_": "Tue",
+    "common.ui.flotCharts.tueLabel": "星期二",
+
+    "common.ui.flotCharts.wedLabel_": "Wed",
+    "common.ui.flotCharts.wedLabel": "星期三",
 
     "common.ui.flotCharts.thuLabel_": "Thu",
-    "common.ui.flotCharts.thuLabel": "货币",
+    "common.ui.flotCharts.thuLabel": "星期四",
+
+    "common.ui.flotCharts.friLabel_": "Fri",
+    "common.ui.flotCharts.friLabel": "星期五",
+
+    "common.ui.flotCharts.satLabel_": "Sat",
+    "common.ui.flotCharts.satLabel": "星期六",
+
+    "common.ui.flotCharts.sunLabel_": "Sun",
+    "common.ui.flotCharts.sunLabel": "星期日",
 
     "common.ui.aggTypes.ipRanges.toLabel_": "To",
     "common.ui.aggTypes.ipRanges.toLabel": "到",
@@ -4815,9 +4818,6 @@
 
     "common.ui.fieldEditor.popularityLabel_": "Popularity",
     "common.ui.fieldEditor.popularityLabel": "流行",
-
-    "common.ui.flotCharts.satLabel_": "Sat",
-    "common.ui.flotCharts.satLabel": "Sat",
 
     "common.ui.aggTypes.buckets.rangeTitle_": "Range",
     "common.ui.aggTypes.buckets.rangeTitle": "范围",
