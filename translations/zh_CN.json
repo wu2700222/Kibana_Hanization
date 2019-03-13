@@ -5623,6 +5623,141 @@
     "inputControl.vis.rangeControl.minMaxValidErrorMessage_": "both min and max must be set",
     "inputControl.vis.rangeControl.minMaxValidErrorMessage": "必须同时设置最小值和最大值",
 
+    "kbnVislibVisTypes.controls.gaugeOptions.verticalSplitLabel_": "Vertical Split",
+    "kbnVislibVisTypes.controls.gaugeOptions.verticalSplitLabel": "垂直分割",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.showLabelsLabel_": "Show Labels",
+    "kbnVislibVisTypes.controls.gaugeOptions.showLabelsLabel": "显示标签",
+
+    "kbnVislibVisTypes.editors.heatmap.showTooltipsLabel_": "Show Tooltips",
+    "kbnVislibVisTypes.editors.heatmap.showTooltipsLabel": "显示工具提示",
+
+    "kbnVislibVisTypes.editors.pie.donutLabel_": "Donut",
+    "kbnVislibVisTypes.editors.pie.donutLabel": "环状图",
+
+    "kbnVislibVisTypes.line.lineDescription_": "Emphasize trends",
+    "kbnVislibVisTypes.line.lineDescription": "强调趋势",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.customExtentsTitle_": "Custom Extents",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.customExtentsTitle": "自定义范围",
+
+    "kbnVislibVisTypes.histogram.splitTitle_": "Split Chart",
+    "kbnVislibVisTypes.histogram.splitTitle": "拆分图表",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showAdvancedOptionsLabel_": "Show Advanced Options",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showAdvancedOptionsLabel": "显示高级选项",
+
+    "kbnVislibVisTypes.line.metricTitle_": "Y-Axis",
+    "kbnVislibVisTypes.line.metricTitle": "Y轴",
+
+    "kbnVislibVisTypes.editors.heatmap.highlightLabel_": "Highlight",
+    "kbnVislibVisTypes.editors.heatmap.highlightLabel": "高亮",
+
+    "kbnVislibVisTypes.controls.vislibBasicOptions.showTooltipLabel_": "Show Tooltip",
+    "kbnVislibVisTypes.controls.vislibBasicOptions.showTooltipLabel": "显示工具提示",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.truncateLabel_": "Truncate",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.truncateLabel": "截断",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.positionLabel_": "Position",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.positionLabel": "位置",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.filterLabelsLabel_": "Filter Labels",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.filterLabelsLabel": "筛选标签",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.showCirclesLabel_": "Show Circles",
+    "kbnVislibVisTypes.controls.pointSeries.series.showCirclesLabel": "显示圈",
+
+    "kbnVislibVisTypes.heatmap.heatmapDescription_": "Shade cells within a matrix",
+    "kbnVislibVisTypes.heatmap.heatmapDescription": "矩阵中的阴影单元格",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.colorsNumberLabel_": "Number of colors",
+    "kbnVislibVisTypes.controls.heatmapOptions.colorsNumberLabel": "颜色的数量",
+
+    "kbnVislibVisTypes.horizontalBar.segmentTitle_": "X-Axis",
+    "kbnVislibVisTypes.horizontalBar.segmentTitle": "X轴",
+
+    "kbnVislibVisTypes.horizontalBar.horizontalBarDescription_": "Assign a continuous variable to each axis",
+    "kbnVislibVisTypes.horizontalBar.horizontalBarDescription": "为每个轴分配一个连续变量",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.setAxisExtentsLabel_": "Set Axis Extents",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.setAxisExtentsLabel": "设置轴范围",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.howToChangeColorsDescription_": "Note: colors can be changed in the legend",
+    "kbnVislibVisTypes.controls.heatmapOptions.howToChangeColorsDescription": "注意: 颜色可以在图例中更改",
+
+    "kbnVislibVisTypes.heatmap.segmentTitle_": "X-Axis",
+    "kbnVislibVisTypes.heatmap.segmentTitle": "X轴",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.labelsTitle_": "Labels",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.labelsTitle": "标签",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showLabelsLabel_": "Show Labels",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showLabelsLabel": "显示标签",
+
+    "kbnVislibVisTypes.histogram.histogramDescription_": "Assign a continuous variable to each axis",
+    "kbnVislibVisTypes.histogram.histogramDescription": "为每个轴分配一个连续变量",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.showLineLabel_": "Show Line",
+    "kbnVislibVisTypes.controls.pointSeries.series.showLineLabel": "显示线条",
+
+    "kbnVislibVisTypes.pie.segmentTitle_": "Split Slices",
+    "kbnVislibVisTypes.pie.segmentTitle": "拆分切片",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.toLabel_": "To",
+    "kbnVislibVisTypes.controls.heatmapOptions.toLabel": "到",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.styleTitle_": "Style",
+    "kbnVislibVisTypes.controls.gaugeOptions.styleTitle": "样式",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showAdvancedOptionsLabel_": "Show Advanced Options",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showAdvancedOptionsLabel": "显示高级选项",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.chartTypeLabel_": "Chart Type",
+    "kbnVislibVisTypes.controls.pointSeries.series.chartTypeLabel": "图表类型",
+
+    "kbnVislibVisTypes.controls.vislibBasicOptions.legendPositionLabel_": "Legend Position",
+    "kbnVislibVisTypes.controls.vislibBasicOptions.legendPositionLabel": "图例位置",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.backTextColorLabel_": "Back/Text Color",
+    "kbnVislibVisTypes.controls.gaugeOptions.backTextColorLabel": "背景/文本颜色",
+
+    "kbnVislibVisTypes.horizontalBar.horizontalBarTitle_": "Horizontal Bar",
+    "kbnVislibVisTypes.horizontalBar.horizontalBarTitle": "水平栏",
+
+    "kbnVislibVisTypes.editors.pointSeries.showTooltipLabel_": "Show Tooltip",
+    "kbnVislibVisTypes.editors.pointSeries.showTooltipLabel": "显示工具提示",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.fontSizeLabel_": "Font Size ({fontSize}pt)",
+    "kbnVislibVisTypes.controls.gaugeOptions.fontSizeLabel": "字体大小 ({fontSize}pt)",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.modeLabel_": "Mode",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.modeLabel": "模式",
+
+    "kbnVislibVisTypes.controls.pointSeries.gridAxis.yAxisLinesLabel_": "Y-Axis Lines",
+    "kbnVislibVisTypes.controls.pointSeries.gridAxis.yAxisLinesLabel": "Y轴线",
+
+    "kbnVislibVisTypes.goal.goalTitle_": "Goal",
+    "kbnVislibVisTypes.goal.goalTitle": "目标",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.howToChangeColorsDescription_": "Note: colors can be changed in the legend",
+    "kbnVislibVisTypes.controls.gaugeOptions.howToChangeColorsDescription": "注意: 颜色可以在图例中更改",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.colorLabelsLabel_": "Color Labels",
+    "kbnVislibVisTypes.controls.gaugeOptions.colorLabelsLabel": "颜色标签",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.resetColorsTitle_": "reset colors",
+    "kbnVislibVisTypes.controls.heatmapOptions.resetColorsTitle": "重置颜色",
+
+    "kbnVislibVisTypes.controls.pointSeries.gridAxis.dontShowLabel_": "Don't show",
+    "kbnVislibVisTypes.controls.pointSeries.gridAxis.dontShowLabel": "不显示",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.addRangeTitle_": "Add Range",
+    "kbnVislibVisTypes.controls.gaugeOptions.addRangeTitle": "添加范围",
+
+    "kbnVislibVisTypes.line.lineTitle_": "Line",
+    "kbnVislibVisTypes.line.lineTitle": "线条",
+
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
   }
