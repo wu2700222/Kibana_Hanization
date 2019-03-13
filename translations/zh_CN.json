@@ -5275,6 +5275,129 @@
     "server.sampleData.flightsSpec.destinationAirportTitle_": "[Flights] Destination Airport",
     "server.sampleData.flightsSpec.destinationAirportTitle": "[航班] 目的地机场",
 
+    "kbn.visualize.newVisWizard.title_": "New Visualization",
+    "kbn.visualize.newVisWizard.title": "新建可视化视图",
+
+    "kbn.visualize.defaultVisualizationTitle_": "New Visualization",
+    "kbn.visualize.defaultVisualizationTitle": "新建可视化视图",
+
+    "kbn.visualize.listing.listingLimitAdvancedSettingsLinkText_": "Advanced Settings",
+    "kbn.visualize.listing.listingLimitAdvancedSettingsLinkText": "高级设置",
+
+    "kbn.visualize.listing.deleteVisualizationsButtonAriaLabel_": "Delete selected visualizations",
+    "kbn.visualize.listing.deleteVisualizationsButtonAriaLabel": "删除选择的可视化视图",
+
+    "kbn.visualize.visualizeListingBreadcrumbsTitle_": "Visualize",
+    "kbn.visualize.visualizeListingBreadcrumbsTitle": "可视化",
+
+    "kbn.visualize.topNavMenu.shareVisualizationButtonAriaLabel_": "Share Visualization",
+    "kbn.visualize.topNavMenu.shareVisualizationButtonAriaLabel": "共享可视化视图",
+
+    "kbn.visualize.editor.createBreadcrumb_": "Create",
+    "kbn.visualize.editor.createBreadcrumb": "创建",
+
+    "kbn.visualize.listing.createVisualizationButtonAriaLabel_": "Create new visualization",
+    "kbn.visualize.listing.createVisualizationButtonAriaLabel": "创建新的可视化视图",
+
+    "kbn.visualize.wizard.step1Breadcrumb_": "Create",
+    "kbn.visualize.wizard.step1Breadcrumb": "创建",
+
+    "kbn.visualize.listing.breadcrumb_": "Visualize",
+    "kbn.visualize.listing.breadcrumb": "可视化",
+
+    "kbn.visualize.listing.noVisualizations.createVisualizationButtonLabel_": "Create a visualization",
+    "kbn.visualize.listing.noVisualizations.createVisualizationButtonLabel": "创建一个可视化视图",
+
+    "kbn.visualize.newVisWizard.filterVisTypeAriaLabel_": "Filter for a visualization type",
+    "kbn.visualize.newVisWizard.filterVisTypeAriaLabel": "可视化视图类型的筛选器",
+
+    "kbn.visualize.createVisualization.noIndexPatternOrSavedSearchIdErrorMessage_": "You must provide either an indexPattern or a savedSearchId",
+    "kbn.visualize.createVisualization.noIndexPatternOrSavedSearchIdErrorMessage": "您必须提供一个索引规则或保存的搜索ID",
+
+    "kbn.visualize.listing.listingLimitHelpText_": "You have {totalItems} visualizations, but your \"listingLimit\" setting prevents the table below from displaying more than {listingLimit}. You can change this setting under",
+    "kbn.visualize.listing.listingLimitHelpText": "您有{totalItems}个可视化视图, 但您的\"listingLimit\"设置可防止下面的表显示超过{listingLimit}。您可以更改此设置在",
+
+    "kbn.visualize.topNavMenu.saveVisualizationButtonAriaLabel_": "Save Visualization",
+    "kbn.visualize.topNavMenu.saveVisualizationButtonAriaLabel": "保存可视化视图",
+
+    "kbn.visualize.linkedToSearch.unlinkSuccessNotificationText_": "Unlinked from saved search '{searchTitle}'",
+    "kbn.visualize.linkedToSearch.unlinkSuccessNotificationText": "取消链接至已保存的搜索 '{searchTitle}'",
+
+    "kbn.visualize.listing.deleteVisualizations.confirmModalCancelButtonText_": "Cancel",
+    "kbn.visualize.listing.deleteVisualizations.confirmModalCancelButtonText": "取消",
+
+    "kbn.visualize.linkedToSearch.unlinkButtonTooltip_": "Double click to unlink from Saved Search",
+    "kbn.visualize.linkedToSearch.unlinkButtonTooltip": "双击以取消链接到保存的搜索",
+
+    "kbn.visualize.linkedToSearchInfoText_": "Linked to Saved Search",
+    "kbn.visualize.linkedToSearchInfoText": "链接到已保存的搜索",
+
+    "kbn.visualize.newVisWizard.createFromNewSearchTitle_": "From a New Search, Select Index",
+    "kbn.visualize.newVisWizard.createFromNewSearchTitle": "从新搜索中, 选择索引",
+
+    "kbn.visualize.topNavMenu.saveVisualizationDisabledButtonTooltip_": "Apply or Discard your changes before saving",
+    "kbn.visualize.topNavMenu.saveVisualizationDisabledButtonTooltip": "保存前应用或放弃所做的更改",
+
+    "kbn.visualize.disabledLabVisualizationTitle_": "{title} is a lab visualization.",
+    "kbn.visualize.disabledLabVisualizationTitle": "{title} 是实验性的可视化视图。",
+
+    "kbn.visualize.newVisWizard.experimentalDescription_": "This visualization is experimental. The design and implementation are less mature than stable visualizations and might be subject to change.",
+    "kbn.visualize.newVisWizard.experimentalDescription": "此可视化视图是实验性的。设计和实现不如稳定的可视化视图成熟，将来可能会发生变化。",
+
+    "kbn.visualize.disabledLabVisualizationMessage_": "Please turn on lab-mode in the advanced settings to see lab visualizations.",
+    "kbn.visualize.disabledLabVisualizationMessage": "请在高级设置中打开[实验室模式]以查看实验性的可视化视图。",
+
+    "kbn.visualize.listing.deleteVisualizations.confirmModalConfirmButtonText_": "Delete",
+    "kbn.visualize.listing.deleteVisualizations.confirmModalConfirmButtonText": "删除",
+
+    "kbn.visualize.newVisWizard.experimentalTitle_": "Experimental",
+    "kbn.visualize.newVisWizard.experimentalTitle": "实验",
+
+    "kbn.visualize.newVisWizard.helpText_": "Start creating your visualization by selecting a type for that visualization.",
+    "kbn.visualize.newVisWizard.helpText": "通过为该可视化视图选择一种类型, 开始创建可视化视图。",
+
+    "kbn.visualize.experimentalVisInfoText_": "This visualization is marked as experimental.",
+    "kbn.visualize.experimentalVisInfoText": "此可视化视图被标记为实验性的。",
+
+    "kbn.visualize.visualizeDescription_": "Create visualizations and aggregate data stores in your Elasticsearch indices.",
+    "kbn.visualize.visualizeDescription": "在您的Elasticsearch索引中创建可视化视图和聚合数据存储。",
+
+    "kbn.visualize.newVisWizard.createFromSavedSearchTitle_": "Or, From a Saved Search",
+    "kbn.visualize.newVisWizard.createFromSavedSearchTitle": "或者，从保存的搜索",
+
+    "kbn.visualize.topNavMenu.saveVisualization.successNotificationText_": "Saved '{visTitle}'",
+    "kbn.visualize.topNavMenu.saveVisualization.successNotificationText": "保存 '{visTitle}'",
+
+    "kbn.visualize.topNavMenu.openInspectorButtonAriaLabel_": "Open Inspector for visualization",
+    "kbn.visualize.topNavMenu.openInspectorButtonAriaLabel": "打开用于可视化的检查器",
+
+    "kbn.visualize.listing.deleteVisualizations.confirmModalText_": "You can't recover deleted visualizations.",
+    "kbn.visualize.listing.deleteVisualizations.confirmModalText": "您无法恢复已删除的可视化视图。",
+
+    "kbn.visualize.topNavMenu.openInspectorDisabledButtonTooltip_": "This visualization doesn't support any inspectors.",
+    "kbn.visualize.topNavMenu.openInspectorDisabledButtonTooltip": "此可视化视图不支持任何检查器。",
+
+    "kbn.visualize.topNavMenu.saveVisualization.failureNotificationText_": "Error on saving '{visTitle}'",
+    "kbn.visualize.topNavMenu.saveVisualization.failureNotificationText": "保存时出错 '{visTitle}'",
+
+    "kbn.visualize.newVisWizard.experimentalTooltip_": "This visualization is experimental.",
+    "kbn.visualize.newVisWizard.experimentalTooltip": "此可视化视图是实验性的。",
+
+    "kbn.visualize.listing.deleteVisualizations.confirmModalTitle_": "Delete selected visualizations?",
+    "kbn.visualize.listing.deleteVisualizations.confirmModalTitle": "删除选择的可视化视图？",
+
+    "kbn.visualize.wizard.step2Breadcrumb_": "Create",
+    "kbn.visualize.wizard.step2Breadcrumb": "创建",
+
+    "kbn.visualize.newVisWizard.resultsFound_": "{resultCount} {resultCount, plural, one {type} other {types} } found",
+    "kbn.visualize.newVisWizard.resultsFound": "{resultCount} {resultCount, plural, one {个类型} other {个类型} } 已发现",
+
+    "kbn.visualize.listing.noVisualizationsText_": "Looks like you don't have any visualizations. Let's create some!",
+    "kbn.visualize.listing.noVisualizationsText": "看起来你没有任何可视化视图。让我们创造一些吧!",
+
+    "kbn.visualize.newVisWizard.selectVisType_": "Select a visualization type",
+    "kbn.visualize.newVisWizard.selectVisType": "选择可视化类型",
+
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
   }
