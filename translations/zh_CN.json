@@ -5398,6 +5398,45 @@
     "kbn.visualize.newVisWizard.selectVisType_": "Select a visualization type",
     "kbn.visualize.newVisWizard.selectVisType": "选择可视化类型",
 
+    "tileMap.vis.map.editorConfig.schemas.metricTitle_": "Value",
+    "tileMap.vis.map.editorConfig.schemas.metricTitle": "值",
+
+    "tileMap.vis.map.editorConfig.legendPositions.bottomLeftText_": "bottom left",
+    "tileMap.vis.map.editorConfig.legendPositions.bottomLeftText": "左下角",
+
+    "tileMap.vis.map.editorConfig.legendPositions.topRightText_": "top right",
+    "tileMap.vis.map.editorConfig.legendPositions.topRightText": "右上角",
+
+    "tileMap.visParams.clusterSizeLabel_": "Cluster size",
+    "tileMap.visParams.clusterSizeLabel": "簇大小",
+
+    "tileMap.vis.map.editorConfig.schemas.geoCoordinatesTitle_": "Geo Coordinates",
+    "tileMap.vis.map.editorConfig.schemas.geoCoordinatesTitle": "Geo坐标",
+
+    "tileMap.vis.map.editorConfig.legendPositions.bottomRightText_": "bottom right",
+    "tileMap.vis.map.editorConfig.legendPositions.bottomRightText": "右下角",
+
+    "tileMap.visParams.mapTypeLabel_": "Map type",
+    "tileMap.visParams.mapTypeLabel": "地图类型",
+
+    "tileMap.vis.mapDescription_": "Plot latitude and longitude coordinates on a map",
+    "tileMap.vis.mapDescription": "在地图上绘制纬度和经度坐标",
+
+    "tileMap.vis.mapTitle_": "Coordinate Map",
+    "tileMap.vis.mapTitle": "坐标图",
+
+    "tileMap.visParams.desaturateTilesLabel_": "Desaturate tiles",
+    "tileMap.visParams.desaturateTilesLabel": "去饱和瓷片",
+
+    "tileMap.visParams.reduceVibrancyOfTileColorsTip_": "Reduce the vibrancy of tile colors. This does not work in any version of Internet Explorer.",
+    "tileMap.visParams.reduceVibrancyOfTileColorsTip": "减少瓷片颜色的活力。这在任何版本的Internet Explorer中都不起作用。",
+
+    "tileMap.vis.map.editorConfig.legendPositions.topLeftText_": "top left",
+    "tileMap.vis.map.editorConfig.legendPositions.topLeftText": "左上角",
+
+    "tileMap.visParams.colorSchemaLabel_": "Color Schema",
+    "tileMap.visParams.colorSchemaLabel": "颜色模式",
+
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
   }
