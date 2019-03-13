@@ -3514,6 +3514,27 @@
     "common.ui.aggTypes.ipRanges.toLabel_": "To",
     "common.ui.aggTypes.ipRanges.toLabel": "到",
 
+    "common.ui.vislib.colormaps.greensText_": "Greens",
+    "common.ui.vislib.colormaps.greensText": "绿色",
+
+    "common.ui.vis.editors.agg.disableAggButtonTooltip_": "Disable aggregation",
+    "common.ui.vis.editors.agg.disableAggButtonTooltip": "禁用聚合",
+
+    "common.ui.share.urlPanel.copyIframeCodeButtonLabel_": "Copy iFrame code",
+    "common.ui.share.urlPanel.copyIframeCodeButtonLabel": "复制iFrame代码",
+
+    "common.ui.fieldEditor.syntax.painlessLabel.javaAPIsLink_": "native Java APIs",
+    "common.ui.fieldEditor.syntax.painlessLabel.javaAPIsLink": "原生Java APIs",
+
+    "common.ui.paginateSelectableList.sortByButtonLabelScreenReaderOnly_": "Sort by",
+    "common.ui.paginateSelectableList.sortByButtonLabelScreenReaderOnly": "排序以",
+
+    "common.ui.fieldEditor.staticLookup.deleteTitle_": "Delete entry",
+    "common.ui.fieldEditor.staticLookup.deleteTitle": "删除条目",
+
+    "common.ui.parseEsInterval.invalidEsCalendarIntervalErrorMessage_": "Invalid calendar interval: {interval}, value must be 1",
+    "common.ui.parseEsInterval.invalidEsCalendarIntervalErrorMessage": "无效日历间隔：{interval}，值必须为1",
+
     "common.ui.aggTable.exportLabel_": "Export:",
     "common.ui.aggTable.exportLabel": "导出：",
 
