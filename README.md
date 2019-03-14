@@ -12,7 +12,7 @@
 
 > 2、修改您的kibana配置文件kibana.yml中的配置项：i18n.locale: "zh_CN"
 
-> 3、汉化完成
+> 3、重启Kibana，汉化完成
 
 ---
 
