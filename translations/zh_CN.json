@@ -5195,7 +5195,7 @@
     "server.sampleData.logsSpec.webTrafficTitle": "[日志] 网站流量",
 
     "server.sampleData.logsSpec.goalsTitle_": "[Logs] Goals",
-    "server.sampleData.logsSpec.goalsTitle": "[日志] 目标",
+    "server.sampleData.logsSpec.goalsTitle": "[日志] 目标图",
 
     "server.sampleData.flightsSpec.flightCountAndAverageTicketPriceTitle_": "[Flights] Flight Count and Average Ticket Price",
     "server.sampleData.flightsSpec.flightCountAndAverageTicketPriceTitle": "[航班] 航班计数和平均票价",
@@ -5492,7 +5492,7 @@
     "kbnVislibVisTypes.area.metricsTitle": "Y轴",
 
     "kbnVislibVisTypes.area.splitTitle_": "Split Chart",
-    "kbnVislibVisTypes.area.splitTitle": "拆分图",
+    "kbnVislibVisTypes.area.splitTitle": "分割图表",
 
     "inputControl.editor.indexPatternSelect.patternPlaceholder_": "Select index pattern...",
     "inputControl.editor.indexPatternSelect.patternPlaceholder": "选择索引规则...",
@@ -5642,7 +5642,7 @@
     "kbnVislibVisTypes.controls.pointSeries.valueAxes.customExtentsTitle": "自定义范围",
 
     "kbnVislibVisTypes.histogram.splitTitle_": "Split Chart",
-    "kbnVislibVisTypes.histogram.splitTitle": "拆分图表",
+    "kbnVislibVisTypes.histogram.splitTitle": "分割图表",
 
     "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showAdvancedOptionsLabel_": "Show Advanced Options",
     "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showAdvancedOptionsLabel": "显示高级选项",
@@ -5723,7 +5723,7 @@
     "kbnVislibVisTypes.controls.gaugeOptions.backTextColorLabel": "背景/文本颜色",
 
     "kbnVislibVisTypes.horizontalBar.horizontalBarTitle_": "Horizontal Bar",
-    "kbnVislibVisTypes.horizontalBar.horizontalBarTitle": "水平栏",
+    "kbnVislibVisTypes.horizontalBar.horizontalBarTitle": "水平柱状图",
 
     "kbnVislibVisTypes.editors.pointSeries.showTooltipLabel_": "Show Tooltip",
     "kbnVislibVisTypes.editors.pointSeries.showTooltipLabel": "显示工具提示",
@@ -5738,7 +5738,7 @@
     "kbnVislibVisTypes.controls.pointSeries.gridAxis.yAxisLinesLabel": "Y轴线",
 
     "kbnVislibVisTypes.goal.goalTitle_": "Goal",
-    "kbnVislibVisTypes.goal.goalTitle": "目标",
+    "kbnVislibVisTypes.goal.goalTitle": "目标图",
 
     "kbnVislibVisTypes.controls.gaugeOptions.howToChangeColorsDescription_": "Note: colors can be changed in the legend",
     "kbnVislibVisTypes.controls.gaugeOptions.howToChangeColorsDescription": "注意: 颜色可以在图例中更改",
@@ -5756,7 +5756,7 @@
     "kbnVislibVisTypes.controls.gaugeOptions.addRangeTitle": "添加范围",
 
     "kbnVislibVisTypes.line.lineTitle_": "Line",
-    "kbnVislibVisTypes.line.lineTitle": "线条",
+    "kbnVislibVisTypes.line.lineTitle": "拆线图",
 
     "tsvb.series.missingAggregationKeyErrorMessage_": "The aggregations key is missing from the response, check your permissions for this request.",
     "tsvb.series.missingAggregationKeyErrorMessage": "响应中缺少聚合键，请检查您对此请求的权限。",
@@ -6438,6 +6438,429 @@
 
     "tsvb.calculateLabel.lookupMetricTypeOfTargetLabel_": "{lookupMetricType} of {targetLabel}",
     "tsvb.calculateLabel.lookupMetricTypeOfTargetLabel": "{lookupMetricType} - {targetLabel}",
+
+	"kbnVislibVisTypes.line.radiusTitle_": "Dot Size",
+    "kbnVislibVisTypes.line.radiusTitle": "圆点大小",
+
+    "kbnVislibVisTypes.editors.pie.truncateLabel_": "Truncate",
+    "kbnVislibVisTypes.editors.pie.truncateLabel": "截断",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.reverseColorSchemaLabel_": "Reverse Color Schema",
+    "kbnVislibVisTypes.controls.gaugeOptions.reverseColorSchemaLabel": "反色模式",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.percentageModeLabel_": "Percentage Mode",
+    "kbnVislibVisTypes.controls.gaugeOptions.percentageModeLabel": "百分比模式",
+
+    "kbnVislibVisTypes.heatmap.metricTitle_": "Value",
+    "kbnVislibVisTypes.heatmap.metricTitle": "值",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.colorLabel_": "Color",
+    "kbnVislibVisTypes.controls.heatmapOptions.colorLabel": "颜色",
+
+    "kbnVislibVisTypes.pie.pieDescription_": "Compare parts of a whole",
+    "kbnVislibVisTypes.pie.pieDescription": "比较整体的各个部分",
+
+    "kbnVislibVisTypes.pie.metricTitle_": "Slice Size",
+    "kbnVislibVisTypes.pie.metricTitle": "分片大小",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.displayWarningsLabel_": "Display warnings",
+    "kbnVislibVisTypes.controls.gaugeOptions.displayWarningsLabel": "显示警告",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.gaugeTypeLabel_": "Gauge Type",
+    "kbnVislibVisTypes.controls.gaugeOptions.gaugeTypeLabel": "计量类型",
+
+    "kbnVislibVisTypes.editors.heatmap.legendPositionLabel_": "Legend Position",
+    "kbnVislibVisTypes.editors.heatmap.legendPositionLabel": "图例位置",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.requiredText_": "Required:",
+    "kbnVislibVisTypes.controls.gaugeOptions.requiredText": "需要：",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.percentageModeLabel_": "Percentage Mode",
+    "kbnVislibVisTypes.controls.heatmapOptions.percentageModeLabel": "百分比模式",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.xAxisTitle_": "X-Axis",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.xAxisTitle": "X轴",
+
+    "kbnVislibVisTypes.gauge.metricTitle_": "Metric",
+    "kbnVislibVisTypes.gauge.metricTitle": "指标",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.newAxisLabel_": "New Axis\u2026",
+    "kbnVislibVisTypes.controls.pointSeries.series.newAxisLabel": "新建轴...",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.positionLabel_": "Position",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.positionLabel": "位置",
+
+    "kbnVislibVisTypes.editors.pie.showValuesLabel_": "Show Values",
+    "kbnVislibVisTypes.editors.pie.showValuesLabel": "显示值",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.colorScaleLabel_": "Color Scale",
+    "kbnVislibVisTypes.controls.heatmapOptions.colorScaleLabel": "颜色比例",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.minLabel_": "Min",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.minLabel": "最小",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.resetColorsTitle_": "reset colors",
+    "kbnVislibVisTypes.controls.gaugeOptions.resetColorsTitle": "重置颜色",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.addRangeButtonLabel_": "Add Range",
+    "kbnVislibVisTypes.controls.heatmapOptions.addRangeButtonLabel": "添加范围",
+
+    "kbnVislibVisTypes.goal.groupTitle_": "Split Group",
+    "kbnVislibVisTypes.goal.groupTitle": "分割组",
+
+    "kbnVislibVisTypes.line.groupTitle_": "Split Series",
+    "kbnVislibVisTypes.line.groupTitle": "分割序列",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.fromTitle_": "From",
+    "kbnVislibVisTypes.controls.gaugeOptions.fromTitle": "从",
+
+    "kbnVislibVisTypes.horizontalBar.groupTitle_": "Split Series",
+    "kbnVislibVisTypes.horizontalBar.groupTitle": "分割系列",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.rotateLabel_": "Rotate",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.rotateLabel": "旋转",
+
+    "kbnVislibVisTypes.horizontalBar.splitTitle_": "Split Chart",
+    "kbnVislibVisTypes.horizontalBar.splitTitle": "分割图表",
+
+    "kbnVislibVisTypes.editors.pie.labelsSettingsTitle_": "Labels Settings",
+    "kbnVislibVisTypes.editors.pie.labelsSettingsTitle": "标签设置",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.subTextLabel_": "Sub Text",
+    "kbnVislibVisTypes.controls.gaugeOptions.subTextLabel": "子文本",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.fromLabel_": "From",
+    "kbnVislibVisTypes.controls.heatmapOptions.fromLabel": "从",
+
+    "kbnVislibVisTypes.editors.pie.showLabelsLabel_": "Show Labels",
+    "kbnVislibVisTypes.editors.pie.showLabelsLabel": "显示标签",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.scaleToDataBoundsLabel_": "Scale to Data Bounds",
+    "kbnVislibVisTypes.controls.heatmapOptions.scaleToDataBoundsLabel": "缩放到数据边界",
+
+    "kbnVislibVisTypes.editors.pointSeries.currentTimeMarkerLabel_": "Current Time Marker",
+    "kbnVislibVisTypes.editors.pointSeries.currentTimeMarkerLabel": "当前时间标记",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.lineModeLabel_": "Line Mode",
+    "kbnVislibVisTypes.controls.pointSeries.series.lineModeLabel": "线条模式",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.colorLabel_": "Color",
+    "kbnVislibVisTypes.controls.gaugeOptions.colorLabel": "颜色",
+
+    "kbnVislibVisTypes.histogram.histogramTitle_": "Vertical Bar",
+    "kbnVislibVisTypes.histogram.histogramTitle": "垂直柱状图",
+
+    "kbnVislibVisTypes.goal.goalDescription_": "A goal chart indicates how close you are to your final goal.",
+    "kbnVislibVisTypes.goal.goalDescription": "目标图表表明你离最终目标有多近。",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.specifiedRangeNumberWarningMessage_": "{icon} {required} You must specify at least one range.",
+    "kbnVislibVisTypes.controls.heatmapOptions.specifiedRangeNumberWarningMessage": "{icon} {required} 必须指定至少一个范围。",
+
+    "kbnVislibVisTypes.controls.pointSeries.series.lineWidthLabel_": "Line Width",
+    "kbnVislibVisTypes.controls.pointSeries.series.lineWidthLabel": "线宽",
+
+    "kbnVislibVisTypes.line.segmentTitle_": "X-Axis",
+    "kbnVislibVisTypes.line.segmentTitle": "X轴",
+
+    "kbnVislibVisTypes.pie.splitTitle_": "Split Chart",
+    "kbnVislibVisTypes.pie.splitTitle": "分割图表",
+
+	"kbnVislibVisTypes.controls.gaugeOptions.rangesTitle_": "Ranges",
+    "kbnVislibVisTypes.controls.gaugeOptions.rangesTitle": "范围",
+
+    "kbnVislibVisTypes.controls.gaugeOptions.colorOptionsTitle_": "Color Options",
+    "kbnVislibVisTypes.controls.gaugeOptions.colorOptionsTitle": "颜色选项",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.reverseColorSchemaLabel_": "Reverse Color Schema",
+    "kbnVislibVisTypes.controls.heatmapOptions.reverseColorSchemaLabel": "反色模式",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.hideAdvancedOptionsLabel_": "Hide Advanced Options",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.hideAdvancedOptionsLabel": "隐藏高级选项",
+
+    "kbnVislibVisTypes.horizontalBar.metricTitle_": "Y-Axis",
+    "kbnVislibVisTypes.horizontalBar.metricTitle": "Y轴",
+
+    "kbnVislibVisTypes.histogram.metricTitle_": "Y-Axis",
+    "kbnVislibVisTypes.histogram.metricTitle": "Y轴",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.scaleTypeLabel_": "Scale Type",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.scaleTypeLabel": "尺度类型",
+
+    "kbnVislibVisTypes.editors.heatmap.heatmapSettingsTitle_": "Heatmap Settings",
+    "kbnVislibVisTypes.editors.heatmap.heatmapSettingsTitle": "热图设置",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showLabel_": "Show",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.showLabel": "显示",
+
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showLabel_": "Show",
+    "kbnVislibVisTypes.controls.pointSeries.categoryAxis.showLabel": "显示",
+
+    "kbnVislibVisTypes.horizontalBar.radiusTitle_": "Dot Size",
+    "kbnVislibVisTypes.horizontalBar.radiusTitle": "圆点大小",
+
+    "kbnVislibVisTypes.histogram.groupTitle_": "Split Series",
+    "kbnVislibVisTypes.histogram.groupTitle": "分割序列",
+
+    "kbnVislibVisTypes.histogram.segmentTitle_": "X-Axis",
+    "kbnVislibVisTypes.histogram.segmentTitle": "X轴",
+
+	"timelion.help.configuration.notValid.paragraph2_": "You'll also see some other Timelion settings. For now, you don't need to worry about them. Later, you'll see that you can set most of them on the fly if you need to.",
+    "timelion.help.configuration.notValid.paragraph2": "您还将看到一些其他时间设置。目前, 你不需要担心他们。稍后, 您将看到, 如果需要, 您可以动态设置其中的大部分。",
+
+    "kbn.server.tutorials.traefikLogs.longDescription_": "The `traefik` Filebeat module parses access logs created by Traefik. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.traefikLogs.longDescription": "`traefik` Filebeat模块解析Traefik创建的访问日志。[了解更多信息]({learnMoreLink})。",
+
+    "tsvb.movingAverage.metricLabel_": "Metric",
+    "tsvb.movingAverage.metricLabel": "指标",
+
+    "tsvb.stdSibling.metricLabel_": "Metric",
+    "tsvb.stdSibling.metricLabel": "指标",
+
+    "tsvb.serialDiff.metricLabel_": "Metric",
+    "tsvb.serialDiff.metricLabel": "指标",
+
+    "tsvb.visPicker.metricLabel_": "Metric",
+    "tsvb.visPicker.metricLabel": "指标",
+
+    "tsvb.positiveOnly.metricLabel_": "Metric",
+    "tsvb.positiveOnly.metricLabel": "指标",
+
+    "kbnVislibVisTypes.goal.metricTitle_": "Metric",
+    "kbnVislibVisTypes.goal.metricTitle": "指标",
+
+    "tsvb.cumulativeSum.metricLabel_": "Metric",
+    "tsvb.cumulativeSum.metricLabel": "指标",
+
+    "tsvb.derivative.metricLabel_": "Metric",
+    "tsvb.derivative.metricLabel": "指标",
+
+    "kbn.dashboard.listing.createNewDashboard.newToKibanaDescription_": "New to Kibana? {sampleDataInstallLink} to take a test drive.",
+    "kbn.dashboard.listing.createNewDashboard.newToKibanaDescription": "刚开始使用Kibana？{sampleDataInstallLink}以进行试用。",
+
+    "tsvb.markdown.optionsTab.verticalAlignmentLabel_": "Vertical alignment:",
+    "tsvb.markdown.optionsTab.verticalAlignmentLabel": "垂直对齐：",
+
+    "kbn.common.tutorials.logstashInstructions.install.logstash.windowsTextPre_": "First time using Logstash?  See the [Getting Started Guide]({logstashLink}).\n 1. [Download]({elasticLink}) the Logstash Windows zip file.\n 2. Extract the contents of the zip file.",
+    "kbn.common.tutorials.logstashInstructions.install.logstash.windowsTextPre": "第一次使用Logstash？请参阅[入门指南]({logstashLink}).\n。1、[下载]({elasticLink}) Logstash 的 Windows zip 文件。\n 2、解压zip文件的内容。",
+
+    "tsvb.movingAverage.modelLabel_": "Model",
+    "tsvb.movingAverage.modelLabel": "模式",
+
+    "timelion.help.functions.worldbankHelpText_": "\n    [experimental]\n    Pull data from {worldbankUrl} using path to series.\n    The worldbank provides mostly yearly data, and often has no data for the current year.\n    Try {offsetQuery} if you get no data for recent time ranges.",
+    "timelion.help.functions.worldbankHelpText": "\n    [实验]\n   从使用序列路径的 {worldbankUrl} 提取数据。\n    世界银行主要提供年度数据, 并且通常没有本年度的数据。\n 如果没有最近时间范围的数据，请尝试  {offsetQuery}。",
+
+    "kbn.management.settings.field.resetToDefaultLinkText_": "Reset to default",
+    "kbn.management.settings.field.resetToDefaultLinkText": "重置为默认值",
+
+    "kbn.dashboard.panel.optionsMenuForm.panelTitleFormRowLabel_": "Panel title",
+    "kbn.dashboard.panel.optionsMenuForm.panelTitleFormRowLabel": "面板标题",
+
+    "kbn.dashboard.changeViewModeConfirmModal.confirmButtonLabel_": "Discard changes",
+    "kbn.dashboard.changeViewModeConfirmModal.confirmButtonLabel": "放弃更改",
+
+    "kbn.server.tutorials.dockerMetrics.artifacts.dashboards.linkLabel_": "Docker metrics dashboard",
+    "kbn.server.tutorials.dockerMetrics.artifacts.dashboards.linkLabel": "Docker指标仪表板",
+
+    "kbn.management.createIndexPattern.step.status.partialMatchLabel.partialMatchDetail_": "Your index pattern doesn't match any indices, but you have {strongIndices} which {matchedIndicesLength, plural, one {looks} other {look}} similar.",
+    "kbn.management.createIndexPattern.step.status.partialMatchLabel.partialMatchDetail": "您的索引规则与任何索引都不匹配，但您有 {strongIndices}，它与{matchedIndicesLength, plural, one {看起来} other {看起来}}相似。",
+
+    "tileMap.wmsOptions.mapLoadFailDescription_": "* if this parameter is incorrect, maps will fail to load.",
+    "tileMap.wmsOptions.mapLoadFailDescription": "* 如果此参数不正确，将无法加载映射。",
+
+    "kbn.common.tutorials.filebeatInstructions.plugins.geoipUaTitle_": "Install Elasticsearch GeoIP and user agent plugins",
+    "kbn.common.tutorials.filebeatInstructions.plugins.geoipUaTitle": "安装Elasticsearch GeoIP和User-Agent插件",
+
+    "tsvb.gauge.editor.deleteSeriesTooltip_": "Delete Series",
+    "tsvb.gauge.editor.deleteSeriesTooltip": "删除系列",
+
+    "tsvb.table.deleteSeriesTooltip_": "Delete Series",
+    "tsvb.table.deleteSeriesTooltip": "删除系列",
+
+    "tsvb.metric.editor.deleteSeriesTooltip_": "Delete Series",
+    "tsvb.metric.editor.deleteSeriesTooltip": "删除系列",
+
+    "tsvb.timeSeries.deleteSeriesTooltip_": "Delete Series",
+    "tsvb.timeSeries.deleteSeriesTooltip": "删除系列",
+
+    "tsvb.topN.deleteSeriesTooltip_": "Delete Series",
+    "tsvb.topN.deleteSeriesTooltip": "删除系列",
+
+    "kbn.common.tutorials.filebeatInstructions.install.debTextPre_": "First time using Filebeat? See the [Getting Started Guide]({linkUrl}).",
+    "kbn.common.tutorials.filebeatInstructions.install.debTextPre": "第一次使用Filebeat？请参阅[入门指南]({linkUrl})。",
+
+    "kbn.common.tutorials.filebeatInstructions.install.osxTextPre_": "First time using Filebeat? See the [Getting Started Guide]({linkUrl}).",
+    "kbn.common.tutorials.filebeatInstructions.install.osxTextPre": "第一次使用Filebeat？请参阅[入门指南]({linkUrl})。",
+
+    "kbn.common.tutorials.filebeatInstructions.install.rpmTextPre_": "First time using Filebeat? See the [Getting Started Guide]({linkUrl}).",
+    "kbn.common.tutorials.filebeatInstructions.install.rpmTextPre": "第一次使用Filebeat？请参阅[入门指南]({linkUrl})。",
+
+    "vega.vegaParser.hostConfigIsDeprecatedWarningMessage_": "{deprecatedConfigName} has been deprecated. Use {newConfigName} instead.",
+    "vega.vegaParser.hostConfigIsDeprecatedWarningMessage": "{deprecatedConfigName} 已被弃用。使用{newConfigName}代替。",
+
+    "timelion.intervals.customIntervalAriaLabel_": "Custom interval",
+    "timelion.intervals.customIntervalAriaLabel": "自定义间隔",
+
+    "tsvb.table.dragToSortTooltip_": "Drag to sort",
+    "tsvb.table.dragToSortTooltip": "拖拽排序",
+
+    "tsvb.timeSeries.dragToSortLabel_": "Drag to sort",
+    "tsvb.timeSeries.dragToSortLabel": "拖拽排序",
+
+    "tsvb.aggRow.dragToSortTooltip_": "Drag to sort",
+    "tsvb.aggRow.dragToSortTooltip": "拖拽排序",
+
+    "tsvb.metric.sort.dragToSortTooltip_": "Drag to sort",
+    "tsvb.metric.sort.dragToSortTooltip": "拖拽排序",
+
+    "tsvb.topN.dragToSortTooltip_": "Drag to sort",
+    "tsvb.topN.dragToSortTooltip": "拖拽排序",
+
+    "tsvb.gauge.sort.dragToSortTooltip_": "Drag to sort",
+    "tsvb.gauge.sort.dragToSortTooltip": "拖拽排序",
+
+    "kbn.dashboard.addVisualizationDescription2_": " button in the menu bar above to add a visualization to the dashboard.",
+    "kbn.dashboard.addVisualizationDescription2": "菜单中的按钮，用于向仪表板添加可视化效果。",
+
+    "kbn.dashboard.addVisualizationDescription3_": "If you haven't set up any visualizations yet, {visitVisualizeAppLink} to create your first visualization.",
+    "kbn.dashboard.addVisualizationDescription3": "如果您还没有设置任何可视化视图，{visitVisualizeAppLink} 创建您的第一个可视化视图。",
+
+    "kbn.dashboard.addVisualizationDescription1_": "Click the ",
+    "kbn.dashboard.addVisualizationDescription1": "点击此",
+
+    "kbn.dashboard.howToStartWorkingOnNewDashboardDescription1_": "Click the ",
+    "kbn.dashboard.howToStartWorkingOnNewDashboardDescription1": "点击此",
+
+    "vega.emsFileParser.missingNameOfFileErrorMessage_": "{dataUrlParam} with {dataUrlParamValue} requires {nameParam} parameter (name of the file)",
+    "vega.emsFileParser.missingNameOfFileErrorMessage": "{dataUrlParam}  以 {dataUrlParamValue} 需要{nameParam}参数(文件名)",
+
+    "tsvb.topHit.orderOptions.descLabel_": "Desc",
+    "tsvb.topHit.orderOptions.descLabel": "降序",
+
+    "tsvb.timeSeries.chartBar.chartTypeLabel_": "Chart type",
+    "tsvb.timeSeries.chartBar.chartTypeLabel": "图表类型",
+
+    "tsvb.timeSeries.chartLine.chartTypeLabel_": "Chart type",
+    "tsvb.timeSeries.chartLine.chartTypeLabel": "图表类型",
+
+    "timelion.topNavMenu.save.saveAsDashboardPanel.inputPlaceholder_": "Name this panel",
+    "timelion.topNavMenu.save.saveAsDashboardPanel.inputPlaceholder": "命名此面板",
+
+    "timelion.help.functions.bars.args.stackHelpText_": "Should bars be stacked, true by default",
+    "timelion.help.functions.bars.args.stackHelpText": "是否应堆叠柱状图，默认情况下为true",
+
+    "kbn.advancedSettings.timepicker.thisYear_": "This year",
+    "kbn.advancedSettings.timepicker.thisYear": "今年",
+
+    "timelion.uiSettings.timeFieldDescription_": "Default field containing a timestamp when using {esParam}",
+    "timelion.uiSettings.timeFieldDescription": "使用{esParam}时包含时间戳的默认字段",
+
+    "tsvb.math.aggregationLabel_": "Aggregation",
+    "tsvb.math.aggregationLabel": "聚合",
+
+    "tsvb.movingAverage.aggregationLabel_": "Aggregation",
+    "tsvb.movingAverage.aggregationLabel": "聚合",
+
+    "tsvb.percentile.aggregationLabel_": "Aggregation",
+    "tsvb.percentile.aggregationLabel": "聚合",
+
+    "tsvb.stdSibling.aggregationLabel_": "Aggregation",
+    "tsvb.stdSibling.aggregationLabel": "聚合",
+
+    "tsvb.static.aggregationLabel_": "Aggregation",
+    "tsvb.static.aggregationLabel": "聚合",
+
+    "tsvb.derivative.aggregationLabel_": "Aggregation",
+    "tsvb.derivative.aggregationLabel": "聚合",
+
+    "tsvb.cumulativeSum.aggregationLabel_": "Aggregation",
+    "tsvb.cumulativeSum.aggregationLabel": "聚合",
+
+    "tsvb.serialDiff.aggregationLabel_": "Aggregation",
+    "tsvb.serialDiff.aggregationLabel": "聚合",
+
+    "tsvb.positiveOnly.aggregationLabel_": "Aggregation",
+    "tsvb.positiveOnly.aggregationLabel": "聚合",
+
+    "tsvb.filterRatio.aggregationLabel_": "Aggregation",
+    "tsvb.filterRatio.aggregationLabel": "聚合",
+
+    "tsvb.topHit.aggregationLabel_": "Aggregation",
+    "tsvb.topHit.aggregationLabel": "聚合",
+
+    "tsvb.stdAgg.aggregationLabel_": "Aggregation",
+    "tsvb.stdAgg.aggregationLabel": "聚合",
+
+    "tsvb.stdDeviation.aggregationLabel_": "Aggregation",
+    "tsvb.stdDeviation.aggregationLabel": "聚合",
+
+    "tileMap.wmsOptions.useWMSCompliantMapTileServerTip_": "Use WMS compliant map tile server. For advanced users only.",
+    "tileMap.wmsOptions.useWMSCompliantMapTileServerTip": "使用符合WMS的地图拼贴服务器。仅限高级用户。",
+
+    "timelion.help.dataTransforming.paragraph4_": "Not bad, but this gives us a number between 0 and 1. To convert it to a percentage, simply multiply by 100: {multiplyDataQuery}.",
+    "timelion.help.dataTransforming.paragraph4": "不错，但这给了我们一个介于0和1之间的数字。要将其转换为百分比，只需乘以100：{multiplyDataQuery}.。",
+
+    "timelion.expressionInputAriaLabel_": "Timelion expression",
+    "timelion.expressionInputAriaLabel": "Timelion表达式",
+
+    "kbn.advancedSettings.format.numberFormatTitle_": "Number format",
+    "kbn.advancedSettings.format.numberFormatTitle": "数字格式",
+
+    "kbn.server.tutorials.apm.jsClient.configure.commands.setServiceVersionComment_": "Set service version (required for sourcemap feature)",
+    "kbn.server.tutorials.apm.jsClient.configure.commands.setServiceVersionComment": "设置服务版本(源映射功能需要)",
+
+    "kbn.dashboard.topNave.saveConfigDescription_": "Save your dashboard",
+    "kbn.dashboard.topNave.saveConfigDescription": "保存您的仪表板",
+
+    "kbn.server.tutorials.awsMetrics.nameTitle_": "AWS metrics",
+    "kbn.server.tutorials.awsMetrics.nameTitle": "AWS指标",
+
+    "kbn.server.tutorials.iisLogs.artifacts.dashboards.linkLabel_": "IIS logs dashboard",
+    "kbn.server.tutorials.iisLogs.artifacts.dashboards.linkLabel": "IIS日志仪表板",
+
+    "kbn.advancedSettings.rollupIndexPatternsTitle_": "Enable rollup index patterns",
+    "kbn.advancedSettings.rollupIndexPatternsTitle": "启用汇总索引规则",
+
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.windowsTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.windowsTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.debTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.debTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.filebeatCloudInstructions.config.debTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.filebeatCloudInstructions.config.debTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.filebeatCloudInstructions.config.rpmTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.filebeatCloudInstructions.config.rpmTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.debTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.debTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.osxTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.osxTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.osxTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.osxTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.functionbeatCloudInstructions.config.osxTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.functionbeatCloudInstructions.config.osxTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.rpmTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.rpmTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.rpmTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.rpmTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.filebeatCloudInstructions.config.osxTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.filebeatCloudInstructions.config.osxTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "timelion.expressionInputPlaceholder_": "Try a query with {esQuery}",
+    "timelion.expressionInputPlaceholder": "尝试使用{esQuery}进行查询",
+
+    "kbn.advancedSettings.notifications.errorLifetimeTitle_": "Error notification lifetime",
+    "kbn.advancedSettings.notifications.errorLifetimeTitle": "错误通知生存期",
+
+    "kbn.server.tutorials.redisMetrics.longDescription_": "The `redis` Metricbeat module fetches internal metrics from the Redis server. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.redisMetrics.longDescription": " `redis` Metricbeat模块从Redis服务器获取内部指标。[了解更多信息]({learnMoreLink})。",
 
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
