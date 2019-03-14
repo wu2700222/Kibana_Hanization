@@ -5758,6 +5758,687 @@
     "kbnVislibVisTypes.line.lineTitle_": "Line",
     "kbnVislibVisTypes.line.lineTitle": "线条",
 
+    "tsvb.series.missingAggregationKeyErrorMessage_": "The aggregations key is missing from the response, check your permissions for this request.",
+    "tsvb.series.missingAggregationKeyErrorMessage": "响应中缺少聚合键，请检查您对此请求的权限。",
+
+    "timelion.help.configuration.validTitle_": "Good news, Elasticsearch is configured correctly!",
+    "timelion.help.configuration.validTitle": "好消息，Elasticsearch配置正确！",
+
+    "kbn.common.tutorials.heartbeat.cloudInstructions.gettingStarted.title_": "Getting Started",
+    "kbn.common.tutorials.heartbeat.cloudInstructions.gettingStarted.title": "开始使用",
+
+    "tsvb.aggSelect.aggGroups.siblingPipelineAggLabel_": "Sibling Pipeline Aggregations",
+    "tsvb.aggSelect.aggGroups.siblingPipelineAggLabel": "同级管道聚合",
+
+    "kbn.server.tutorials.aerospikeMetrics.nameTitle_": "Aerospike metrics",
+    "kbn.server.tutorials.aerospikeMetrics.nameTitle": "Aerospike指标",
+
+    "tsvb.markdown.editor.cloneSeriesTooltip_": "Clone series",
+    "tsvb.markdown.editor.cloneSeriesTooltip": "克隆系列",
+
+    "regionMap.visParams.selectOptionLabel_": "Select",
+    "regionMap.visParams.selectOptionLabel": "选择",
+
+    "timelion.help.mainPage.keyboardTips.autoComplete.downArrowLabel_": "Down arrow",
+    "timelion.help.mainPage.keyboardTips.autoComplete.downArrowLabel": "向下箭头",
+
+    "kbn.server.tutorials.elasticsearchMetrics.nameTitle_": "Elasticsearch metrics",
+    "kbn.server.tutorials.elasticsearchMetrics.nameTitle": "Elasticsearch指标",
+
+    "tsvb.annotationsEditor.rowTemplateLabel_": "Row template (required)",
+    "tsvb.annotationsEditor.rowTemplateLabel": "行模板(必需)",
+
+    "tsvb.aggSelect.specialAggs.mathLabel_": "Math",
+    "tsvb.aggSelect.specialAggs.mathLabel": "算术",
+
+    "timelion.fitFunctions.carry.downSampleErrorMessage_": "Don't use the 'carry' fit method to down sample, use 'scale' or 'average'",
+    "timelion.fitFunctions.carry.downSampleErrorMessage": "不使用'carry' 下样拟合法, 使用 'scale' 或 'average'",
+
+    "vega.visualization.indexNotFoundErrorMessage_": "Index {index} not found",
+    "vega.visualization.indexNotFoundErrorMessage": "索引{index}未找到",
+
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.windowsTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.windowsTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "tsvb.topHit.fieldLabel_": "Field",
+    "tsvb.topHit.fieldLabel": "字段",
+
+    "kbn.server.tutorials.logstashMetrics.longDescription_": "The `{moduleName}` Metricbeat module fetches internal metrics from a Logstash server. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.logstashMetrics.longDescription": "Metricbeat模块`{moduleName}` 从Logstash服务器获取内部指标。[了解更多信息]({learnMoreLink})。",
+
+    "timelion.help.mainPage.keyboardTips.generalEditing.submitRequestText_": "Submit request",
+    "timelion.help.mainPage.keyboardTips.generalEditing.submitRequestText": "提交请求",
+
+    "tsvb.aggSelect.pipelineAggs.cumulativeSumLabel_": "Cumulative Sum",
+    "tsvb.aggSelect.pipelineAggs.cumulativeSumLabel": "累计总和",
+
+    "tsvb.iconSelect.asteriskLabel_": "Asterisk",
+    "tsvb.iconSelect.asteriskLabel": "星号",
+
+    "timelion.help.functions.label.args.regexHelpText_": "A regex with capture group support",
+    "timelion.help.functions.label.args.regexHelpText": "支持捕获组的正则",
+
+    "tsvb.aggLookup.overallStdDeviationLabel_": "Overall Std. Deviation",
+    "tsvb.aggLookup.overallStdDeviationLabel": "总体标准偏差",
+
+    "tsvb.calculation.variablesLabel_": "Variables",
+    "tsvb.calculation.variablesLabel": "变量",
+
+    "tsvb.aggLookup.addPipelineAggDescription_": "{label} (use the \"+\" button to add this pipeline agg)",
+    "tsvb.aggLookup.addPipelineAggDescription": "{label}(使用\"+\"按钮添加此管道聚合)",
+
+    "kbn.common.tutorials.metricbeatInstructions.start.windowsTextPre_": "The `setup` command loads the Kibana dashboards. If the dashboards are already set up, omit this command.",
+    "kbn.common.tutorials.metricbeatInstructions.start.windowsTextPre": "`setup`命令加载Kibana仪表板。如果已经设置了仪表板，则忽略此命令。",
+
+    "kbnVislibVisTypes.controls.heatmapOptions.requiredText_": "Required:",
+    "kbnVislibVisTypes.controls.heatmapOptions.requiredText": "需要：",
+
+    "tagCloud.visParams.fontSizeLabel_": "Font Size",
+    "tagCloud.visParams.fontSizeLabel": "字体大小",
+
+    "server.status.yellowTitle_": "Yellow",
+    "server.status.yellowTitle": "黄色",
+
+    "vega.mapView.mapStyleNotFoundWarningMessage_": "{mapStyleParam} was not found",
+    "vega.mapView.mapStyleNotFoundWarningMessage": "{mapStyleParam}未找到",
+
+    "kbn.common.tutorials.filebeat.cloudInstructions.gettingStarted.title_": "Getting Started",
+    "kbn.common.tutorials.filebeat.cloudInstructions.gettingStarted.title": "开始使用",
+
+    "tsvb.calculateLabel.percentileRankLabel_": "{lookupMetricType} ({metricValue}) of {metricField}",
+    "tsvb.calculateLabel.percentileRankLabel": "{lookupMetricType} ({metricValue}) ： {metricField}",
+
+    "kbn.common.tutorials.functionbeatStatusCheck.errorText_": "No data has been received from Functionbeat yet",
+    "kbn.common.tutorials.functionbeatStatusCheck.errorText": "尚未从Functionbeat接收到数据",
+
+    "tsvb.colorRules.greaterThanOrEqualLabel_": ">= greater than or equal",
+    "tsvb.colorRules.greaterThanOrEqualLabel": ">= 大于或等于",
+
+    "kbn.doc.failedToExecuteQueryDescription_": "Failed to execute query",
+    "kbn.doc.failedToExecuteQueryDescription": "执行查询失败",
+
+    "kbn.dashboard.topNave.cancelButtonAriaLabel_": "cancel",
+    "kbn.dashboard.topNave.cancelButtonAriaLabel": "取消",
+
+    "kbn.dashboard.topNav.options.hideAllPanelTitlesSwitchLabel_": "Show panel titles",
+    "kbn.dashboard.topNav.options.hideAllPanelTitlesSwitchLabel": "显示面板标题",
+
+    "kbn.advancedSettings.format.currencyFormatTitle_": "Currency format",
+    "kbn.advancedSettings.format.currencyFormatTitle": "货币格式",
+
+    "tsvb.markdown.optionsTab.showScrollbarsLabel_": "Show scrollbars?",
+    "tsvb.markdown.optionsTab.showScrollbarsLabel": "显示滚动条？",
+
+    "kbn.server.tutorials.systemMetrics.shortDescription_": "Collect CPU, memory, network, and disk statistics from the host.",
+    "kbn.server.tutorials.systemMetrics.shortDescription": "从主机收集CPU、内存、网络和磁盘统计信息。",
+
+    "tsvb.dataFormatPicker.bytesLabel_": "Bytes",
+    "tsvb.dataFormatPicker.bytesLabel": "字节",
+
+    "tsvb.visPicker.topNLabel_": "Top N",
+    "tsvb.visPicker.topNLabel": "前 N",
+
+    "timelion.cells.actions.removeTooltip_": "Remove",
+    "timelion.cells.actions.removeTooltip": "移除",
+
+    "timelion.help.functions.legend.args.position.suggestions.neHelpText_": "place legend in north east corner",
+    "timelion.help.functions.legend.args.position.suggestions.neHelpText": "在东北角放置图例",
+
+    "tsvb.table.minLabel_": "Min",
+    "tsvb.table.minLabel": "最小",
+
+    "metricVis.params.ranges.addRangeButtonLabel_": "Add Range",
+    "metricVis.params.ranges.addRangeButtonLabel": "添加范围",
+
+    "kbn.server.tutorials.apm.downloadServer.title_": "Download and unpack APM Server",
+    "kbn.server.tutorials.apm.downloadServer.title": "下载并解压缩APM服务器",
+
+    "kbn.common.tutorials.metricbeatInstructions.config.osxTextPre_": "Modify {path} to set the connection information:",
+    "kbn.common.tutorials.metricbeatInstructions.config.osxTextPre": "修改{path}以设置连接信息：",
+
+    "kbn.advancedSettings.visualizeEnableLabsTitle_": "Enable experimental visualizations",
+    "kbn.advancedSettings.visualizeEnableLabsTitle": "启用实验的可视化视图",
+
+    "kbn.advancedSettings.suggestFilterValuesText_": "Set this property to false to prevent the filter editor from suggesting values for fields.",
+    "kbn.advancedSettings.suggestFilterValuesText": "将此属性设置为false，以防止筛选器编辑器使用字段建议的值。",
+
+    "tsvb.markdown.alignOptions.bottomLabel_": "Bottom",
+    "tsvb.markdown.alignOptions.bottomLabel": "底部",
+
+    "kbn.server.tutorials.apacheMetrics.shortDescription_": "Fetch internal metrics from the Apache 2 HTTP server.",
+    "kbn.server.tutorials.apacheMetrics.shortDescription": "从Apache2 HTTP服务器获取内部指标。",
+
+	"kbn.server.tutorials.postgresqlMetrics.nameTitle_": "PostgreSQL metrics",
+    "kbn.server.tutorials.postgresqlMetrics.nameTitle": "PostgreSQL指标",
+
+    "kbn.server.tutorials.mysqlMetrics.nameTitle_": "MySQL metrics",
+    "kbn.server.tutorials.mysqlMetrics.nameTitle": "MySQL指标",
+
+    "kbn.server.tutorials.apm.railsClient.configure.title_": "Configure the agent",
+    "kbn.server.tutorials.apm.railsClient.configure.title": "配置代理程序",
+
+    "tsvb.vars.variableNamePlaceholder_": "Variable name",
+    "tsvb.vars.variableNamePlaceholder": "变量名",
+
+    "kbn.server.tutorials.cloudwatchLogs.shortDescription_": "Collect Cloudwatch logs with Functionbeat",
+    "kbn.server.tutorials.cloudwatchLogs.shortDescription": "使用Functionbeat收集CloudWatch日志",
+
+    "tsvb.aggRow.dragToSortAriaLabel_": "Drag to sort",
+    "tsvb.aggRow.dragToSortAriaLabel": "拖动以排序",
+
+    "kbn.advancedSettings.context.defaultSizeTitle_": "Context size",
+    "kbn.advancedSettings.context.defaultSizeTitle": "上下文大小",
+
+    "kbn.common.tutorials.logstashInstructions.install.java.osxTitle_": "Download and install the Java Runtime Environment",
+    "kbn.common.tutorials.logstashInstructions.install.java.osxTitle": "下载并安装Java运行环境",
+
+    "timelion.help.configuration.notValid.paragraph1_": "If you're using Logstash, you don't need to configure anything to start exploring your log data with Timelion. To search other indices, go to {advancedSettingsPath} and configure the {esDefaultIndex} and {esTimefield} settings to match your indices.",
+    "timelion.help.configuration.notValid.paragraph1": "如果您使用的是Logstash，那么您不需要配置任何东西就可以开始使用Timelion来探索日志数据。要搜索其他索引，请转到{advancedSettingsPath}并配置{esDefaultIndex}和{esTimefield}设置以匹配您的索引。",
+
+    "tsvb.durationOptions.picosecondsLabel_": "picoseconds",
+    "tsvb.durationOptions.picosecondsLabel": "皮秒",
+
+    "timelion.help.functions.label.args.labelHelpText_": "Legend value for series. You can use $1, $2, etc, in the string to match up with the regex capture groups",
+    "timelion.help.functions.label.args.labelHelpText": "序列的图例值。您可以在字符串中使用$1、$2等来匹配正则捕获组。",
+
+    "tsvb.aggSelect.pipelineAggs.serialDifferenceLabel_": "Serial Difference",
+    "tsvb.aggSelect.pipelineAggs.serialDifferenceLabel": "序列差",
+
+    "timelion.help.functions.trim.args.endHelpText_": "Buckets to trim from the end of the series. Default: 1",
+    "timelion.help.functions.trim.args.endHelpText": "从系列末尾整理的桶。默认：1",
+
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.rpmTitle_": "Edit the configuration",
+    "kbn.common.tutorials.heartbeatCloudInstructions.config.rpmTitle": "编辑配置",
+
+    "kbn.server.tutorials.logstashLogs.artifacts.dashboards.linkLabel_": "Logstash logs dashboard",
+    "kbn.server.tutorials.logstashLogs.artifacts.dashboards.linkLabel": "Logstash日志仪表板",
+
+    "kbn.common.tutorials.functionbeatEnableOnPremInstructionsOSXLinux.textPre_": "Modify the settings in the `functionbeat.yml` file.",
+    "kbn.common.tutorials.functionbeatEnableOnPremInstructionsOSXLinux.textPre": "修改`functionbeat.yml`文件中的设置。",
+
+    "kbn.advancedSettings.dateFormat.scaledText_": "Values that define the format used in situations where time-based data is rendered in order, and formatted timestamps should adapt to the interval between measurements. Keys are {intervalsLink}.",
+    "kbn.advancedSettings.dateFormat.scaledText": "定义在按顺序呈现基于时间的数据以及格式化时间戳的情况下使用的格式的值应适应测量之间的间隔。键是{intervalsLink}。",
+
+    "tsvb.axisLabelOptions.axisLabel_": "per {unitValue} {unitString}",
+    "tsvb.axisLabelOptions.axisLabel": "每 {unitValue} {unitString}",
+
+    "metricVis.params.color.reverseSchemaLabel_": "Reverse Color Schema",
+    "metricVis.params.color.reverseSchemaLabel": "反色模式",
+
+    "tsvb.stdAgg.fieldLabel_": "Field",
+    "tsvb.stdAgg.fieldLabel": "字段",
+
+    "timelion.help.configuration.valid.paragraph1Part2_": "for information about configuring the Elasticsearch datasource.",
+    "timelion.help.configuration.valid.paragraph1Part2": "有关配置Elasticsearch数据源的信息。",
+
+    "kbn.server.tutorials.apm.apmServer.statusCheck.errorMessage_": "APM Server has still not connected to Elasticsearch",
+    "kbn.server.tutorials.apm.apmServer.statusCheck.errorMessage": "APM服务器尚未连接到Elasticsearch",
+
+    "kbnDocViews.table.noCachedMappingForThisFieldTooltip_": "No cached mapping for this field. Refresh field list from the Management > Index Patterns page",
+    "kbnDocViews.table.noCachedMappingForThisFieldTooltip": "此字段没有缓存映射。从'管理' > '索引规则' 页刷新字段列表",
+
+    "kbn.advancedSettings.dateFormatTitle_": "Date format",
+    "kbn.advancedSettings.dateFormatTitle": "日期格式",
+
+    "kbn.dashboard.topNave.fullScreenButtonAriaLabel_": "full screen",
+    "kbn.dashboard.topNave.fullScreenButtonAriaLabel": "全屏",
+
+    "kbn.dashboard.listing.deleteSelectedDashboardsConfirmModal.cancelButtonLabel_": "Cancel",
+    "kbn.dashboard.listing.deleteSelectedDashboardsConfirmModal.cancelButtonLabel": "取消",
+
+    "timelion.serverSideErrors.pointsFunction.notValidSymbolErrorMessage_": "Valid symbols are: {validSymbols}",
+    "timelion.serverSideErrors.pointsFunction.notValidSymbolErrorMessage": "有效符号为：{validSymbols}",
+
+    "tsvb.table.filterLabel_": "Filter",
+    "tsvb.table.filterLabel": "筛选器",
+
+    "tagCloud.vis.tagCloudTitle_": "Tag Cloud",
+    "tagCloud.vis.tagCloudTitle": "标签云",
+
+    "kbn.server.tutorials.phpFpmMetrics.nameTitle_": "PHP-FPM metrics",
+    "kbn.server.tutorials.phpFpmMetrics.nameTitle": "PHP-FPM指标",
+
+    "kbn.advancedSettings.indexPattern.recentMatchingTitle_": "Recent matching patterns",
+    "kbn.advancedSettings.indexPattern.recentMatchingTitle": "最近的匹配规则",
+
+    "timelion.help.functions.rangeHelpText_": "Changes the max and min of a series while keeping the same shape",
+    "timelion.help.functions.rangeHelpText": "在保持相同形状的同时更改序列的最大值和最小值",
+
+    "kbn.dashboard.listing.listingLimitExceeded.advancedSettingsLinkText_": "Advanced Settings",
+    "kbn.dashboard.listing.listingLimitExceeded.advancedSettingsLinkText": "高级设置",
+
+    "tsvb.calculateLabel.mathLabel_": "Math",
+    "tsvb.calculateLabel.mathLabel": "算术",
+
+    "kbn.context.unableToLoadAnchorDocumentDescription_": "Unable to load the anchor document",
+    "kbn.context.unableToLoadAnchorDocumentDescription": "无法加载锚文档",
+
+    "kbn.management.settings.searchBar.unableToParseQueryErrorMessage_": "Unable to parse query",
+    "kbn.management.settings.searchBar.unableToParseQueryErrorMessage": "无法解析查询",
+
+    "kbn.server.tutorials.kafkaLogs.longDescription_": "The `kafka` Filebeat module parses logs created by Kafka. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.kafkaLogs.longDescription": "`kafka` Filebeat模块解析由Kafka创建的日志。[了解更多信息]({learnMoreLink})。",
+
+    "kbn.home.tutorial.card.sampleDataDescription_": "Get started exploring Kibana with these \"one click\" data sets.",
+    "kbn.home.tutorial.card.sampleDataDescription": "使用这些 '一键式' 数据集开始探索Kibana。",
+
+	"timelion.help.mainPage.functionReference.noArgumentsFunctionErrorMessage_": "This function does not accept any arguments. Well that's simple, isn't it?",
+    "timelion.help.mainPage.functionReference.noArgumentsFunctionErrorMessage": "此函数不接受任何参数。这很简单，不是吗？",
+
+    "tsvb.percentile.fieldLabel_": "Field",
+    "tsvb.percentile.fieldLabel": "字段",
+
+    "tsvb.calculateLabel.seriesAggLabel_": "Series Agg ({metricFunction})",
+    "tsvb.calculateLabel.seriesAggLabel": "系列聚合 ({metricFunction})",
+
+    "tsvb.stdDeviation.modeLabel_": "Mode",
+    "tsvb.stdDeviation.modeLabel": "模式",
+
+    "tsvb.timeSeries.overrideIndexPatternLabel_": "Override Index Pattern?",
+    "tsvb.timeSeries.overrideIndexPatternLabel": "覆盖索引规则？",
+
+    "interpreter.functions.kibana.help_": "Gets kibana global context",
+    "interpreter.functions.kibana.help": "获取Kibana全局上下文",
+
+    "tsvb.vars.variableNameAriaLabel_": "Variable name",
+    "tsvb.vars.variableNameAriaLabel": "变量名",
+
+    "kbn.common.tutorials.filebeatEnableInstructions.windowsTextPost_": "Modify the settings in the `modules.d/{moduleName}.yml` file.",
+    "kbn.common.tutorials.filebeatEnableInstructions.windowsTextPost": "修改`modules.d/{moduleName}.yml`文件中的设置。",
+
+    "tsvb.visEditorVisualization.autoApplyLabel_": "Auto apply",
+    "tsvb.visEditorVisualization.autoApplyLabel": "自动应用",
+
+    "kbn.common.tutorials.premCloudInstructions.option2.title_": "Option 2: Connect local Kibana to a Cloud instance",
+    "kbn.common.tutorials.premCloudInstructions.option2.title": "选项2：连接本地Kibana到云实例",
+
+    "timelion.help.functions.propsHelpText_": "Use at your own risk, sets arbitrary properties on the series. For example {example}",
+    "timelion.help.functions.propsHelpText": "自行承担风险使用，在序列上设置任意属性。例如 {example}",
+
+    "tsvb.topHit.aggregateWithLabel_": "Aggregate with",
+    "tsvb.topHit.aggregateWithLabel": "聚合以",
+
+    "kbn.common.tutorials.metricbeatInstructions.install.rpmTitle_": "Download and install Metricbeat",
+    "kbn.common.tutorials.metricbeatInstructions.install.rpmTitle": "下载并安装Metricbeat",
+
+    "kbn.common.tutorials.functionbeatStatusCheck.text_": "Check that data is received from Functionbeat",
+    "kbn.common.tutorials.functionbeatStatusCheck.text": "检查是否从Functionbeat接收到数据",
+
+    "kbn.server.tutorials.logstashLogs.nameTitle_": "Logstash logs",
+    "kbn.server.tutorials.logstashLogs.nameTitle": "Logstash日志",
+
+    "metricVis.params.ranges.warning.specifyRangeDescription_": "{requiredDescription} You must specify at least one range.",
+    "metricVis.params.ranges.warning.specifyRangeDescription": "{requiredDescription}您必须指定至少一个范围。",
+
+    "tsvb.timeSeries.hideInLegendLabel_": "Hide in legend",
+    "tsvb.timeSeries.hideInLegendLabel": "隐藏在图例中",
+
+    "tsvb.aggSelect.metricsAggs.stdDeviationLabel_": "Std. Deviation",
+    "tsvb.aggSelect.metricsAggs.stdDeviationLabel": "标准偏差",
+
+    "statusPage.metricsTiles.columns.heapUsedHeader_": "Heap used",
+    "statusPage.metricsTiles.columns.heapUsedHeader": "使用的堆",
+
+    "tsvb.iconSelect.bellLabel_": "Bell",
+    "tsvb.iconSelect.bellLabel": "铃声",
+
+    "tagCloud.vis.schemas.metricTitle_": "Tag Size",
+    "tagCloud.vis.schemas.metricTitle": "标签尺寸",
+
+    "vega.vegaParser.baseView.functionIsNotDefinedForGraphErrorMessage_": "{funcName} is not defined for this graph",
+    "vega.vegaParser.baseView.functionIsNotDefinedForGraphErrorMessage": "未为此图表定义{funcName} ",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.yAxisTitle_": "Y-Axes",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.yAxisTitle": "Y轴",
+
+	"kbnVislibVisTypes.editors.pie.pieSettingsTitle_": "Pie Settings",
+    "kbnVislibVisTypes.editors.pie.pieSettingsTitle": "饼图设置",
+
+    "kbn.server.tutorials.kibanaMetrics.artifacts.application.label_": "Discover",
+    "kbn.server.tutorials.kibanaMetrics.artifacts.application.label": "发现",
+
+    "kbn.advancedSettings.dateFormat.timezoneText_": "Which timezone should be used. {defaultOption} will use the timezone detected by your browser.",
+    "kbn.advancedSettings.dateFormat.timezoneText": "应该使用哪个时区。{defaultOption}将使用浏览器检测到的时区。",
+
+    "kbn.server.tutorials.netflow.common.config.onPrem.windowsTitle_": "Edit the configuration",
+    "kbn.server.tutorials.netflow.common.config.onPrem.windowsTitle": "编辑配置",
+
+    "timelion.help.configuration.valid.paragraph1Part1_": "We validated your default index and your timefield and everything looks ok. We found data from {statsMin} to {statsMax}. You're probably all set. If this doesn't look right, see",
+    "timelion.help.configuration.valid.paragraph1Part1": "我们验证了您的默认索引和时间字段，一切正常。我们发现数据从{statsMin}到{statsMax}。你可能已经准备好了。如果这个看起来不正常，请看",
+
+    "tsvb.markdown.optionsTab.panelFilterLabel_": "Panel filter",
+    "tsvb.markdown.optionsTab.panelFilterLabel": "面板筛选器",
+
+    "tsvb.dataFormatPicker.fromLabel_": "From",
+    "tsvb.dataFormatPicker.fromLabel": "从",
+
+    "kbn.server.tutorials.netflow.tutorialLongDescription_": "The Logstash Netflow module collects and parses network flow data, indexes the events into Elasticsearch, and installs a suite of Kibana dashboards. This module support Netflow Version 5 and 9. [Learn more]({linkUrl}).",
+    "kbn.server.tutorials.netflow.tutorialLongDescription": "Logstash Netflow模块收集和解析网络流数据，将事件索引到Elasticsearch，并安装一套Kibana仪表板。此模块支持NetFlow版本5和9。[了解更多信息]({linkUrl})。",
+
+    "kbn.common.tutorials.metricbeatInstructions.config.debTextPre_": "Modify {path} to set the connection information:",
+    "kbn.common.tutorials.metricbeatInstructions.config.debTextPre": "修改{path}以设置连接信息：",
+
+    "kbn.common.tutorials.metricbeatEnableInstructions.windowsTextPre_": "From the {path} folder, run:",
+    "kbn.common.tutorials.metricbeatEnableInstructions.windowsTextPre": "从{path}文件夹中，运行：",
+
+    "kbn.advancedSettings.defaultColumnsTitle_": "Default columns",
+    "kbn.advancedSettings.defaultColumnsTitle": "默认列",
+
+    "tsvb.topHit.aggWithOptions.averageLabel_": "Avg",
+    "tsvb.topHit.aggWithOptions.averageLabel": "平均",
+
+    "kbn.common.tutorials.filebeatInstructions.plugins.geoipTextPre_": "This module requires two Elasticsearch plugins that are not installed by default.\n\nFrom the Elasticsearch installation folder, run:",
+    "kbn.common.tutorials.filebeatInstructions.plugins.geoipTextPre": "此模块需要两个默认情况下未安装的Elasticsearch插件。",
+
+    "timelion.serverSideErrors.holtFunction.missingParamsErrorMessage_": "Must specify a season length and a sample size >= 2",
+    "timelion.serverSideErrors.holtFunction.missingParamsErrorMessage": "必须指定时期长度和样本大小 >= 2",
+
+    "kbn.server.tutorials.couchbaseMetrics.longDescription_": "The `couchbase` Metricbeat module fetches internal metrics from Couchbase. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.couchbaseMetrics.longDescription": "`couchbase` Metricbeat模块从Couchbase获取内部指标。[了解更多信息]({learnMoreLink})。",
+
+    "kbn.server.tutorials.apm.flaskClient.configure.commands.initializeUsingEnvironmentVariablesComment_": "initialize using environment variables",
+    "kbn.server.tutorials.apm.flaskClient.configure.commands.initializeUsingEnvironmentVariablesComment": "使用环境变量初始化",
+
+    "tsvb.calculation.aggregationLabel_": "Aggregation",
+    "tsvb.calculation.aggregationLabel": "聚合",
+
+    "kbn.common.tutorials.heartbeatInstructions.config.debTextPre_": "Modify {path} to set the connection information:",
+    "kbn.common.tutorials.heartbeatInstructions.config.debTextPre": "修改{path}以设置连接信息：",
+
+    "kbn.common.tutorials.functionbeatCloudInstructions.config.windowsTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.functionbeatCloudInstructions.config.windowsTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "kbn.common.tutorials.filebeatCloudInstructions.config.windowsTextPost_": "Where {passwordTemplate} is the password of the `elastic` user.",
+    "kbn.common.tutorials.filebeatCloudInstructions.config.windowsTextPost": "其中{passwordTemplate}是`elastic`用户的密码。",
+
+    "metricVis.metricTitle_": "Metric",
+    "metricVis.metricTitle": "指标",
+
+    "kbnVislibVisTypes.editors.heatmap.basicSettingsTitle_": "Basic Settings",
+    "kbnVislibVisTypes.editors.heatmap.basicSettingsTitle": "基本设置",
+
+    "kbn.server.tutorials.kubernetesMetrics.shortDescription_": "Fetch metrics from your Kubernetes installation.",
+    "kbn.server.tutorials.kubernetesMetrics.shortDescription": "从您的Kubernetes安装中获取指标。",
+
+    "timelion.help.functions.movingstd.args.windowHelpText_": "Number of points to compute the standard deviation over.",
+    "timelion.help.functions.movingstd.args.windowHelpText": "计算标准偏差的点数。",
+
+    "kbn.common.tutorials.metricbeatEnableInstructions.osxTextPre_": "From the installation directory, run:",
+    "kbn.common.tutorials.metricbeatEnableInstructions.osxTextPre": "从安装目录，运行：",
+
+    "tsvb.aggSelect.pipelineAggs.movingAverageLabel_": "Moving Average",
+    "tsvb.aggSelect.pipelineAggs.movingAverageLabel": "移动平均线",
+
+    "tsvb.movingAverage.settingsDescription_": "{keyValue} space-delimited",
+    "tsvb.movingAverage.settingsDescription": "{keyValue} 空格分隔",
+
+    "kbn.server.tutorials.nginxMetrics.shortDescription_": "Fetch internal metrics from the Nginx HTTP server.",
+    "kbn.server.tutorials.nginxMetrics.shortDescription": "从Nginx HTTP服务器获取内部指标。",
+
+    "tsvb.topHit.aggWithOptions.minLabel_": "Min",
+    "tsvb.topHit.aggWithOptions.minLabel": "最小",
+
+    "core.fatalErrors.goBackButtonLabel_": "Go back",
+    "core.fatalErrors.goBackButtonLabel": "返回",
+
+    "vega.esQueryParser.unknownUnitValueErrorMessage_": "Unknown {unitParamName} value. Must be one of: [{unitParamValues}]",
+    "vega.esQueryParser.unknownUnitValueErrorMessage": "未知的{unitParamName}值。必须是以下值之一：[{unitParamValues}]",
+
+    "kbn.common.tutorials.heartbeatInstructions.install.debTextPre_": "First time using Heartbeat? See the [Getting Started Guide]({link}).",
+    "kbn.common.tutorials.heartbeatInstructions.install.debTextPre": "第一次使用Heartbeat？请参阅[入门指南]({link})。",
+
+    "kbn.server.tutorials.systemMetrics.nameTitle_": "System metrics",
+    "kbn.server.tutorials.systemMetrics.nameTitle": "系统指标",
+
+    "tsvb.calculateLabel.bucketScriptsLabel_": "Bucket Script",
+    "tsvb.calculateLabel.bucketScriptsLabel": "桶脚本",
+
+    "kbn.common.tutorials.filebeatInstructions.install.osxTitle_": "Download and install Filebeat",
+    "kbn.common.tutorials.filebeatInstructions.install.osxTitle": "下载并安装Filebeat",
+
+    "timelion.help.functions.static.args.labelHelpText_": "A quick way to set the label for the series. You could also use the .label() function",
+    "timelion.help.functions.static.args.labelHelpText": "为系列设置标签的快速方法。还可以使用.label()函数",
+
+    "tsvb.aggSelect.pipelineAggs.bucketScriptLabel_": "Bucket Script",
+    "tsvb.aggSelect.pipelineAggs.bucketScriptLabel": "桶脚本",
+
+    "kbn.dashboard.listing.createNewDashboardButtonLabel_": "Create new dashboard",
+    "kbn.dashboard.listing.createNewDashboardButtonLabel": "创建新的仪表板",
+
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.osxTitle_": "Edit the configuration",
+    "kbn.common.tutorials.metricbeatCloudInstructions.config.osxTitle": "编辑配置",
+
+    "tsvb.table.dataTab.columnLabel_": "Column label",
+    "tsvb.table.dataTab.columnLabel": "列标签",
+
+    "timelion.help.functions.es.args.intervalHelpText_": "**DO NOT USE THIS**. It's fun for debugging fit functions, but you really should use the interval picker",
+    "timelion.help.functions.es.args.intervalHelpText": "**不要使用这个**。调试适应函数很有趣，但是您确实应该使用间隔选择器",
+
+    "tsvb.markdownEditor.valueLabel_": "Value",
+    "tsvb.markdownEditor.valueLabel": "值",
+
+    "interpreter.functions.input_control.help_": "Input control visualization",
+    "interpreter.functions.input_control.help": "输入控件可视化视图",
+
+    "tsvb.percentileRank.valueLabel_": "Value",
+    "tsvb.percentileRank.valueLabel": "值",
+
+    "kbn.common.tutorials.metricbeatInstructions.install.windowsTitle_": "Download and install Metricbeat",
+    "kbn.common.tutorials.metricbeatInstructions.install.windowsTitle": "下载并安装Metricbeat",
+
+    "timelion.help.configuration.valid.timeRangeText_": "Use the timepicker in the Kibana toolbar to select the time period that contains the data you want to visualize. Make sure you select a time period that includes all or part of the time range shown above.",
+    "timelion.help.configuration.valid.timeRangeText": "使用Kibana工具栏中的时间选择器选择包含要可视化数据的时间段。确保您选择的时间段包括上面显示的全部或部分时间范围。",
+
+    "kbn.common.tutorials.functionbeatInstructions.config.osxTextPost_": "Where {passwordTemplate} is the password of the `elastic` user, {esUrlTemplate} is the URL of Elasticsearch, and {kibanaUrlTemplate} is the URL of Kibana.",
+    "kbn.common.tutorials.functionbeatInstructions.config.osxTextPost": "其中{passwordTemplate} 是`elastic`用户的密码，{esUrlTemplate}是Elasticsearch的URL，{kibanaUrlTemplate}是Kibana的URL。",
+
+    "timelion.help.functions.legend.args.position.suggestions.seHelpText_": "place legend in south east corner",
+    "timelion.help.functions.legend.args.position.suggestions.seHelpText": "在东南角放置图例",
+
+    "tsvb.topN.optionsTab.itemUrlDescription_": "This supports mustache templating. {key} is set to the term.",
+    "tsvb.topN.optionsTab.itemUrlDescription": "这个支持须模板。{key}设置为条件。",
+
+    "vega.esQueryParser.dataUrlMustNotHaveLegacyAndBodyQueryValuesAtTheSameTimeErrorMessage_": "{dataUrlParam} must not have legacy {legacyContext} and {bodyQueryConfigName} values at the same time",
+    "vega.esQueryParser.dataUrlMustNotHaveLegacyAndBodyQueryValuesAtTheSameTimeErrorMessage": "{dataUrlParam}不得同时具有{legacyContext}和{bodyQueryConfigName}值",
+
+    "kbn.common.tutorials.heartbeatEnableCloudInstructions.rpmTextPre_": "Edit the `heartbeat.monitors` setting in the `heartbeat.yml` file.",
+    "kbn.common.tutorials.heartbeatEnableCloudInstructions.rpmTextPre": "编辑`heartbeat.yml`文件中的`heartbeat.monitors`设置。",
+
+    "kbn.advancedSettings.maxBucketsText_": "The maximum number of buckets a single datasource can return",
+    "kbn.advancedSettings.maxBucketsText": "单个数据源可以返回的最大桶数",
+
+    "timelion.uiSettings.targetBucketsDescription_": "The number of buckets to shoot for when using auto intervals",
+    "timelion.uiSettings.targetBucketsDescription": "使用自动间隔时要拍摄的桶数",
+
+    "tileMap.wmsOptions.wmsDescription_": "WMS is an OGC standard for map image services. For more information, go {wmsLink}.",
+    "tileMap.wmsOptions.wmsDescription": "WMS是地图图像服务的OGC标准。有关详细信息，请访问{wmsLink}。",
+
+    "tsvb.iconSelect.mapPinLabel_": "Map Pin",
+    "tsvb.iconSelect.mapPinLabel": "地图指针",
+
+    "kbnVislibVisTypes.heatmap.groupTitle_": "Y-Axis",
+    "kbnVislibVisTypes.heatmap.groupTitle": "Y轴",
+
+    "timelion.help.expressions.functionReferenceLinkText_": "Function reference",
+    "timelion.help.expressions.functionReferenceLinkText": "函数引用",
+
+    "kbn.server.tutorials.memcachedMetrics.longDescription_": "The `memcached` Metricbeat module fetches internal metrics from Memcached. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.memcachedMetrics.longDescription": "`memcached` Metricbeat模块从Memcached获取内部指标。[了解更多信息]({learnMoreLink})。",
+
+    "timelion.help.functions.range.args.maxHelpText_": "New maximum value",
+    "timelion.help.functions.range.args.maxHelpText": "新的最大值",
+
+    "vega.urlParser.dataUrlRequiresUrlParameterInFormErrorMessage_": "{dataUrlParam} requires a {urlParam} parameter in a form \"{formLink}\"",
+    "vega.urlParser.dataUrlRequiresUrlParameterInFormErrorMessage": "{dataUrlParam}需要一个窗体 \"{formLink}\"中的{urlParam}参数",
+
+    "tsvb.durationOptions.minutesLabel_": "minutes",
+    "tsvb.durationOptions.minutesLabel": "分钟",
+
+    "tsvb.percentileRank.fieldLabel_": "Field",
+    "tsvb.percentileRank.fieldLabel": "字段",
+
+    "kbn.dashboard.panel.removePanel.displayName_": "Delete from dashboard",
+    "kbn.dashboard.panel.removePanel.displayName": "从仪表板中删除",
+
+    "kbn.common.tutorials.heartbeatEnableCloudInstructions.osxTextPre_": "Edit the `heartbeat.monitors` setting in the `heartbeat.yml` file.",
+    "kbn.common.tutorials.heartbeatEnableCloudInstructions.osxTextPre": "编辑`heartbeat.yml`文件中的`heartbeat.monitors`设置。",
+
+    "metricVis.params.color.colorOptionsTitle_": "Color Options",
+    "metricVis.params.color.colorOptionsTitle": "颜色选项",
+
+    "markdownVis.params.openLinksLabel_": "Open links in new tab",
+    "markdownVis.params.openLinksLabel": "在新选项卡中打开链接",
+
+    "kbn.common.tutorials.filebeatInstructions.install.windowsTitle_": "Download and install Filebeat",
+    "kbn.common.tutorials.filebeatInstructions.install.windowsTitle": "下载并安装Filebeat",
+
+    "kbn.home.sampleDataSetCard.removingButtonLabel_": "Removing",
+    "kbn.home.sampleDataSetCard.removingButtonLabel": "删除中",
+
+    "kbn.common.tutorials.functionbeatInstructions.install.osxTitle_": "Download and install Functionbeat",
+    "kbn.common.tutorials.functionbeatInstructions.install.osxTitle": "下载并安装Functionbeat",
+
+    "metricVis.schemas.metricTitle_": "Metric",
+    "metricVis.schemas.metricTitle": "指标",
+
+    "kbn.advancedSettings.savedObjects.listingLimitTitle_": "Objects listing limit",
+    "kbn.advancedSettings.savedObjects.listingLimitTitle": "对象列表限制",
+
+	"timelion.help.functions.legend.args.positionHelpText_": "Corner to place the legend in: nw, ne, se, or sw. You can also pass false to disable the legend",
+    "timelion.help.functions.legend.args.positionHelpText": "用于放置图例的角：nw、ne、se或sw。您还可以传递false以禁用图例",
+
+    "kbn.management.createIndexPattern.stepTimeLabel_": "You've defined {indexPattern} as your {indexPatternName}. Now you can specify some settings before we create it.",
+    "kbn.management.createIndexPattern.stepTimeLabel": "您已经将{indexPattern}定义为{indexPatternName}。现在您可以在创建之前指定一些设置。",
+
+    "kbn.home.sampleDataSetCard.addingButtonLabel_": "Adding",
+    "kbn.home.sampleDataSetCard.addingButtonLabel": "添加",
+
+    "timelion.help.functions.trend.args.modeHelpText_": "The algorithm to use for generating the trend line. One of: {validRegressions}",
+    "timelion.help.functions.trend.args.modeHelpText": "用于生成趋势线的算法。其中之一：{validRegressions}",
+
+    "tsvb.seriesAgg.functionOptions.overallMinLabel_": "Overall Min",
+    "tsvb.seriesAgg.functionOptions.overallMinLabel": "总最小值",
+
+    "tsvb.aggSelect.metricsAggs.percentileRankLabel_": "Percentile Rank",
+    "tsvb.aggSelect.metricsAggs.percentileRankLabel": "百分等级",
+
+    "kbn.server.tutorials.awsMetrics.artifacts.dashboards.linkLabel_": "AWS metrics dashboard",
+    "kbn.server.tutorials.awsMetrics.artifacts.dashboards.linkLabel": "AWS指标仪表盘",
+
+    "kbn.advancedSettings.discover.sortDefaultOrderText_": "Controls the default sort direction for time based index patterns in the Discover app.",
+    "kbn.advancedSettings.discover.sortDefaultOrderText": "控制'发现'应用程序中基于时间的索引规则的默认排序方向。",
+
+    "kbn.advancedSettings.format.bytesFormatTitle_": "Bytes format",
+    "kbn.advancedSettings.format.bytesFormatTitle": "字节格式",
+
+    "timelion.help.functions.sum.args.termHelpText_": "Number or series to sum with the input series. SeriesList with multiple series will be applied label-wise.",
+    "timelion.help.functions.sum.args.termHelpText": "与输入序列求和的数字或序列。具有多个序列的序列列表将按标签应用。",
+
+    "kbn.common.tutorials.metricbeatInstructions.config.debTitle_": "Edit the configuration",
+    "kbn.common.tutorials.metricbeatInstructions.config.debTitle": "编辑配置",
+
+    "kbnVislibVisTypes.gauge.gaugeDescription_": "Gauges indicate the status of a metric. Use it to show how a metric's value relates to reference threshold values.",
+    "kbnVislibVisTypes.gauge.gaugeDescription": "仪表指示指标的状态。使用它来显示指标值与参考阈值的关系。",
+
+    "kbn.dashboard.topNave.shareConfigDescription_": "Share Dashboard",
+    "kbn.dashboard.topNave.shareConfigDescription": "分享仪表板",
+
+    "kbnVislibVisTypes.histogram.radiusTitle_": "Dot Size",
+    "kbnVislibVisTypes.histogram.radiusTitle": "圆点大小",
+
+    "kbn.common.tutorials.filebeatEnableInstructions.rpmTextPost_": "Modify the settings in the `/etc/filebeat/modules.d/{moduleName}.yml` file.",
+    "kbn.common.tutorials.filebeatEnableInstructions.rpmTextPost": "修改`/etc/filebeat/modules.d/{moduleName}.yml` 文件中的设置。",
+
+    "kbn.advancedSettings.visualization.loadingDelayTitle_": "Loading delay",
+    "kbn.advancedSettings.visualization.loadingDelayTitle": "加载延迟",
+
+    "kbn.dashboard.topNave.editButtonAriaLabel_": "edit",
+    "kbn.dashboard.topNave.editButtonAriaLabel": "编辑",
+
+    "kbn.common.tutorials.metricbeat.premCloudInstructions.gettingStarted.title_": "Getting Started",
+    "kbn.common.tutorials.metricbeat.premCloudInstructions.gettingStarted.title": "开始使用",
+
+    "kbn.devToolsDescription_": "development tools",
+    "kbn.devToolsDescription": "开发工具",
+
+    "timelion.topNavMenu.options.columnsCountLabel_": "Columns (Column count must divide evenly into 12)",
+    "timelion.topNavMenu.options.columnsCountLabel": "列 (列计数必须平均分为 12)",
+
+    "kbn.management.createIndexPattern.step.status.successLabel.strongSuccessLabel_": "Success!",
+    "kbn.management.createIndexPattern.step.status.successLabel.strongSuccessLabel": "成功！",
+
+    "kbn.server.tutorials.vsphereMetrics.longDescription_": "The `vsphere` Metricbeat module fetches internal metrics from a vSphere cluster. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.vsphereMetrics.longDescription": "`vsphere` Metricbeat模块从vSphere集群获取内部指标。[了解更多信息]({learnMoreLink})。",
+
+    "kbn.common.tutorials.logstashInstructions.install.logstash.windowsTitle_": "Download and install Logstash",
+    "kbn.common.tutorials.logstashInstructions.install.logstash.windowsTitle": "下载并安装Logstash",
+
+    "kbn.common.tutorials.metricbeatInstructions.start.debTextPre_": "The `setup` command loads the Kibana dashboards. If the dashboards are already set up, omit this command.",
+    "kbn.common.tutorials.metricbeatInstructions.start.debTextPre": "`setup`命令加载Kibana仪表板。如果已经设置了仪表板，则忽略此命令。",
+
+    "tsvb.percentileRank.aggregationLabel_": "Aggregation",
+    "tsvb.percentileRank.aggregationLabel": "聚合",
+
+    "kbn.dashboard.savedDashboardsTitle_": "dashboards",
+    "kbn.dashboard.savedDashboardsTitle": "仪表板",
+
+    "kbn.home.sampleDataSetCard.default.addButtonLabel_": "Add data",
+    "kbn.home.sampleDataSetCard.default.addButtonLabel": "添加数据",
+
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.hideAdvancedOptionsLabel_": "Hide Advanced Options",
+    "kbnVislibVisTypes.controls.pointSeries.valueAxes.hideAdvancedOptionsLabel": "隐藏高级选项",
+
+    "tsvb.markdownEditor.howUseVariablesInMarkdownDescription.documentationLinkText_": "Click here for documentation",
+    "tsvb.markdownEditor.howUseVariablesInMarkdownDescription.documentationLinkText": "单击此处获取文档",
+
+    "tsvb.seriesAgg.aggregationLabel_": "Aggregation",
+    "tsvb.seriesAgg.aggregationLabel": "聚合",
+
+    "kbn.server.tutorials.netflow.common.config.onPremElasticCloud.windowsTitle_": "Edit the configuration",
+    "kbn.server.tutorials.netflow.common.config.onPremElasticCloud.windowsTitle": "编辑配置",
+
+    "kbn.common.tutorials.filebeatCloudInstructions.config.osxTextPre_": "Modify {path} to set the connection information for Elastic Cloud:",
+    "kbn.common.tutorials.filebeatCloudInstructions.config.osxTextPre": "修改{path}设置Elastic云的连接信息：",
+
+    "kbn.advancedSettings.notifications.infoLifetimeText_": "The time in milliseconds which an information notification will be displayed on-screen for. Setting to {infinityValue} will disable.",
+    "kbn.advancedSettings.notifications.infoLifetimeText": "屏幕上显示信息通知的时间（以毫秒计）。设置为{infinityValue}将禁用。",
+
+    "kbn.server.tutorials.mysqlMetrics.longDescription_": "The `mysql` Metricbeat module fetches internal metrics from the MySQL server. [Learn more]({learnMoreLink}).",
+    "kbn.server.tutorials.mysqlMetrics.longDescription": "`mysql` Metricbeat模块从MySQL服务器获取内部指标。[了解更多信息]({learnMoreLink})。",
+
+    "kbn.dashboard.topNav.cloneModal.cancelButtonLabel_": "Cancel",
+    "kbn.dashboard.topNav.cloneModal.cancelButtonLabel": "取消",
+
+    "kbn.common.tutorials.filebeatStatusCheck.errorText_": "No data has been received from this module yet",
+    "kbn.common.tutorials.filebeatStatusCheck.errorText": "尚未收到来自此模块的数据",
+
+    "tsvb.durationOptions.millisecondsLabel_": "milliseconds",
+    "tsvb.durationOptions.millisecondsLabel": "毫秒",
+
+    "kbn.server.tutorials.redisMetrics.shortDescription_": "Fetch internal metrics from Redis.",
+    "kbn.server.tutorials.redisMetrics.shortDescription": "从Redis获取内部指标。",
+
+    "tsvb.splits.terms.directionLabel_": "Direction",
+    "tsvb.splits.terms.directionLabel": "向导",
+
+    "kbn.dashboard.listing.createNewDashboard.combineDataViewFromKibanaAppDescription_": "You can combine data views from any Kibana app into one dashboard and see everything in one place.",
+    "kbn.dashboard.listing.createNewDashboard.combineDataViewFromKibanaAppDescription": "您可以将任何Kibana应用程序的数据视图组合到一个仪表板中，并在一个位置查看所有内容。",
+
+    "kbn.advancedSettings.query.queryStringOptionsTitle_": "Query string options",
+    "kbn.advancedSettings.query.queryStringOptionsTitle": "查询字串选项",
+
+    "kbn.home.tutorial.unexpectedStatusCheckStateErrorDescription_": "Unexpected status check state {statusCheckState}",
+    "kbn.home.tutorial.unexpectedStatusCheckStateErrorDescription": "意外状态检查状态 {statusCheckState}",
+
+    "kbn.advancedSettings.savedObjects.listingLimitText_": "Number of objects to fetch for the listing pages",
+    "kbn.advancedSettings.savedObjects.listingLimitText": "要为列表页提取的对象数",
+
+    "timelion.help.functions.minHelpText_": "Minimum values of one or more series in a seriesList to each position, in each series, of the input seriesList",
+    "timelion.help.functions.minHelpText": "序列列表中一个或多个序列到输入序列列表中每个位置的最小值",
+
+    "tsvb.calculateLabel.lookupMetricTypeOfTargetLabel_": "{lookupMetricType} of {targetLabel}",
+    "tsvb.calculateLabel.lookupMetricTypeOfTargetLabel": "{lookupMetricType} - {targetLabel}",
+
     "xpack.spaces.displayName_": "Spaces",
     "xpack.spaces.displayName": "空间"
   }
