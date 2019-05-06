@@ -23,9 +23,6 @@
 有问题请邮件联系：redfree#anbai.com (#=@)
 ```
 
-> **如果您觉得此项目对您有用，不妨微信打赏作者一个小红包，您的支持是我前进最大的动力。**
-
-![](https://github.com/anbai-inc/Kibana_Hanization/blob/master/images/wechat.png)
 
 
 ### 三、汉化效果：
